@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Architect V2.0 | ps2.pilani</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet" />
+    
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "surface": "#060e20",
+                        "surface-container-lowest": "#000000",
+                        "surface-container-low": "#091328",
+                        "surface-container-high": "#141f38",
+                        "surface-container-highest": "#192540",
+                        "on-surface": "#dee5ff",
+                        "on-surface-variant": "#a3aac4",
+                        "outline": "#6d758c",
+                        "outline-variant": "#40485d",
+                        "primary": "#a3a6ff",
+                        "primary-dim": "#6063ee",
+                        "on-primary": "#0f00a4",
+                        "secondary": "#a28efc",
+                        "tertiary": "#ffa5d9"
+                    },
+                    fontFamily: {
+                        "headline": ["Inter"],
+                        "body": ["Inter"],
+                        "label": ["Inter"]
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <style>
+        body { 
+            font-family: 'Inter', sans-serif; 
+            background-color: #060e20; 
+            -webkit-tap-highlight-color: transparent;
+        }
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        
+        .architect-glow {
+            box-shadow: 0 0 20px 0 rgba(163, 166, 255, 0.05);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .architect-glow:hover {
+            box-shadow: 0 0 25px 0 rgba(163, 166, 255, 0.15);
+        }
+        
+        .architect-input {
+            background-color: #192540;
+            border: none;
+            border-bottom: 1px solid rgba(109, 117, 140, 0.3);
+            transition: all 0.2s ease;
+            color: #dee5ff;
+        }
+        .architect-input:focus {
+            outline: none;
+            border-bottom: 2px solid #a3a6ff;
+            box-shadow: 0 4px 15px -3px rgba(163, 166, 255, 0.1);
+        }
+        
+        select.architect-input {
+            background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236d758c' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e");
+            background-position: right 0.5rem center;
+            background-repeat: no-repeat;
+            background-size: 1.5em 1.5em;
+            padding-right: 2.5rem;
+        }
+
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+        .scatter-point { filter: drop-shadow(0 0 4px currentColor); }
+        
+        .view-section { display: none; animation: fadeIn 0.4s ease forwards; }
+        .view-section.active { display: block; }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        /* Table Scroll styling */
+        .table-container {
+            overflow-y: auto;
+        }
+        .table-container::-webkit-scrollbar {
+            width: 8px;
+        }
+        .table-container::-webkit-scrollbar-track {
+            background: #091328;
+        }
+        .table-container::-webkit-scrollbar-thumb {
+            background: #40485d;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body class="bg-surface text-on-surface antialiased overflow-x-hidden selection:bg-primary/30 selection:text-primary">
+
+    <header class="lg:hidden fixed top-0 left-0 right-0 h-16 bg-[#060e20]/90 backdrop-blur-md border-b border-outline-variant/10 z-50 flex items-center justify-between px-6">
+        <h1 class="text-xl font-black text-primary tracking-tighter uppercase">ps2.pilani</h1>
+        <div class="flex items-center gap-2" id="sync-status-mobile">
+            <span class="w-2 h-2 rounded-full bg-tertiary animate-pulse shadow-[0_0_8px_#ffa5d9]"></span>
+        </div>
+    </header>
+
+    <nav class="lg:hidden fixed bottom-0 left-0 right-0 h-16 bg-surface-container-high border-t border-outline-variant/20 z-50 flex items-center justify-around px-2 pb-safe shadow-[0_-4px_20px_rgba(0,0,0,0.5)]">
+        <a href="#" data-target="view-dashboard" class="nav-btn flex flex-col items-center justify-center w-full h-full text-primary transition-colors">
+            <span class="material-symbols-outlined text-[24px]">dashboard</span>
+            <span class="text-[10px] font-bold tracking-wider uppercase mt-1">Dashboard</span>
+        </a>
+        <a href="#" data-target="view-stations" class="nav-btn flex flex-col items-center justify-center w-full h-full text-outline hover:text-primary transition-colors">
+            <span class="material-symbols-outlined text-[24px]">analytics</span>
+            <span class="text-[10px] font-bold tracking-wider uppercase mt-1">Explorer</span>
+        </a>
+    </nav>
+
+    <aside class="hidden lg:flex h-screen w-64 fixed left-0 top-0 bg-[#060e20] flex-col py-8 px-4 shadow-[0_0_20px_0_rgba(163,166,255,0.05)] z-40">
+        <div class="mb-12 px-5">
+            <h1 class="text-2xl font-black text-primary tracking-tighter uppercase">ps2.pilani</h1>
+            <p class="text-[10px] tracking-[0.05em] uppercase text-outline mt-1">by Pratyush Goenka</p>
+        </div>
+        
+        <nav class="flex flex-col gap-2 flex-grow">
+            <a href="#" data-target="view-dashboard" class="nav-btn flex items-center gap-3 py-3 font-bold border-l-4 pl-4 transition-all duration-200 border-primary text-primary bg-surface-container-high/40">
+                <span class="material-symbols-outlined">dashboard</span>
+                <span class="tracking-tight text-sm uppercase">Dashboard</span>
+            </a>
+            
+            <a href="#" data-target="view-stations" class="nav-btn flex items-center gap-3 py-3 text-outline pl-5 border-l-4 border-transparent transition-all duration-200 hover:bg-surface-container-high/20 hover:text-primary">
+                <span class="material-symbols-outlined">analytics</span>
+                <span class="tracking-tight text-sm uppercase">Stations Explorer</span>
+            </a>
+        </nav>
+
+        <div class="px-5 mt-auto">
+            <div class="p-4 bg-surface-container-low rounded-xl architect-glow border border-outline-variant/10">
+                <p class="text-[10px] uppercase tracking-widest text-outline mb-2">System Status</p>
+                <div class="flex items-center gap-2" id="sync-status">
+                    <span class="w-2 h-2 rounded-full bg-tertiary animate-pulse shadow-[0_0_8px_#ffa5d9]"></span>
+                    <span class="text-xs font-medium text-tertiary" id="sync-status-text">Connecting Data...</span>
+                </div>
+            </div>
+        </div>
+    </aside>
+
+    <main class="lg:ml-64 min-h-screen pt-24 pb-24 px-4 sm:px-8 lg:p-12 lg:pb-12">
+        
+        <section id="view-dashboard" class="view-section active">
+            <header class="mb-8 lg:mb-12 border-b border-outline-variant/10 pb-6 flex items-end justify-between">
+                <div>
+                    <span class="text-[10px] lg:text-[11px] font-bold tracking-[0.2em] uppercase text-tertiary mb-2 block">System Status: Optimal</span>
+                    <h2 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tighter text-on-surface">Architectural Overview.</h2>
+                </div>
+                <div class="text-right hidden md:block">
+                    <p class="text-[11px] uppercase tracking-[0.05em] text-outline">Current Cycle</p>
+                    <p class="text-xl lg:text-2xl font-bold text-primary">PS2 | 2024-25</p>
+                </div>
+            </header>
+
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+                <div class="lg:col-span-8 space-y-8">
+                    
+                    <div class="group">
+                        <div class="flex items-center gap-3 mb-4 lg:mb-6">
+                            <div class="h-[1px] w-8 bg-primary"></div>
+                            <h3 class="text-[11px] lg:text-sm uppercase tracking-[0.1em] text-on-surface-variant font-bold">Category 01: Global (With TRC)</h3>
+                        </div>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-3 lg:gap-4">
+                            <div class="bg-surface-container-low p-4 lg:p-6 rounded-xl architect-glow border-b border-transparent hover:border-primary/40 transition-all duration-300">
+                                <p class="text-[9px] lg:text-[10px] uppercase tracking-wider text-outline mb-1">Total Allotments</p>
+                                <p id="cat1-total" class="text-2xl lg:text-3xl font-black text-on-surface">--</p>
+                            </div>
+                            <div class="bg-surface-container-low p-4 lg:p-6 rounded-xl architect-glow border-b border-transparent hover:border-primary/40 transition-all duration-300">
+                                <p class="text-[9px] lg:text-[10px] uppercase tracking-wider text-outline mb-1">Avg Stipend</p>
+                                <p id="cat1-avg" class="text-2xl lg:text-3xl font-black text-on-surface">--</p>
+                            </div>
+                            <div class="bg-surface-container-low p-4 lg:p-6 rounded-xl architect-glow border-b border-transparent hover:border-primary/40 transition-all duration-300">
+                                <p class="text-[9px] lg:text-[10px] uppercase tracking-wider text-outline mb-1">Highest Stipend</p>
+                                <p id="cat1-high" class="text-2xl lg:text-3xl font-black text-primary">--</p>
+                            </div>
+                            <div class="bg-surface-container-low p-4 lg:p-6 rounded-xl architect-glow border-b border-transparent hover:border-primary/40 transition-all duration-300">
+                                <p class="text-[9px] lg:text-[10px] uppercase tracking-wider text-outline mb-1">Mean CGPA</p>
+                                <p id="cat1-cgpa" class="text-2xl lg:text-3xl font-black text-tertiary">--</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="group">
+                        <div class="flex items-center gap-3 mb-4 lg:mb-6">
+                            <div class="h-[1px] w-8 bg-secondary"></div>
+                            <h3 class="text-[11px] lg:text-sm uppercase tracking-[0.1em] text-on-surface-variant font-bold">Category 02: Adjusted (No TRC)</h3>
+                        </div>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-3 lg:gap-4">
+                            <div class="bg-surface-container-low p-4 lg:p-6 rounded-xl architect-glow border-b border-transparent hover:border-secondary/40 transition-all duration-300">
+                                <p class="text-[9px] lg:text-[10px] uppercase tracking-wider text-outline mb-1">Total Allotments</p>
+                                <p id="cat2-total" class="text-2xl lg:text-3xl font-black text-on-surface">--</p>
+                            </div>
+                            <div class="bg-surface-container-low p-4 lg:p-6 rounded-xl architect-glow border-b border-transparent hover:border-secondary/40 transition-all duration-300">
+                                <p class="text-[9px] lg:text-[10px] uppercase tracking-wider text-outline mb-1">Avg Stipend</p>
+                                <p id="cat2-avg" class="text-2xl lg:text-3xl font-black text-on-surface">--</p>
+                            </div>
+                            <div class="bg-surface-container-low p-4 lg:p-6 rounded-xl architect-glow border-b border-transparent hover:border-secondary/40 transition-all duration-300">
+                                <p class="text-[9px] lg:text-[10px] uppercase tracking-wider text-outline mb-1">Highest Stipend</p>
+                                <p id="cat2-high" class="text-2xl lg:text-3xl font-black text-secondary">--</p>
+                            </div>
+                            <div class="bg-surface-container-low p-4 lg:p-6 rounded-xl architect-glow border-b border-transparent hover:border-secondary/40 transition-all duration-300">
+                                <p class="text-[9px] lg:text-[10px] uppercase tracking-wider text-outline mb-1">Mean CGPA</p>
+                                <p id="cat2-cgpa" class="text-2xl lg:text-3xl font-black text-tertiary">--</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-surface-container-high rounded-xl p-4 sm:p-6 lg:p-8 relative overflow-hidden group architect-glow border border-outline-variant/10 mt-8">
+                        <div class="flex flex-col sm:flex-row justify-between sm:items-start mb-6 relative z-10 gap-4">
+                            <div>
+                                <h4 class="text-lg lg:text-xl font-bold text-on-surface leading-tight mb-1">CGPA vs Stipend Topology</h4>
+                                <p class="text-on-surface-variant text-xs lg:text-sm max-w-md">Scatter mapping of compensation tiers against academic performance metrics.</p>
+                            </div>
+                            <div class="flex flex-row sm:flex-col items-start gap-2 text-[9px] lg:text-[10px] uppercase tracking-widest font-bold">
+                                <div class="flex items-center gap-2">
+                                    <div class="w-2 h-2 rounded-full bg-primary"></div>
+                                    <span>TRC Outliers</span>
+                                </div>
+                                <div class="flex items-center gap-2">
+                                    <div class="w-2 h-2 rounded-full bg-secondary opacity-60"></div>
+                                    <span>Standard</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="h-48 lg:h-64 w-full relative z-10 flex items-end">
+                            <div class="flex flex-col justify-between h-full text-[8px] lg:text-[9px] text-outline pr-2 lg:pr-4 font-mono uppercase">
+                                <span>3.0L+</span><span>2.0L</span><span>1.0L</span><span>0.5L</span><span>0</span>
+                            </div>
+                            <div class="flex-grow h-full relative border-l border-b border-outline-variant/20">
+                                <div class="absolute inset-0 grid grid-rows-4">
+                                    <div class="border-t border-outline-variant/5"></div>
+                                    <div class="border-t border-outline-variant/5"></div>
+                                    <div class="border-t border-outline-variant/5"></div>
+                                    <div class="border-t border-outline-variant/5"></div>
+                                </div>
+                                <div id="scatter-container" class="absolute inset-0 p-2 lg:p-4 relative">
+                                    </div>
+                                <div class="absolute -bottom-6 inset-x-0 flex justify-between px-2 lg:px-4 text-[8px] lg:text-[9px] text-outline font-mono uppercase">
+                                    <span>4.0</span><span>5.0</span><span>6.0</span><span>7.0</span><span>8.0</span><span>9.0</span><span>10.0</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="lg:col-span-4 h-full">
+                    <div class="bg-surface-container-low rounded-xl architect-glow border border-outline-variant/10 p-4 lg:p-6 h-full flex flex-col lg:max-h-[850px]">
+                        <div class="flex items-center justify-between mb-4 lg:mb-6 flex-shrink-0">
+                            <h3 class="text-xs lg:text-sm uppercase tracking-[0.15em] font-black text-on-surface">Top Packages</h3>
+                            <span class="material-symbols-outlined text-primary text-sm lg:text-base">trending_up</span>
+                        </div>
+                        
+                        <div id="top-stations-list" class="space-y-3 lg:space-y-4 flex-grow overflow-y-auto no-scrollbar min-h-0 pr-2">
+                            </div>
+                        
+                        <div class="mt-4 pt-4 lg:mt-6 lg:pt-6 border-t border-outline-variant/10 flex-shrink-0">
+                            <button data-target="view-stations" class="nav-btn w-full group flex items-center justify-center gap-2 text-primary font-bold uppercase text-[10px] tracking-[0.2em] hover:tracking-[0.3em] transition-all">
+                                Explore Inventory
+                                <span class="material-symbols-outlined text-sm">arrow_forward</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="view-stations" class="view-section">
+            <header class="mb-8 lg:mb-12 border-b border-outline-variant/10 pb-6 flex flex-col lg:flex-row lg:items-end justify-between gap-4 lg:gap-8">
+                <div class="max-w-2xl">
+                    <span class="text-[10px] lg:text-[11px] font-bold tracking-[0.2em] uppercase text-primary mb-2 block">Data Interface</span>
+                    <h2 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-on-surface mb-2">Stations Explorer.</h2>
+                    <p class="text-on-surface-variant text-sm lg:text-lg">Inventory of all <span id="inventory-count" class="text-primary font-bold"></span> recorded PS2 allotments.</p>
+                </div>
+            </header>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-6 mb-6 lg:mb-8">
+                
+                <div class="relative group">
+                    <span class="absolute left-4 top-1/2 -translate-y-1/2 text-outline material-symbols-outlined text-lg">search</span>
+                    <input id="search-input" class="architect-input w-full text-base lg:text-sm py-3 lg:py-4 pl-12 pr-4" placeholder="Query Station Identifier..." type="text">
+                </div>
+
+                <div class="relative">
+                    <select id="branch-filter" class="architect-input w-full text-base lg:text-sm py-3 lg:py-4 px-4 appearance-none">
+                        <option value="ALL">Stream Allocation: All</option>
+                        </select>
+                </div>
+
+                <div class="relative group">
+                    <span class="absolute left-4 top-1/2 -translate-y-1/2 text-outline font-bold text-[10px] lg:text-xs tracking-wider uppercase">CGPA</span>
+                    <input id="cgpa-filter" class="architect-input w-full text-base lg:text-sm py-3 lg:py-4 pl-16 pr-4" placeholder="Enter CGPA for eligibility (e.g. 8.5)" type="number" step="0.01" min="0" max="10">
+                </div>
+
+                <div class="relative">
+                    <select id="sem-filter" class="architect-input w-full text-base lg:text-sm py-3 lg:py-4 px-4 appearance-none">
+                        <option value="ALL">Semester Matrix: All</option>
+                        <option value="S1">Semester 1 Only</option>
+                        <option value="S2">Semester 2 Only</option>
+                        <option value="BOTH">Stations offering Both</option>
+                    </select>
+                </div>
+
+                <div class="relative">
+                    <select id="stipend-filter" class="architect-input w-full text-base lg:text-sm py-3 lg:py-4 px-4 appearance-none">
+                        <option value="ALL">Compensation Tier: All</option>
+                        <option value="TIER1">Tier 1 (> ₹1.5L)</option>
+                        <option value="TIER2">Tier 2 (₹1.0L - ₹1.5L)</option>
+                        <option value="TIER3">Tier 3 (< ₹1.0L)</option>
+                    </select>
+                </div>
+
+                <div class="relative">
+                    <select id="sort-filter" class="architect-input w-full text-base lg:text-sm py-3 lg:py-4 px-4 appearance-none">
+                        <option value="DESC">Sort: Stipend (High to Low)</option>
+                        <option value="ASC">Sort: Stipend (Low to High)</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="bg-transparent lg:bg-surface-container-low lg:rounded-xl lg:border border-outline-variant/10 architect-glow">
+                <div class="table-container lg:max-h-[70vh]">
+                    <table class="w-full text-left border-collapse relative block lg:table">
+                        <thead class="hidden lg:table-header-group sticky top-0 bg-surface-container-highest shadow-md z-20">
+                            <tr>
+                                <th class="px-6 py-4 text-[10px] uppercase tracking-[0.1em] text-outline font-bold">Station Designation</th>
+                                <th class="px-6 py-4 text-[10px] uppercase tracking-[0.1em] text-outline font-bold">Stipend</th>
+                                <th class="px-6 py-4 text-[10px] uppercase tracking-[0.1em] text-outline font-bold">Cutoff CGPA</th>
+                                <th class="px-6 py-4 text-[10px] uppercase tracking-[0.1em] text-outline font-bold">Primary Branch</th>
+                                <th class="px-6 py-4 text-[10px] uppercase tracking-[0.1em] text-outline font-bold text-right">Sem Allocation</th>
+                            </tr>
+                        </thead>
+                        <tbody id="stations-table-body" class="block lg:table-row-group lg:divide-y divide-outline-variant/10">
+                            </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <footer class="mt-12 lg:mt-16 border-t border-outline-variant/10 pt-6 text-center lg:text-left">
+            <p class="text-[9px] lg:text-[10px] text-outline uppercase tracking-[0.4em]">Architecture V2.0 // by Pratyush Goenka</p>
+        </footer>
+    </main>
+
+    <script>
+        let rawData = [];
+
+        /**
+         * Safe CSV Parser Engine
+         */
+        const parseCSV = (rawCsv) => {
+            const cleanCsv = rawCsv.replace(/\r/g, '').trim();
+            const lines = cleanCsv.split('\n');
+            const data = [];
+
+            for (let i = 1; i < lines.length; i++) {
+                let line = lines[i].trim();
+                if (!line) continue;
+
+                const row = [];
+                let currentStr = '';
+                let inQuotes = false;
+
+                for (let char of line) {
+                    if (char === '"') {
+                        inQuotes = !inQuotes;
+                    } else if (char === ',' && !inQuotes) {
+                        row.push(currentStr.trim());
+                        currentStr = '';
+                    } else {
+                        currentStr += char;
+                    }
+                }
+                row.push(currentStr.trim());
+
+                let stipendRaw = row[3] || '0';
+                stipendRaw = stipendRaw.replace(/,/g, ''); 
+                const stipend = (stipendRaw === 'N/A' || isNaN(parseInt(stipendRaw))) ? 0 : parseInt(stipendRaw);
+                const cgpa = parseFloat(row[1]) || 0;
+                
+                if (cgpa > 0) {
+                    data.push({
+                        branch: row[0] || 'Unknown',
+                        cgpa: cgpa,
+                        company: row[2] ? row[2].replace(/^"|"$/g, '') : 'Unknown Station',
+                        stipend: stipend,
+                        s1: parseInt(row[4]) || 0,
+                        s2: parseInt(row[5]) || 0
+                    });
+                }
+            }
+            return data;
+        };
+        
+        const calculateStats = (dataArray) => {
+            const validStipends = dataArray.filter(d => d.stipend > 0).map(d => d.stipend);
+            const validCGPAs = dataArray.filter(d => d.cgpa > 0).map(d => d.cgpa);
+
+            return {
+                total: dataArray.length,
+                highStipend: validStipends.length ? Math.max(...validStipends) : 0,
+                avgStipend: validStipends.length ? (validStipends.reduce((a, b) => a + b, 0) / validStipends.length) : 0,
+                avgCgpa: validCGPAs.length ? (validCGPAs.reduce((a, b) => a + b, 0) / validCGPAs.length) : 0
+            };
+        };
+
+        const formatCurrency = (val) => {
+            if (!val || val === 0) return "Not Disclosed";
+            if (val >= 100000) return `₹${(val/100000).toFixed(2)}L`;
+            return `₹${(val/1000).toFixed(0)}K`;
+        };
+
+        // UI View Binding - Works for both Desktop Sidebar and Mobile Bottom Nav
+        const navBtns = document.querySelectorAll('.nav-btn');
+        const views = document.querySelectorAll('.view-section');
+
+        navBtns.forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.preventDefault();
+                const targetViewId = btn.getAttribute('data-target');
+                
+                // Update all nav buttons styling
+                navBtns.forEach(b => {
+                    // Reset Desktop styles
+                    b.classList.remove('border-primary', 'text-primary', 'bg-surface-container-high/40');
+                    b.classList.add('border-transparent', 'text-outline');
+                    
+                    // Specific override for Mobile Bottom Nav text
+                    if(b.parentElement.tagName === 'NAV' && b.parentElement.classList.contains('lg:hidden')) {
+                         b.classList.remove('text-primary');
+                         b.classList.add('text-outline');
+                    }
+                });
+
+                // Set Active styles based on all buttons that point to the target view
+                document.querySelectorAll(`.nav-btn[data-target="${targetViewId}"]`).forEach(activeBtn => {
+                    // Desktop styles
+                    activeBtn.classList.remove('border-transparent', 'text-outline');
+                    activeBtn.classList.add('border-primary', 'text-primary');
+                    
+                    // Only add background to sidebar buttons, not bottom nav
+                    if(activeBtn.parentElement.tagName !== 'NAV' || !activeBtn.parentElement.classList.contains('lg:hidden')) {
+                        activeBtn.classList.add('bg-surface-container-high/40');
+                    }
+                });
+
+                // Switch View
+                views.forEach(v => {
+                    v.classList.toggle('active', v.id === targetViewId);
+                });
+                
+                // Scroll to top on mobile view switch
+                window.scrollTo(0,0);
+            });
+        });
+
+        const initDashboard = () => {
+            const statsWithTrc = calculateStats(rawData);
+            const noTrcData = rawData.filter(d => !d.company.toLowerCase().includes('tower research'));
+            const statsNoTrc = calculateStats(noTrcData);
+
+            document.getElementById('cat1-total').innerText = statsWithTrc.total;
+            document.getElementById('cat1-avg').innerText = formatCurrency(statsWithTrc.avgStipend);
+            document.getElementById('cat1-high').innerText = formatCurrency(statsWithTrc.highStipend);
+            document.getElementById('cat1-cgpa').innerText = statsWithTrc.avgCgpa.toFixed(2);
+
+            document.getElementById('cat2-total').innerText = statsNoTrc.total;
+            document.getElementById('cat2-avg').innerText = formatCurrency(statsNoTrc.avgStipend);
+            document.getElementById('cat2-high').innerText = formatCurrency(statsNoTrc.highStipend);
+            document.getElementById('cat2-cgpa').innerText = statsNoTrc.avgCgpa.toFixed(2);
+
+            const topStationsMap = new Map();
+            [...rawData].sort((a, b) => b.stipend - a.stipend).forEach(item => {
+                const baseName = item.company.split(',')[0].split('-')[0].trim();
+                if (!topStationsMap.has(baseName)) {
+                    topStationsMap.set(baseName, item);
+                }
+            });
+            const topStations = Array.from(topStationsMap.values()).slice(0, 5); 
+            
+            document.getElementById('top-stations-list').innerHTML = topStations.map(station => `
+                <div class="flex items-start gap-3 lg:gap-4 group cursor-pointer border border-transparent hover:border-primary/30 p-2 rounded-lg transition-all">
+                    <div class="w-8 h-8 lg:w-10 lg:h-10 flex-shrink-0 bg-surface-container-highest flex items-center justify-center border border-outline-variant/10 rounded group-hover:border-primary transition-colors mt-1">
+                        <span class="material-symbols-outlined text-primary text-xs lg:text-sm">corporate_fare</span>
+                    </div>
+                    <div class="flex-grow min-w-0">
+                        <div class="flex justify-between items-start gap-2">
+                            <h5 class="font-bold text-on-surface leading-tight group-hover:text-primary transition-colors text-xs lg:text-sm truncate flex-grow">${station.company.split(',')[0]}</h5>
+                            <span class="text-tertiary font-bold text-xs lg:text-sm flex-shrink-0">${formatCurrency(station.stipend)}</span>
+                        </div>
+                        <p class="text-[9px] lg:text-[11px] text-outline mt-1 uppercase tracking-wider truncate">${station.branch} | Cutoff: ${station.cgpa}</p>
+                    </div>
+                </div>
+            `).join('');
+
+            const scatterContainer = document.getElementById('scatter-container');
+            scatterContainer.innerHTML = ''; 
+            
+            rawData.forEach(d => {
+                if (d.stipend > 0 && d.cgpa >= 4) {
+                    const isTrc = d.company.toLowerCase().includes('tower research');
+                    let leftPct = ((d.cgpa - 4) / 6) * 100;
+                    if(leftPct < 0) leftPct = 0;
+
+                    let visualStipend = d.stipend > 300000 ? 300000 : d.stipend;
+                    const bottomPct = (visualStipend / 300000) * 100;
+                    
+                    const dot = document.createElement('div');
+                    if (isTrc) {
+                        dot.className = 'absolute w-2 h-2 lg:w-3 lg:h-3 rounded-full bg-primary scatter-point z-20 hover:scale-150 transition-all cursor-pointer shadow-[0_0_12px_#a3a6ff]';
+                    } else {
+                        dot.className = 'absolute w-1.5 h-1.5 lg:w-2 lg:h-2 rounded-full bg-secondary scatter-point opacity-60 hover:opacity-100 z-10 hover:scale-150 transition-all cursor-pointer';
+                    }
+                    dot.style.left = `${leftPct}%`;
+                    dot.style.bottom = `${bottomPct}%`;
+                    dot.title = `${d.company}\nBranch: ${d.branch}\nCGPA: ${d.cgpa}\nStipend: ₹${d.stipend.toLocaleString()}`;
+                    scatterContainer.appendChild(dot);
+                }
+            });
+        };
+
+        const populateBranches = (data) => {
+            const branchSelect = document.getElementById('branch-filter');
+            const uniqueBranches = [...new Set(data.map(d => d.branch))]
+                .filter(b => b && b !== 'Unknown')
+                .sort();
+            
+            branchSelect.innerHTML = '<option value="ALL">Stream Allocation: All</option>';
+            uniqueBranches.forEach(b => {
+                branchSelect.innerHTML += `<option value="${b}">${b}</option>`;
+            });
+        };
+
+        // Responsive Table Render
+        const renderTable = (data) => {
+            const tbody = document.getElementById('stations-table-body');
+            document.getElementById('inventory-count').innerText = data.length.toLocaleString();
+            tbody.innerHTML = '';
+            
+            if(data.length === 0) {
+                 tbody.innerHTML = `<tr class="block lg:table-row"><td colspan="5" class="px-6 py-12 text-center text-outline block lg:table-cell">No allotments match your precise criteria.</td></tr>`;
+                 return;
+            }
+
+            data.forEach(item => {
+                const tr = document.createElement('tr');
+                
+                // Responsive Classes: Acts like a Card on Mobile, Row on Desktop
+                tr.className = 'block lg:table-row bg-surface-container-low lg:bg-transparent rounded-xl lg:rounded-none mb-4 lg:mb-0 hover:bg-surface-container-highest transition-colors group border border-outline-variant/10 lg:border-b lg:border-x-0 lg:border-t-0 p-2 lg:p-0';
+                
+                tr.innerHTML = `
+                    <td class="block lg:table-cell px-4 py-3 lg:px-6 lg:py-4 border-b border-outline-variant/10 lg:border-none">
+                        <div class="flex flex-col lg:block">
+                            <span class="text-[9px] uppercase text-outline tracking-wider font-bold lg:hidden mb-1">Station Designation</span>
+                            <p class="font-bold text-on-surface text-sm lg:max-w-sm" title="${item.company}">${item.company}</p>
+                        </div>
+                    </td>
+                    <td class="block lg:table-cell px-4 py-3 lg:px-6 lg:py-4 border-b border-outline-variant/10 lg:border-none lg:w-32">
+                        <div class="flex justify-between items-center lg:block">
+                            <span class="text-[9px] uppercase text-outline tracking-wider font-bold lg:hidden">Stipend</span>
+                            <p class="text-sm font-semibold text-primary">${formatCurrency(item.stipend)}</p>
+                        </div>
+                    </td>
+                    <td class="block lg:table-cell px-4 py-3 lg:px-6 lg:py-4 border-b border-outline-variant/10 lg:border-none lg:w-32">
+                        <div class="flex justify-between items-center lg:block">
+                            <span class="text-[9px] uppercase text-outline tracking-wider font-bold lg:hidden">Cutoff CGPA</span>
+                            <span class="px-2 py-1 rounded bg-surface-container-highest text-on-surface text-xs font-mono border border-outline-variant/30">${item.cgpa}</span>
+                        </div>
+                    </td>
+                    <td class="block lg:table-cell px-4 py-3 lg:px-6 lg:py-4 border-b border-outline-variant/10 lg:border-none lg:w-32">
+                        <div class="flex justify-between items-center lg:block">
+                            <span class="text-[9px] uppercase text-outline tracking-wider font-bold lg:hidden">Primary Branch</span>
+                            <span class="px-2 py-0.5 rounded-full bg-secondary/10 text-secondary border border-secondary/20 text-[10px] font-bold">${item.branch}</span>
+                        </div>
+                    </td>
+                    <td class="block lg:table-cell px-4 py-3 lg:px-6 lg:py-4 lg:w-32 lg:text-right">
+                        <div class="flex justify-between items-center lg:justify-end gap-1">
+                            <span class="text-[9px] uppercase text-outline tracking-wider font-bold lg:hidden">Sem Allocation</span>
+                            <div class="flex gap-1">
+                                ${item.s1 ? '<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-primary/20 text-primary">SEM 1</span>' : ''}
+                                ${item.s2 ? '<span class="px-2 py-0.5 rounded text-[10px] font-bold bg-tertiary/20 text-tertiary">SEM 2</span>' : ''}
+                            </div>
+                        </div>
+                    </td>
+                `;
+                tbody.appendChild(tr);
+            });
+        };
+
+        const applyFilters = () => {
+            const searchQ = document.getElementById('search-input').value.toLowerCase();
+            const branchQ = document.getElementById('branch-filter').value;
+            const stipendQ = document.getElementById('stipend-filter').value;
+            const semQ = document.getElementById('sem-filter').value;
+            const sortQ = document.getElementById('sort-filter').value;
+            const cgpaQ = parseFloat(document.getElementById('cgpa-filter').value);
+
+            let filtered = rawData.filter(item => {
+                const matchSearch = item.company.toLowerCase().includes(searchQ);
+                const matchBranch = branchQ === 'ALL' || item.branch === branchQ;
+                
+                let matchStipend = true;
+                if (stipendQ === 'TIER1') matchStipend = item.stipend >= 150000;
+                if (stipendQ === 'TIER2') matchStipend = item.stipend >= 100000 && item.stipend < 150000;
+                if (stipendQ === 'TIER3') matchStipend = item.stipend < 100000;
+
+                let matchSem = true;
+                if (semQ === 'S1') matchSem = item.s1 === 1;
+                if (semQ === 'S2') matchSem = item.s2 === 1;
+                if (semQ === 'BOTH') matchSem = (item.s1 === 1 && item.s2 === 1);
+
+                let matchCgpa = true;
+                if (!isNaN(cgpaQ) && cgpaQ > 0) {
+                    matchCgpa = item.cgpa <= cgpaQ;
+                }
+
+                return matchSearch && matchBranch && matchStipend && matchSem && matchCgpa;
+            });
+
+            if (sortQ === 'DESC') {
+                filtered.sort((a, b) => b.stipend - a.stipend);
+            } else if (sortQ === 'ASC') {
+                filtered.sort((a, b) => a.stipend - b.stipend);
+            }
+
+            renderTable(filtered);
+        };
+
+        document.getElementById('search-input').addEventListener('input', applyFilters);
+        document.getElementById('branch-filter').addEventListener('change', applyFilters);
+        document.getElementById('stipend-filter').addEventListener('change', applyFilters);
+        document.getElementById('sem-filter').addEventListener('change', applyFilters);
+        document.getElementById('sort-filter').addEventListener('change', applyFilters);
+        document.getElementById('cgpa-filter').addEventListener('input', applyFilters);
+
+        const loadExternalData = async () => {
+            try {
+                const response = await fetch('24-25 stats.csv');
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const csvText = await response.text();
+                
+                rawData = parseCSV(csvText);
+                
+                populateBranches(rawData);
+                document.getElementById('sync-status-text').innerText = "Live DB Active";
+                // Also update mobile header status
+                document.getElementById('sync-status-mobile').innerHTML = '<span class="w-2 h-2 rounded-full bg-tertiary animate-pulse shadow-[0_0_8px_#ffa5d9]"></span>';
+                
+                initDashboard();
+                applyFilters(); 
+                
+            } catch (error) {
+                console.error("Failed to load CSV data:", error);
+                document.getElementById('sync-status-text').innerText = "Sync Failed";
+                document.getElementById('sync-status-text').className = "text-xs font-medium text-red-400";
+                document.querySelector('#sync-status span').className = "w-2 h-2 rounded-full bg-red-500 shadow-[0_0_8px_red]";
+                
+                document.getElementById('sync-status-mobile').innerHTML = '<span class="w-2 h-2 rounded-full bg-red-500 shadow-[0_0_8px_red]"></span>';
+                
+                document.getElementById('stations-table-body').innerHTML = `
+                    <tr class="block lg:table-row">
+                        <td colspan="5" class="px-6 py-12 text-center text-outline block lg:table-cell">
+                            <span class="material-symbols-outlined text-4xl mb-2 text-outline-variant">cloud_off</span>
+                            <p class="font-bold text-on-surface mb-1">Failed to load data</p>
+                            <p class="text-xs">Ensure <code>24-25 stats.csv</code> is in the same directory and you are using a local web server.</p>
+                        </td>
+                    </tr>
+                `;
+            }
+        };
+
+        loadExternalData();
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,2348 @@
+Branch,CGPA,AllottedStationName,Stipend,AllotedSemester1,AllotedSemester2
+A7,10,Zomato (Grofers),60000,0,1
+A7,9.98,Goldman Sachs - Hyderabad,191666,0,1
+A7,9.96,"Nutanix , Bengaluru / Pune",110000,0,1
+A7,9.91,"Nutanix , Bengaluru / Pune",110000,0,1
+A7,9.88,"Nutanix , Bengaluru / Pune",110000,0,1
+A7,9.87,Qube Research and Technology India LLP,"2,91,667",0,1
+B3A7,9.86,"D. E. Shaw India Private Limited - Project 1,Hyderabad",283000,0,1
+A7,9.85,"Nutanix , Bengaluru / Pune",110000,0,1
+A7,9.84,"Confluent India Pvt Ltd.,Bengaluru",110000,0,1
+A7,9.78,"Oracle, Bangalore",100000,0,1
+A7,9.76,"DevRev Cloud India Pvt. Ltd.,Bengaluru",100000,0,1
+A7,9.7,"Tower Research Capital, Gurugram",180000,0,1
+A7,9.69,"Rubrik,Bengaluru",175000,0,1
+A7,9.69,"DevRev Cloud India Pvt. Ltd.,Bengaluru",100000,0,1
+A7,9.67,"Singlestore India Pvt Ltd,Hyderabad",150000,0,1
+A7,9.63,"UBER - Data Science, Hyderabad/Bengaluru",187000,0,1
+B4A7,9.59,"UBER - Software Engineer, Hyderabad/Bengaluru",177000,1,1
+A7,9.59,"Oracle, Bangalore",100000,0,1
+B3A7,9.58,"UBER - Data Science, Hyderabad/Bengaluru",187000,1,1
+AA,9.58,Procter & Gamble (P&G),170000,0,1
+A4,9.58,"A.T. Kearney Consulting (India) Private Limited,Gurugram",125000,0,1
+A4,9.57,"JPMC - G&C - CIO, Treasury & Corporate (CTC) Risk team - Credit Risk/ Liquidity Risk",150000,0,1
+A7,9.55,Texas Instruments -- Software Development- SDE,60000,0,1
+B3A7,9.54,"PhonePe Private Limited,Bengaluru",80000,0,1
+A7,9.53,"Cohesity Storage Solutions India Pvt. Ltd., Bengaluru/Pune",120000,0,1
+B3A7,9.52,JP Morgan Chase-quant,N/A,0,1
+A7,9.52,Capital One,100000,0,1
+AA,9.51,"Tenstorrent ,Bengaluru",100000,0,1
+B3A7,9.5,"Tower Research Capital, New York",1050000,0,1
+B4A7,9.47,"Oracle, Bangalore",100000,1,1
+A7,9.47,"Confluent India Pvt Ltd.,Bengaluru",110000,0,1
+A7,9.46,AMAZON SDE,143000,0,1
+A7,9.43,"Singlestore India Pvt Ltd,Hyderabad",150000,0,1
+A7,9.43,"D. E. Shaw India Private Limited - Project 1,Hyderabad",283000,0,1
+A3,9.42,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+A7,9.42,"Nutanix , Bengaluru / Pune",110000,0,1
+A4,9.414,"JPMC CIB Research & Analytics, Markets - Trading and Structuring",175000,1,0
+A7,9.41,QUALCOMM,45000,0,1
+A4,9.41,JPMC CIB Research & Analytics Markets - CCAR & Sales,150000,0,1
+A7,9.41,"Intuit India,Bengaluru",120000,0,1
+N/A,5,RD Consultants,N/A,0,1
+A7,9.39,Zomato (Grofers),60000,0,1
+A7,9.39,Texas Instruments - Embedded Software,60000,0,1
+A3,9.39,QUALCOMM,45000,0,1
+A7,9.39,"Nutanix , Bengaluru / Pune",110000,0,1
+A7,9.38,Telus International - Machine Learning,150000,0,1
+A4,9.37,"UBS- Product Control (Finance), Pune",60000,0,1
+AA,9.37,Apple Software engineering-WTE team,90000,0,1
+A7,9.37,Apple Software engineering-WTE team,90000,0,1
+B1A7,9.36,Salesforce,150000,1,1
+A3,9.36,"Renesas, Hyderabad",45000,0,1
+A7,9.35,"Singlestore India Pvt Ltd,Hyderabad",150000,0,1
+B4A7,9.35,"Singlestore India Pvt Ltd,Hyderabad",150000,1,1
+A7,9.4,IMC India Securities Private Limited,550000,0,1
+A7B3,9.33,JPMC GF&BM FESA Data Science,175000,0,1
+AA,9.33,"Flipkart (Software Development),Bengaluru",100000,0,1
+A7,9.33,"Cohesity Storage Solutions India Pvt. Ltd., Bengaluru/Pune",120000,0,1
+AA,9.324,JPMC GR&C AWM Risk Analytics – Quantitative Research,175000,1,0
+A7,9.32,"Cohesity Storage Solutions India Pvt. Ltd., Bengaluru/Pune",120000,0,1
+A7,9.32,"Cohesity Storage Solutions India Pvt. Ltd., Bengaluru/Pune",120000,0,1
+AA,9.3,Wayfair Global Technology Pvt. Ltd- Search and Recommendations,100000,0,1
+A7,9.3,"Oracle, Bangalore",100000,0,1
+B2A3,9.29,Texas Instruments -- Digital,60000,0,1
+A7,9.29,"Rubrik,Bengaluru",175000,0,1
+B3A7,9.29,"Eightfold AI India Pvt Ltd, Bengaluru/Noida",120000,0,1
+A7,9.29,"Arista Networks India Private Limited,Bengaluru",75000,0,1
+A7,9.29,"Apple-ML- MSI,Product Ops team",90000,0,1
+A7,9.27,"Yugabyte, Bengaluru",125000,0,1
+AA,9.27,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+A4,9.27,"JPMC - GR&C CTC Risk - CIO, Treasury & Corporate (CTC) Risk team",150000,1,0
+B3A7,9.27,"Eightfold AI India Pvt Ltd, Bengaluru/Noida",120000,0,1
+AA,9.26,Texas Instruments -- Digital,60000,0,1
+B5A7,9.26,"D. E. Shaw India Private Limited - Project 3,Hyderabad",200000,0,1
+A7,9.25,Walmart,100000,0,1
+B5AA,9.25,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",1,1
+B3A4,9.25,Morgan Stanley Quant (Model) Audit Team,100000,1,1
+A7,9.25,Capital One,100000,0,1
+A7,9.243,"American Express - AiDa, Bengaluru",N/A,1,0
+A3,9.24,"Flipkart (Software Development),Bengaluru",100000,0,1
+A7,9.24,"Arista Networks India Private Limited,Bengaluru",75000,0,1
+A7,9.231,Morgan Stanley FID Research roles,125000,1,
+A7,9.23,"Intuit India,Bengaluru",120000,0,1
+A7,9.23,Google India Software,123333,0,1
+A1,8.861,"JPMC - GR&C CTC Risk - CIO, Treasury & Corporate (CTC) Risk team",150000,1,0
+A7,9.23,"e6data,Bengaluru",N/A,0,1
+A7,9.21,"Oracle, Bangalore",100000,,1
+AA,9.21,Google India Software,123333,0,1
+B3A7,9.19,Goldman Sachs - Hyderabad,191666,0,1
+AA,9.18,Wayfair Global Technology Pvt. Ltd- GST,100000,0,1
+A7,9.18,IMC India Securities Private Limited,550000,0,1
+A7,9.18,"Arista Networks India Private Limited,Bengaluru",75000,0,1
+A4,9.171,JPMC CIB R&A – Banking,75000,1,0
+A7,9.17,QUALCOMM,45000,0,1
+A3,9.17,"Flipkart (Software Development),Bengaluru",100000,0,1
+AA,9.16,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+AA,9.16,"Ericsson Global India Pvt. Ltd.,Bengaluru",60000,0,1
+A7,9.15,Google India Software,123333,0,1
+A7,9.15,Dreamplug Technologies - DS,N/A,0,1
+A7,9.14,Traceable.ai,N/A,0,1
+AA,9.14,"Flipkart (Software Development),Bengaluru",100000,0,1
+A7,9.14,"Apple-Software Development Engineering , IS&T",90000,0,1
+A7,9.13,Traceable.ai,N/A,0,1
+A7,9.13,AMAZON SDE,143000,0,1
+B5A7,9.12,JPMC - GR&C WCR Portfolio Analytics- Analytics Strategy,150000,1,1
+A7,9.12,"Cohesity Storage Solutions India Pvt. Ltd., Bengaluru/Pune",120000,0,1
+AA,9.11,JPMC CIB Research & Analytics Markets - CCAR & Sales,150000,0,1
+A7,9.1,Wayfair Global Technology Pvt. Ltd- Search and Recommendations,100000,0,1
+B3AA,9.09,Wayfair Global Technology Pvt. Ltd- Search and Recommendations,100000,1,1
+A3,9.09,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+A7,9.08,"Project44 Software Services Pvt. Ltd., Bengaluru",135000,0,1
+A7,9.08,"Eightfold AI India Pvt Ltd, Bengaluru/Noida",120000,0,1
+A7,9.08,"Apple-Software Development Engineering , IS&T",90000,0,1
+A7,9.07,"DevRev Cloud India Pvt. Ltd.,Bengaluru",100000,0,1
+A3,9.07,ALLEGRO MICRO SYSTEMS,N/A,0,1
+A7,9.06,Telus International - Machine Learning,150000,0,1
+AA,9.06,"Renesas, Hyderabad",45000,0,1
+A7,9.06,"Oracle, Bangalore",100000,0,1
+B1AA,9.06,"Nutanix , Bengaluru / Pune",110000,1,1
+AA,9.056,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",1,0
+B4A7,9.05,"Project44 Software Services Pvt. Ltd., Bengaluru",135000,1,1
+A7,9.05,Harness.io,80000,0,1
+A7,9.05,Apple Software engineering-WTE team,90000,0,1
+A7,9.04,"Yugabyte, Bengaluru",125000,0,1
+AA,9.04,QUALCOMM,45000,0,1
+B3AA,9.04,JPMC GF&BM FESA Data Science,175000,1,1
+A4,9.04,DBOI MVRM Ex Vals,50000,0,1
+AA,9.03,Texas Instruments - Analog,60000,0,1
+A7,9.03,"Oracle, Bangalore",100000,0,1
+AA,9.03,"Flipkart (Software Development),Bengaluru",100000,1,1
+B5A7,9.02,"Nutanix , Bengaluru / Pune",110000,1,1
+A3,9.02,"Aptiv ,Bengaluru",50000,0,1
+A7,9,Wayfair Global Technology Pvt. Ltd-SCRT,100000,0,1
+A8,9,"Tenstorrent ,Bengaluru",100000,0,1
+B2A3,9,Scapia Technology Private Limited - Software Engineering,100000,0,1
+AA,9,QUALCOMM,45000,0,1
+A3,9,"Flipkart (Software Development),Bengaluru",100000,0,1
+B3A7,8.99,"DevRev Cloud India Pvt. Ltd.,Bengaluru",100000,1,1
+A8,8.98,RingCentral India Pvt Ltd,50000,0,1
+A7,8.98,"Eightfold AI India Pvt Ltd, Bengaluru/Noida",120000,0,1
+A5,8.98,"DBOI- Global Reporting,Mumbai/Pune",50000,0,1
+A7,8.98,Capital One,100000,0,1
+B3A7,8.98,"Apple-Software Development Engineering , IS&T",90000,0,1
+A7,8.97,Walmart,100000,0,1
+A7,8.97,Apple- SW-BPR,90000,0,1
+A4,8.963,Telus International - Product Management,70000,1,0
+AA,8.963,"Nutanix , Bengaluru / Pune",110000,1,
+A7,8.96,"Yugabyte, Bengaluru",125000,0,1
+B1A7,8.96,"Eightfold AI India Pvt Ltd, Bengaluru/Noida",120000,1,1
+AA,8.95,QUALCOMM,45000,0,1
+B4A7,8.95,"Oracle, Bangalore",100000,1,1
+AA,8.941,"Nutanix , Bengaluru / Pune",110000,1,0
+A7,8.94,Walmart,100000,0,1
+B3A7,8.94,"Nutanix , Bengaluru / Pune",110000,1,1
+A7,8.94,IBM,30000,0,1
+B3A7,8.93,Morgan Stanley FID Research roles,125000,1,1
+A7,8.923,"Nutanix , Bengaluru / Pune",110000,1,0
+A7,8.92,Walmart,100000,0,1
+A8,8.92,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+B3A7,8.92,Morgan Stanley Quant (Model) Audit Team,100000,1,1
+A7,8.92,JPMC - GR&C -AWM Investment Risk Analytics,150000,0,1
+A7,8.92,"Flipkart (Software Development),Bengaluru",100000,0,1
+AA,8.92,ALLEGRO MICRO SYSTEMS,N/A,0,1
+A8,8.913,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",1,0
+A7,8.91,"Yugabyte, Bengaluru",125000,0,1
+B5A7,8.91,"Singlestore India Pvt Ltd,Hyderabad",150000,1,1
+B5A7,8.91,Qure.ai Technologies Pvt. Ltd.,125000,0,1
+AA,8.91,QICAP Markets LLP,100000,0,1
+B4A3,8.9,"JPMC CIB Research & Analytics, Global Research",150000,1,1
+AA,8.9,Google India Hardware Engineering,125000,0,1
+B2A7,8.9,"Eightfold AI India Pvt Ltd, Bengaluru/Noida",120000,0,1
+A1,8.048,Flipkart Internet Pvt. Ltd. - AM Planning,100000,1,0
+B3A7,8.89,JPMC GF&BM FESA Data Science,175000,1,1
+AA,8.88,"Rivos Systems India Pvt Ltd,Bengaluru",70000,0,1
+A7,8.88,"DevRev Cloud India Pvt. Ltd.,Bengaluru",100000,0,1
+AA,8.87,Texas Instruments -- Digital,60000,0,1
+A7,8.87,QUALCOMM,45000,0,1
+A7,8.87,"DevRev Cloud India Pvt. Ltd.,Bengaluru",100000,0,1
+A1,8.895,"Rusk Media Pvt. Ltd - Business Analyst, Mumbai",80000,1,0
+A7,8.86,Walmart,100000,0,1
+B3A7,8.86,"DevRev Cloud India Pvt. Ltd.,Bengaluru",100000,0,1
+B5A7,8.85,"UBER - Software Engineer, Hyderabad/Bengaluru",177000,1,1
+B5AA,8.85,"UBER - Software Engineer, Hyderabad/Bengaluru",177000,1,1
+AB,8.85,"QualityKiosk Technologies India Pvt Ltd , Navi mumbai",70000,0,1
+B5A7,8.85,"Nutanix , Bengaluru / Pune",110000,1,1
+A3,8.84,"Rivos Systems India Pvt Ltd,Bengaluru",70000,0,1
+B4A7,8.84,"Project44 Software Services Pvt. Ltd., Bengaluru",135000,0,1
+A7,8.84,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+B3A7,8.84,JPMC GF&BM FESA Data Science,175000,1,1
+A7,8.83,Walmart,100000,0,1
+B3A7,8.83,"Nutanix , Bengaluru / Pune",110000,1,1
+A7,8.83,"Arista Networks India Private Limited,Bengaluru",75000,0,1
+A8,8.83,"Aptiv ,Bengaluru",50000,0,1
+A1,8.13,JPMC CIB R&A – Banking,75000,0,1
+A7,8.82,Texas Instruments -- Software Development- SDE,60000,0,1
+B2A7,8.82,Sundial Systems Pvt. Ltd. - Engineering,N/A,1,1
+B3A7,8.82,Morgan Stanley Quantitative and Investment Strategies Strats role,113000,1,1
+B3A7,8.81,"JPMC CIB Research & Analytics, Markets - Trading and Structuring",175000,1,1
+A7,8.8,"Wayfair Global Technology Pvt. Ltd-Marketing, Data and ML platform Engineering team",100000,0,1
+AA,8.8,QUALCOMM,45000,0,1
+B4A7,8.8,"Nutanix , Bengaluru / Pune",110000,1,1
+AA,8.79,"Wayfair Global Technology Pvt. Ltd-Marketing, Data and ML platform Engineering team",100000,1,1
+B2A7,8.79,"UBER - Software Engineer, Bengaluru",177000,1,1
+AA,8.79,Texas Instruments -- Digital,60000,0,1
+B3A7,8.79,"Oracle, Bangalore",100000,0,1
+AA,8.79,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+A7,8.79,American Express - Products,N/A,1,0
+B1A7,8.78,"UBER - Software Engineer, Bengaluru",177000,1,1
+A7,8.78,RingCentral India Pvt Ltd,50000,0,1
+B1A7,8.78,"Oracle, Bangalore",100000,1,1
+B5A7,8.78,"Oracle, Bangalore",100000,1,1
+AA,8.78,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+B3AA,8.78,Morgan Stanley FID Research roles,125000,1,1
+A7,8.78,"Flipkart (Software Development),Bengaluru",100000,0,1
+A7,8.77,Wayfair Global Technology Pvt. Ltd- GST,100000,0,1
+B5A3,8.77,Texas Instruments -- Digital,60000,1,1
+B3AA,8.77,"JPMC CIB Research & Analytics, Markets - Trading and Structuring",175000,1,1
+A3,8.76,"UBER - Software Engineer, Bengaluru",177000,1,0
+B4A7,8.76,"JPMC, Model Risk and Governance Review",150000,1,1
+A7,8.76,"JPMC - G&C - CIO, Treasury & Corporate (CTC) Risk team – Innovation & Analytics",150000,0,1
+A7,8.76,"Eightfold AI India Pvt Ltd, Bengaluru/Noida",120000,0,1
+B3A7,8.75,"Oracle, Bangalore",100000,1,1
+B4A3,8.75,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+B3A7,8.75,"Eightfold AI India Pvt Ltd, Bengaluru/Noida",120000,0,1
+A7,8.74,"Apple-Software Development Engineering , IS&T",90000,0,1
+A7,8.73,"Oracle, Bangalore",100000,0,1
+A3,8.73,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+A3,8.73,"Flipkart (Software Development),Bengaluru",100000,0,1
+A7,8.73,"DevRev Cloud India Pvt. Ltd.,Bengaluru",100000,0,1
+A7,8.72,Walmart,100000,0,1
+B5AA,8.72,Texas Instruments - Analog,60000,1,1
+A3,8.72,QICAP Markets LLP,100000,0,1
+B1A7,8.72,"Nutanix , Bengaluru / Pune",110000,1,1
+A7,8.72,Google India Software,123333,0,1
+A8,8.72,"Flipkart (Software Development),Bengaluru",100000,0,1
+A7,8.72,AMAZON SDE,143000,0,1
+AA,8.71,QUALCOMM,45000,0,1
+AA,8.71,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+A7,8.71,"DevRev Cloud India Pvt. Ltd.,Bengaluru",100000,0,1
+A1,8.01,JPMC CIB R&A – Banking,75000,0,1
+A3,8.702,"UBER - Software Engineer, Hyderabad/Bengaluru",177000,1,0
+AA,8.7,Texas Instruments -- Technical Sales Representative,60000,0,1
+A7,8.7,"Oracle, Bangalore",100000,0,1
+B4A7,8.7,"Oracle, Bangalore",100000,1,1
+B2A7,8.7,"Confluent India Pvt Ltd.,Bengaluru",110000,0,1
+B4AA,8.7,Astera Labs,90000,1,1
+B3A7,8.69,Morgan Stanley Research Data Strats,120000,1,1
+A3,8.69,"Indus Insights and Analytical Services Pvt Ltd,Gurugram",N/A,0,1
+A3,8.69,IBM,30000,0,1
+A7,8.69,Harness.io,80000,0,1
+A4,8.69,"Flipkart Internet Pvt Ltd - Business Analytics,Bengaluru",50000,1,0
+A7,8.69,Capital One,100000,0,1
+B2A3,8.69,AquaCarta ( partnered by Waterlife India ) - Aerial Imagery,N/A,1,1
+A4,8.686,Telus International - Product Management,70000,1,0
+A4,8.686,JPMC GR&C AWM Risk Analytics – Quantitative Research,175000,1,
+AA,8.68,SIEMENS EDA India Private Limited,40000,0,1
+A3,8.68,ALLEGRO MICRO SYSTEMS,N/A,0,1
+A4,8.676,"JPMC CIB Research & Analytics, Markets - Trading and Structuring",175000,1,0
+A7,8.67,Walmart,100000,0,1
+A7,8.67,QUALCOMM,45000,0,1
+B5AA,8.67,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",1,1
+B3A3,8.67,JPMC CIB Research & Analytics Markets - CCAR & Sales,150000,0,1
+A5,8.67,"Flipkart Internet Pvt Ltd - Business Analytics,Bengaluru",50000,1,0
+AA,8.66,SIEMENS EDA India Private Limited,40000,0,1
+A7,8.66,"Oracle, Bangalore",100000,0,1
+B1A7,8.66,"Oracle, Bangalore",100000,1,1
+B3A7,8.66,"JPMC CIB Research & Analytics, Markets - Trading and Structuring",175000,1,1
+AA,8.66,"Apple, Software Engineering, HWT",90000,0,1
+A7,8.65,Texas Instruments - Embedded Software,60000,0,1
+B1A3,8.65,Texas Instruments - Analog,60000,0,1
+A7,8.65,"Oracle, Bangalore",100000,0,1
+A4,8.65,Meesho - APM,35000,0,1
+B4A3,8.65,Astera Labs,90000,1,1
+A8,8.65,AMAZON SDE - ES,143000,0,1
+A7,8.64,"Siemens Industry Software India Pvt. Ltd, Pune",40000,0,1
+B2AA,8.64,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",1,1
+A3,8.64,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+A7,8.64,Meesho,35000,0,1
+B5A4,8.05,JPMC - GR&C Wholesale Credit Risk - Product Owner Team,150000,1,1
+B3A7,8.63,Qure.ai Technologies Pvt. Ltd.,125000,0,1
+B3A1,8.63,JPMC - GR&C CCB Risk Strategic Analytics,75000,1,1
+A8,8.63,Google India Software,123333,0,1
+B1A8,8.63,"Flipkart (Software Development),Bengaluru",100000,1,1
+A7,8.63,"Apple-Software Development Engineering , IS&T",90000,0,1
+B3A7,8.63,"Apple-Software Development Engineering , IS&T",90000,0,1
+A4,8.63,"Apple-MQE-MD, team - Manufacturing Quality Engineering",90000,0,1
+B5AA,8.62,Texas Instruments - Analog,60000,0,1
+B3A4,8.62,Nomura- Risk Management - CEM Internship,N/A,1,1
+B1A1,8.62,JPMC - GR&C WCR Portfolio Analytics- Analytics Strategy,150000,1,1
+B4A7,8.61,"Oracle, Bangalore",100000,1,1
+B1A7,8.61,Morgan Stanley Data Analytics,100000,1,1
+A7,8.6,Meesho,35000,0,1
+B5A8,8.6,"Intel,Bengaluru",40000,1,1
+AB,8.593,Telus International - Product Management,70000,1,0
+AA,8.59,Walmart,100000,0,1
+A3,8.59,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+B4AA,8.59,"Nutanix , Bengaluru / Pune",110000,1,1
+AA,8.59,MathWorks India Private Limited,55000,0,1
+A7,8.59,AMAZON SDE,143000,0,1
+A7,8.58,Walmart,100000,0,1
+AA,8.58,"Flipkart (Software Development),Bengaluru",100000,0,1
+A7,8.58,"DevRev Cloud India Pvt. Ltd.,Bengaluru",100000,0,1
+B4AA,8.57,"UBER - Software Engineer, Hyderabad/Bengaluru",177000,1,1
+B3A7,8.57,"Oracle, Bangalore",100000,1,1
+AA,8.57,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+B3A3,8.57,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",1,1
+B1AB,8.57,"Flipkart Internet Pvt Ltd - Business Analytics,Bengaluru",50000,1,1
+A7,8.57,"Flipkart (Software Development),Bengaluru",100000,0,1
+A3,8.57,ARM Embedded Technologies Pvt Ltd,N/A,0,1
+A4,8.565,JPMC GR&C Market Risk,150000,1,0
+A7,8.562,"Nutanix , Bengaluru / Pune",110000,1,0
+A7,8.56,"Oracle, Bangalore",100000,0,1
+B4A4,8.56,Nielsen - DD Continuing,50000,1,1
+B5A7,8.55,"Oracle, Bangalore",100000,1,1
+A7,8.55,AMAZON SDE,143000,0,1
+B5AA,8.54,"UBER - Software Engineer, Hyderabad/Bengaluru",177000,1,1
+B4A3,8.54,Texas Instruments - Analog,60000,1,1
+AA,8.54,"Rivos Systems India Pvt Ltd,Bengaluru",70000,0,1
+A7,8.54,Qure.ai Technologies Pvt. Ltd.,125000,0,1
+B3A7,8.54,JPMC GF&BM FESA Data Science,175000,0,1
+B4AA,8.54,"A.T. Kearney Consulting (India) Private Limited,Gurugram",125000,1,1
+A4,8.538,Telus International - Product Management,70000,1,0
+AA,8.531,"Nutanix , Bengaluru / Pune",110000,1,0
+A3,8.53,Texas Instruments -- Digital,60000,0,1
+B4A3,8.53,"Nutanix , Bengaluru / Pune",110000,1,1
+A3,8.53,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+A7,8.53,"Eightfold AI India Pvt Ltd, Bengaluru/Noida",120000,0,1
+A7,8.53,"Apple-Software Development Engineering , IS&T",90000,0,1
+A8,8.52,Ribbon Communication,75000,0,1
+B3A3,8.52,JPMC - GR&C WCR Portfolio Analytics - Risk Grading Methodology & Climate Risk,150000,1,1
+A7,8.52,IBM,30000,0,1
+B2A8,8.52,"Flipkart Internet Pvt Ltd - UI Team ,Bengaluru",100000,1,1
+A7,8.52,"Eightfold AI India Pvt Ltd, Bengaluru/Noida",120000,0,1
+A7,8.52,COMMVAULT,N/A,0,1
+A3,8.52,"BlokTrek,Bengaluru",N/A,0,1
+A7,8.52,AMAZON SOLUTION ARCHITECT,110000,0,1
+B3A7,8.51,Zomato (Grofers),60000,0,1
+B2A7,8.51,"Oracle, Bangalore",100000,1,1
+B3A3,8.51,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",1,1
+B5AA,8.51,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+B3AA,8.51,JPMC - GR&C -AWM Investment Risk Analytics,150000,,1
+B4A7,8.5,Qure.ai Technologies Pvt. Ltd.,125000,0,1
+A7,8.5,QUALCOMM,45000,0,1
+A7,8.5,QUALCOMM,45000,0,1
+A7,8.5,COMMVAULT,N/A,0,1
+A7,8.5,"Aptiv ,Bengaluru",50000,0,1
+A7,8.49,Walmart,100000,0,1
+A3,8.49,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+A3,8.49,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+A8,8.49,MathWorks India Private Limited,55000,0,1
+A8,8.49,Goldman Sachs - Bengaluru,191666,0,1
+A7,8.48,Traceable.ai,N/A,0,1
+B3A3,8.48,JPMC CIB Research & Analytics Markets - CCAR & Sales,150000,0,1
+A7,8.48,Hevo Technologies India Pvt. Ltd.,150000,0,1
+AA,8.48,"Flipkart (Software Development),Bengaluru",100000,0,1
+A7,8.48,COMMVAULT,N/A,0,1
+AA,8.477,JPMC CIB R&A – Banking,75000,1,0
+B1A3,8.47,UBS- Global Banking(Front office),60000,0,1
+A7,8.47,Qure.ai Technologies Pvt. Ltd.,125000,0,1
+A8,8.47,"Cadence Design Systems,Pune",N/A,0,1
+B4A7,8.47,"Apple-Software Development Engineering , IS&T",90000,,1
+A7,8.47,AMAZON SDE,143000,0,1
+A3,8.46,Wayfair Global Technology Pvt. Ltd- GST,100000,0,1
+A7,8.46,Walmart,100000,0,1
+A7,8.46,Texas Instruments -- Data Engineer,60000,0,1
+A3,8.46,Texas Instruments - Analog,60000,0,1
+A8,8.46,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+A7,7.83,Zynga,100000,,1
+A3,8.46,AMAZON SOLUTION ARCHITECT,110000,0,1
+A7,8.45,SIEMENS EDA India Private Limited,40000,0,1
+B3A3,8.45,"Nutanix , Bengaluru / Pune",110000,1,1
+B3A7,8.45,Morgan Stanley Research Data Strats,120000,1,1
+A7,8.45,Meesho,35000,0,1
+A7,8.45,"Cohesity Storage Solutions India Pvt. Ltd., Bengaluru/Pune",120000,0,1
+AA,8.44,Texas Instruments - Analog,60000,0,1
+AA,8.44,QUALCOMM,45000,0,1
+B4AA,8.44,Nomura - Risk Management - Market Risk role,N/A,1,1
+AA,8.44,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+A7,8.44,"Flipkart (Software Development),Bengaluru",100000,0,1
+AA,8.44,"Flipkart (Software Development),Bengaluru",100000,0,1
+A4,8.44,"DBOI - Business Finance,Mumbai",50000,0,1
+A7,8.43,Zomato,0,,1
+A3,8.43,Texas Instruments - Analog,60000,0,1
+B4A7,8.43,Morgan Stanley Quantitative and Investment Strategies Strats role,113000,1,1
+B2A4,8.43,Goodera - Engineering,35000,0,1
+B2AA,8.42,SIEMENS EDA India Private Limited,40000,,1
+B4A7,8.42,Nomura IT Internship - GMIT - Trade Processing,N/A,1,1
+A4,8.42,Apple-PQM- Product Ops team,90000,0,1
+B2A1,8.42,"A.T. Kearney Consulting (India) Private Limited,Gurugram",125000,0,1
+A3,8.411,JPMC GR&C Market Risk,150000,1,0
+B5AA,8.41,Texas Instruments - Analog,60000,1,1
+A7,8.41,"Oracle, Bangalore",100000,0,1
+B3A3,8.41,"MIPS Embedded Technologies Pvt. Ltd,Bengaluru",50000,1,1
+A8,8.41,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+A7,8.41,McCain Foods (India) Pvt. Ltd.,50000,0,1
+B3A3,8.41,"JPMC CIB Research & Analytics, Global Research",150000,1,1
+A3,8.41,Goodera - Engineering,35000,0,1
+A7,8.41,Capital One,100000,0,1
+B3AA,8.41,Astera Labs,90000,1,1
+A7,8.402,American Express - Products,N/A,1,0
+A7,8.4,"Wayfair Global Technology Pvt. Ltd-Marketing, Data and ML platform Engineering team",100000,0,1
+A7,8.4,Walmart,100000,0,1
+B2A3,8.4,Texas Instruments -- Digital,60000,1,1
+B1A7,8.4,"Oracle, Bangalore",100000,1,1
+B3A7,8.39,Nomura- Global Markets-Analyst role,N/A,1,1
+A7,8.39,"Flipkart (Software Development),Bengaluru",100000,0,1
+B3A7,8.39,"Flipkart (Software Development),Bengaluru",100000,0,1
+B1AB,8.39,Critical Path Technologies Private Limited (“SalarySe) - Non Tech,N/A,1,1
+AA,8.38,Wayfair Global Technology Pvt. Ltd-SCRT,100000,0,1
+A3,8.38,Walmart,100000,0,1
+B3A7,8.38,Walmart,100000,0,1
+AA,8.38,Texas Instruments - Embedded Software,60000,0,1
+A7,8.38,QUALCOMM,45000,0,1
+A7,8.38,"Arista Networks India Private Limited, Pune",75000,0,1
+A7,8.37,"Guardian Life Insurance Company, Chennai",100000,0,1
+AA,8.37,"Aptiv ,Bengaluru",50000,0,1
+A4,8.366,CSIR-NAL,N/A,1,0
+A3,8.365,"Cadence Design Systems,Bengaluru",N/A,1,0
+A7,8.36,Walmart,100000,0,1
+B4A7,8.36,"Oracle, Bangalore",100000,1,1
+B3A7,8.36,"Morgan Stanley - FID Research,Mumbai",125000,0,1
+A7,8.36,Meesho,35000,0,1
+A7,8.36,"Flipkart (Software Development),Bengaluru",100000,0,1
+A7,8.36,Dreamplug Technologies - DS,N/A,0,1
+A4,8.358,"KPMG,Chennai",30000,1,0
+A8,8.352,"UBER - Data Analytics,Hyderabad/Bengaluru",N/A,1,0
+A1,7.07,JPMC CIB R&A – Banking,75000,0,1
+B5AA,8.35,Texas Instruments - Analog,60000,1,1
+AA,8.35,"Tenstorrent ,Bengaluru",100000,0,1
+A7,8.35,QUALCOMM,45000,0,1
+B3A7,8.35,Morgan Stanley Equity Research,100000,1,1
+AA,8.35,"Avalara Technologies,Pune",50000,0,1
+A4,8.346,Nielsen - DD Continuing,50000,1,0
+A4,8.345,"Flipkart Internet Pvt Ltd - Business Analytics,Bengaluru",50000,1,0
+B3A7,8.34,Walmart,100000,0,1
+A8,8.34,Texas Instruments -- Digital,60000,0,1
+A3,8.34,Texas Instruments - Analog,60000,0,1
+B2A4,8.34,"Piramal Group - Tech,Mumbai",75000,1,1
+A7,8.33,Walmart,100000,0,1
+B4A7,8.33,"UBER - Software Engineer, Bengaluru",177000,1,1
+AA,8.33,QUALCOMM,45000,0,1
+B3A7,8.33,"Nutanix , Bengaluru / Pune",110000,1,1
+A7,8.33,MathWorks India Private Limited,55000,0,1
+A7,8.33,Hevo Technologies India Pvt. Ltd.,150000,0,1
+A7,8.33,"Flipkart (Software Development),Bengaluru",100000,0,1
+A7,8.32,Walmart,100000,0,1
+AA,8.32,Texas Instruments -- Digital,60000,0,1
+B3A7,8.32,Morgan Stanley Equity Research,100000,1,1
+A8,8.32,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+A7,8.32,"DevRev Cloud India Pvt. Ltd.,Bengaluru",100000,0,1
+A3,8.31,Texas Instruments - Analog,60000,0,1
+A7,8.31,"Siemens Industry Software India Pvt. Ltd, Pune",40000,0,1
+B1AA,8.31,"Nutanix , Bengaluru / Pune",110000,1,1
+A3,8.31,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+B3AA,8.31,"JPMC CIB Research & Analytics, Markets - Trading and Structuring",175000,1,1
+A7,8.31,"Flipkart (Software Development),Bengaluru",100000,0,1
+A7,8.31,"Flipkart (Software Development),Bengaluru",100000,0,1
+AA,8.31,"Flipkart (Software Development),Bengaluru",100000,0,1
+AA,8.307,Texas Instruments - Analog,60000,1,0
+A4,8.306,JPMC GR&C Market Risk,150000,1,0
+A4,8.305,JPMC CIB R&A – Banking,75000,1,0
+A8,8.3,Wayfair Global Technology Pvt. Ltd-SCRT,100000,0,1
+A7,8.3,"Oracle, Bangalore",100000,0,1
+B4A7,8.3,"JPMC, Model Risk and Governance Review",150000,0,1
+B5A2,8.3,"DBOI- CRDU, Pune",50000,1,1
+A3,8.3,AMAZON SDE,143000,0,1
+AB,8.295,Telus International - Product Management,70000,1,0
+A3,8.29,Texas Instruments - Analog,60000,0,1
+AA,8.29,QUALCOMM,45000,0,1
+B5A4,8.29,Morgan Stanley Advantage Services - Legal and Compliance,125000,1,1
+A3,8.29,Meesho,35000,0,1
+A7,8.29,MathWorks India Private Limited,55000,0,1
+B3A8,8.29,"JPMC CIB Research & Analytics, Markets - Trading and Structuring",175000,1,1
+A7,8.29,Google India Software,123333,0,1
+A1,7.02,JPMC CIB R&A – Banking,75000,0,1
+A3,8.28,Texas Instruments - Embedded Software,60000,0,1
+AA,8.28,Texas Instruments - Analog,60000,0,1
+B5A3,8.28,"Nutanix , Bengaluru / Pune",110000,1,1
+B4A7,8.28,Nomura- Risk Management - CEM Internship,N/A,1,1
+B3A7,8.28,Nomura- Global Markets-Analyst role,N/A,1,1
+A7,8.28,Franklin Templeton - Data Science/Finance,150000,0,1
+A7,8.28,"Flipkart (Software Development),Bengaluru",100000,0,1
+A4,8.274,CSIR-NAL,N/A,1,0
+A3,8.27,Texas Instruments - Analog,60000,0,1
+B5A4,8.27,Morgan Stanley Fixed Income Division - Counterparty Risk role,100000,1,1
+B1A7,8.27,JPMC Market Risk Product Analytics,150000,1,1
+A7,8.27,Franklin Templeton - Data Science/Finance,150000,0,1
+A3,8.27,"BlokTrek,Bengaluru",N/A,0,1
+B4A3,8.27,AMAZON SDE,143000,1,1
+B4AA,8.26,Texas Instruments - Analog,60000,1,1
+A7,8.26,"Flipkart (Software Development),Bengaluru",100000,0,1
+A3,8.26,"Aptiv ,Bengaluru",50000,0,1
+A7,8.26,"Apple-Software Development Engineering , IS&T",90000,0,1
+A3,8.25,Texas Instruments - Analog,60000,0,1
+B5A7,8.25,"Nutanix , Bengaluru / Pune",110000,1,1
+B3A7,8.25,"Confluent India Pvt Ltd.,Bengaluru",110000,0,1
+A3,8.25,"Cadence Design Systems,Bengaluru",N/A,0,1
+AA,8.25,AMAZON SDE,143000,0,1
+A7,8.25,AMAZON SDE,143000,0,1
+A7,8.24,Meesho,35000,0,1
+A7,8.24,"Guardian Life Insurance Company, Chennai",100000,0,1
+A7,8.24,"Flipkart (Software Development),Bengaluru",100000,0,1
+B4A7,8.24,"Flipkart (Software Development),Bengaluru",100000,0,1
+A7,8.24,"Electronic Arts, India",49476,0,1
+A7,8.24,"Arista Networks India Private Limited,Bengaluru",75000,0,1
+A7,8.24,"Apple-Software development-MSI, Product Operations team",90000,0,1
+A7,8.24,AMAZON SDE,143000,0,1
+B3A7,8.24,"A.T. Kearney Consulting (India) Private Limited,Gurugram",125000,1,1
+A4,8.238,JPMC CIB R&A – Banking,75000,1,0
+B5A7,8.23,"Nutanix , Bengaluru / Pune",110000,1,1
+B3A7,8.23,Nomura- Wholesale Strategy,N/A,1,1
+A7,8.23,"Netradyne,Bengaluru",35000,0,1
+B4A4,8.23,"Indus Insights and Analytical Services Pvt Ltd,Gurugram",N/A,1,1
+A3,8.23,Google India Hardware Engineering,125000,0,1
+A7,8.23,AMAZON SDE,143000,0,1
+A7,8.228,"Project44 Software Services Pvt. Ltd., Bengaluru",135000,1,0
+A4,8.226,GE Aerospace,N/A,1,0
+A7,8.22,Qure.ai Technologies Pvt. Ltd.,125000,0,1
+B1A7,8.22,"Nutanix , Bengaluru / Pune",110000,1,1
+A7,8.22,Nielsen Global Media,50000,0,1
+AA,8.22,IBM,30000,0,1
+A7,8.22,Goldman Sachs - Hyderabad,191666,0,1
+A4,8.21,WCB Robotics India Pvt Ltd - Mechanical,32500,0,1
+A7,8.21,Walmart,100000,0,1
+AA,8.21,Texas Instruments - Embedded Software,60000,0,1
+B2A7,8.21,"Nutanix , Bengaluru / Pune",110000,1,1
+A7,8.21,IBM,30000,0,1
+A7,8.21,IBM,30000,0,1
+A7,8.21,"Flipkart Internet Pvt Ltd - Data Engineering,Bengaluru",100000,0,1
+B5A3,8.21,"DevRev Cloud India Pvt. Ltd.,Bengaluru",100000,0,1
+B2A7,8.21,"Apple-Software Development Engineering , IS&T",90000,1,1
+A7,8.206,"Eightfold AI India Pvt. Ltd.,Bengaluru/Noida",120000,1,0
+A7,8.2,Silverleaf Capital Services Private Limited,N/A,,1
+A4,8.2,"Siemens Energy, Gurugram",40000,0,1
+A7,8.2,RingCentral India Pvt Ltd,50000,0,1
+B4A7,8.2,Hevo Technologies India Pvt. Ltd.,150000,0,1
+B1A4,8.2,"Flipkart Internet Pvt Ltd - Business Analytics,Bengaluru",50000,1,1
+A3,7.85,Telus International - Solution Engineering,70000,0,1
+B1A7,8.19,"Nutanix , Bengaluru / Pune",110000,1,1
+B3AA,8.19,"MIPS Embedded Technologies Pvt. Ltd,Bengaluru",50000,1,1
+B3AA,8.19,Franklin Templeton - Data Science/Finance,150000,1,1
+B2A3,8.19,"Flipkart Internet Pvt Ltd - Data Engineering,Bengaluru",100000,0,1
+A4,8.19,"Flipkart Internet Pvt Ltd - Business Analytics,Bengaluru",50000,0,1
+B5A7,8.19,"D. E. Shaw India Private Limited - Project 1,Hyderabad",283000,0,1
+A4,8.189,CSIR-NAL,N/A,1,0
+AA,8.18,Walmart,100000,0,1
+B3A7,8.18,Walmart,100000,0,1
+A7,8.18,Qure.ai Technologies Pvt. Ltd.,125000,0,1
+B4A7,8.18,Qure.ai Technologies Pvt. Ltd.,125000,0,1
+B3AA,8.18,"Nutanix , Bengaluru / Pune",110000,1,1
+B1A1,8.18,Morgan Stanley Exo Trading,100000,1,1
+B2A8,8.18,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+B5A4,8.18,JPMC - GR&C WCR Counterparty Credit Risk,150000,1,1
+A3,8.18,"Guardian Life Insurance Company, Chennai",100000,0,1
+B2A1,8.18,"Gameskraft, IT- Product Management",N/A,1,1
+A7,8.18,ARM Embedded Technologies Pvt Ltd,N/A,0,1
+B3A7,8.18,"Apple-Software Development Engineering , IS&T",90000,0,1
+A7,8.178,"Telus International AI - Machine Learning,Bengaluru",150000,1,0
+A7,8.17,Zomato,0,0,1
+B1A8,8.17,Texas Instruments - Analog,60000,0,1
+B1A3,8.17,Telus International - Prompt Engineers - Code,104000,1,1
+A8,8.17,"Nutanix , Bengaluru / Pune",110000,1,0
+A7,8.17,McCain Foods (India) Pvt. Ltd.,50000,0,1
+AA,8.17,"Infinera,Bengaluru",N/A,0,1
+B1A4,8.17,"Flipkart Internet Pvt Ltd - Business Analytics,Bengaluru",50000,1,1
+A3,8.17,"A.T. Kearney Consulting (India) Private Limited,Gurugram",125000,0,1
+B3A7,8.16,UBS- Global Banking(Front office),60000,1,1
+B5A3,8.16,"Nutanix , Bengaluru / Pune",110000,1,1
+A7,8.16,Nurix Labs Private Limited - Tech,N/A,,1
+B3A7,8.16,Nomura- Finance - MICMA Internship,N/A,1,1
+B5AA,8.16,Morgan Stanley Counterparty Risk role,100000,1,1
+A7,8.16,"Flipkart Internet Pvt Ltd - Data Engineering,Bengaluru",100000,0,1
+A3,8.16,"Flipkart Internet Pvt Ltd - Data Engineering,Bengaluru",100000,0,1
+AA,8.16,"Cadence Design Systems,Bengaluru",N/A,0,1
+A4,8.157,Forus Health,40000,1,0
+A4,8.152,"Flipkart Internet Pvt Ltd - Business Analytics,Bengaluru",50000,1,0
+A7,8.15,Qure.ai Technologies Pvt. Ltd.,125000,0,1
+B4AA,8.15,Google India Hardware Engineering,125000,1,1
+A7,8.15,"Even Healthcare, Bengaluru",100000,0,1
+A1,7.14,"UBS- RAS (Finance), Pune",60000,0,1
+A7,8.149,"Telus International AI - Machine Learning,Bengaluru",150000,1,0
+A4,8.148,JPMC CIB R&A – Banking,75000,1,0
+B5A4,8.14,Scapia Technology Private Limited - Software Engineering,100000,1,1
+A8,8.14,Nvidia Graphics - Bengaluru/Hyderabad,"80,000",0,1
+AA,8.14,McCain Foods (India) Pvt. Ltd.,50000,0,1
+B4A1,8.14,"Indus Insights and Analytical Services Pvt Ltd,Gurugram",N/A,1,1
+B3A7,8.14,"Guardian Life Insurance Company, Chennai",100000,1,1
+A7,8.14,"Flipkart Internet Pvt Ltd - Data Engineering,Bengaluru",100000,0,1
+B5A4,8.14,"Apple-MDE-MD team - Manufacturing Design Engineering, Bengaluru",90000,1,1
+A8,8.13,Wayfair Global Technology Pvt. Ltd- GST,100000,0,1
+A7,8.13,Walmart,100000,,1
+B4A3,8.13,Texas Instruments - Embedded Software,60000,1,1
+AA,8.13,SEDEMAC Mechatronics Limited,30000,0,1
+A7,8.13,Qure.ai Technologies Pvt. Ltd.,125000,,1
+AA,8.13,PwC US Advisory,80000,0,1
+B5A3,8.13,"Nutanix , Bengaluru / Pune",110000,1,1
+A1,7.241,"DBOI - Business Finance,Mumbai",50000,1,0
+B4A3,8.13,"Flipkart Internet Pvt Ltd - Site Reliability Engineering,Bengaluru",100000,0,1
+B4A7,8.13,AMAZON SDE,143000,0,1
+A3,8.128,"AMD,Hyderabad",35000,1,0
+A4,8.123,"Zetwerk Manufacturing Businesses, Noida",N/A,1,0
+A4,8.123,"Flipkart Internet Pvt Ltd - Business Analytics,Bengaluru",50000,1,0
+A3,8.12,Walmart,100000,0,1
+AA,8.12,Texas Instruments - Analog,60000,0,1
+B1AA,8.12,Telus International - Software Engineering,102000,1,1
+A3,8.12,"Piramal Group - Tech,Mumbai",75000,0,1
+B5A7,8.12,"Nutanix , Bengaluru / Pune",110000,1,1
+A3,8.12,"Guardian Life Insurance Company, Chennai",100000,0,1
+A7,8.12,"Flipkart Internet Pvt Ltd - UI Team ,Bengaluru",100000,0,1
+A3,8.11,Walmart,100000,0,1
+B2A1,8.11,Telus International - Product Management for AI,70000,1,1
+B5A4,8.11,Purplle,50000,0,1
+AA,8.11,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+A7,8.11,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+A1,8.639,"DBOI - GCAF,Mumbai",50000,1,0
+A7,8.11,IBM,30000,,1
+A7,8.11,"Guardian Life Insurance Company, Chennai",100000,0,1
+A7,8.11,"Apple-Software Development Engineering , IS&T",90000,0,1
+AA,8.103,JPMC CIB R&A – Banking,75000,1,0
+A7,8.1,Walmart,100000,0,1
+A8,8.1,"Renesas, Bengaluru",45000,0,1
+A8,8.1,"Netradyne,Bengaluru",35000,0,1
+AA,8.1,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+A7,8.1,JPMC CIB R&A – Banking,75000,0,1
+A8,8.092,Telus International - Software Engineering,102000,1,0
+B2A8,8.09,"UBS- QRM, Mumbai",60000,1,1
+A8B5,8.09,Telus International - Software Engineering,102000,1,1
+B3A7,8.09,Nomura- Global Markets-Analyst role,N/A,1,1
+B4A1,8.09,Nomura IT Internship - GMIT - Trade Processing,N/A,1,1
+B3A7,8.09,"Flipkart (Software Development),Bengaluru",100000,1,1
+B3A7,8.09,COMMVAULT,N/A,0,1
+B2AA,8.08,"UBER - Software Engineer, Hyderabad/Bengaluru",177000,1,1
+A3,8.08,Texas Instruments - Analog,60000,0,1
+A3,8.08,"Tenstorrent ,Bengaluru",100000,0,1
+A4,8.08,"Siemens Energy, Gurugram",40000,0,1
+A7,8.08,Postman,60000,0,1
+B1A7,8.08,"Flipkart (Software Development),Bengaluru",100000,1,1
+A7,8.08,"Avalara Technologies,Pune",50000,0,1
+A3,8.077,Texas Instruments - Embedded Software,60000,1,0
+A4,8.076,"IFB Industries,Goa",0,1,0
+A4,8.074,JPMC CIB R&A – Banking,75000,1,0
+A4,8.072,Viacom -Business Analytics & Business Intelligence,N/A,1,0
+AB,8.072,JPMC CIB Research & Analytics Markets - CCAR & Sales,150000,1,0
+A7,8.07,Walmart,100000,0,1
+B4AA,8.07,Telus International - Software Engineering,102000,1,1
+B3A4,8.07,Morgan Stanley Fixed Income Division - Counterparty Risk role,100000,1,1
+B3A4,8.07,"JPMC CIB Research & Analytics, Global Research",150000,1,1
+B5A4,8.07,"Flipkart Internet Pvt Ltd - Business Analytics,Bengaluru",50000,1,1
+AA,8.07,"Aptiv ,Bengaluru",50000,0,1
+A3,8.07,AMAZON SDE,143000,0,1
+AA,8.06,"Renesas, Hyderabad",45000,0,1
+B4A7,8.06,"Oracle, Bangalore",100000,1,1
+B2A1,8.06,"Metadome,Gurugram",N/A,1,1
+B2A1,8.06,JPMC GR&C Market Risk,150000,1,1
+A7,8.06,"Flipkart Internet Pvt Ltd - Site Reliability Engineering,Bengaluru",100000,0,1
+A4,8.06,"Exobot Dynamics Pvt Ltd,Sonepat",12000,0,1
+A7,8.06,"A.T. Kearney Consulting (India) Private Limited,Gurugram",125000,,1
+AA,8.056,JPMC CIB Research & Analytics Markets - CCAR & Sales,150000,1,0
+AA,8.055,"AMD,Hyderabad",35000,1,0
+B3A7,8.05,"UBS- QRM, Mumbai",60000,1,1
+A3,8.05,Texas Instruments - Analog,60000,0,1
+A7,8.05,QUALCOMM,45000,,1
+A7,8.05,"Oracle, Bangalore",100000,,1
+B4A3,8.05,"JPMC, Model Risk and Governance Review",150000,0,1
+N/A,7.48,"QualityKiosk Technologies India Pvt Ltd , Navi mumbai",70000,1,1
+B1A8,8.05,"JPMC - G&C - CIO, Treasury & Corporate (CTC) Risk team - Credit Risk/ Liquidity Risk",150000,1,1
+AA,8.05,"Flipkart Internet Pvt Ltd - UI Team ,Bengaluru",100000,0,1
+AA,8.05,Carrier Technologies India Limited,N/A,0,1
+A4,8.048,Viacom - Content Strategy & Analytics,N/A,1,0
+A1,7.505,"DBOI - OPS, Bengaluru",50000,1,0
+A7,8.04,Meesho,35000,,1
+A7,8.04,Franklin Templeton - Data Science/Finance,150000,0,1
+A7,8.04,"Flipkart Internet Pvt Ltd - Site Reliability Engineering,Bengaluru",100000,,1
+B3A3,8.04,AMAZON SDE,143000,1,1
+A7,8.03,MathWorks India Private Limited,55000,,1
+A7,8.03,Hevo Technologies India Pvt. Ltd.,150000,,1
+B3A7,8.03,"Flipkart Internet Pvt Ltd - Site Reliability Engineering,Bengaluru",100000,0,1
+B5AA,8.03,"Enkrypt AI, Bengaluru",N/A,0,1
+A7,8.027,"Flipkart (Software Development),Bengaluru",100000,1,0
+A7,8.02,Zynga,100000,,1
+AA,8.02,QUALCOMM,45000,0,1
+A7,8.02,JPMC CIB R&A- Banking&Fintech,75000,,1
+A7,8.02,JPMC CIB R&A – Banking,75000,,1
+A7,8.02,CME GROUP,N/A,,1
+B2AA,8.02,Astera Labs,90000,0,1
+A4,8.019,"KPMG,Gurugram",30000,1,0
+B1A3,8.01,Telus International - Product Management for AI,70000,1,1
+B3A7,8.01,"PhonePe Private Limited,Bengaluru",80000,0,1
+A1,7.36,"DBOI - OPS, Bengaluru",50000,1,0
+B2AA,8.01,Goldman Sachs - Bengaluru,191666,0,1
+N/A,9.33,Texas Instruments -- Digital,60000,0,1
+B5AA,8.01,"Flipkart Internet Pvt Ltd - Site Reliability Engineering,Bengaluru",100000,1,1
+B5A7,8,Walmart,100000,0,1
+B4AA,8,"UBS- Finance Liquidity and Funding Modelling, Powai",60000,1,1
+B5A7,8,Sundial Systems Pvt. Ltd. - Engineering,N/A,1,1
+A7,8,"Apple-Software Development Engineering , IS&T",90000,0,1
+AA,7.991,Telus International - Software Engineering,102000,1,0
+A7,7.99,Walmart,100000,0,1
+B1AA,7.99,Texas Instruments - Embedded Software,60000,1,1
+B4A3,7.99,Telus International - Software Engineering,102000,1,1
+B4A7,7.99,Postman,60000,1,1
+B4A7,7.99,Morgan Stanley - Firm Risk Management,100000,1,1
+B1A4,7.99,"Guardian Life Insurance Company, Chennai",100000,1,1
+A3,7.99,"Flipkart Internet Pvt Ltd - UI Team ,Bengaluru",100000,0,1
+B4A7,7.99,Apple-Software development- BPR team-Business Process Re-engineering,90000,0,1
+A4,7.981,"JPMC CIB Research & Analytics, Markets - Trading and Structuring",175000,1,0
+A5,7.981,Flipkart Internet Pvt. Ltd. - AM Planning,100000,1,
+A7,7.98,Walmart,100000,,1
+A7,7.98,Texas Instruments - Embedded Software,60000,,1
+A3,7.98,Texas Instruments - Embedded Software,60000,0,1
+B3A3,7.98,"Intel,Bengaluru",40000,1,1
+A7,7.98,"Flipkart Internet Pvt Ltd - UI Team ,Bengaluru",100000,,1
+B4A7,7.98,"Blackrock QAE, Mumbai",N/A,,1
+B1AA,7.97,"UBER - Software Engineer, Hyderabad/Bengaluru",177000,1,1
+B4AA,7.97,Telus International - Prompt Engineers - Logic and Reasoning,75000,1,1
+B3A3,7.97,Telus International - Prompt Engineers - Code,104000,1,1
+B3A7,7.97,"Project44 Software Services Pvt. Ltd., Bengaluru",135000,1,1
+B4A8,7.97,ParaScalr Inc - Semiconductor Devices/VLSI,N/A,0,1
+AA,7.97,"NXP India Pvt Ltd, Bengaluru",N/A,0,1
+B4A7,7.97,Nomura Global Markets SP Quants role,N/A,1,1
+A3,7.97,"DBOI - GCAF,Mumbai",50000,0,1
+A7,7.97,COMMVAULT,N/A,,1
+A4,7.963,Flipkart Internet Pvt. Ltd. - AM Planning,100000,1,0
+A7,7.96,Walmart,100000,,1
+A3,7.96,Texas Instruments -- Digital,60000,0,1
+B4A7,7.96,"Project44 Software Services Pvt. Ltd., Bengaluru",135000,1,1
+A7,7.96,"PhonePe Private Limited,Bengaluru",80000,,1
+B2A3,7.96,Nanojoules Semiconductors,40000,0,1
+A7,7.96,McCain Foods (India) Pvt. Ltd.,50000,,1
+B3A7,7.96,"JPMC CIB Research & Analytics, Global Research",150000,1,1
+B5A8,7.96,"Intel,Bengaluru",40000,1,1
+B3A7,7.96,BureauID India Private Limited,N/A,0,1
+A7,7.96,AMAZON SDE,143000,0,1
+A7,7.952,NetApp India Pvt. Ltd. - Cloud Volume Engineering,50000,1,0
+A8,7.95,Walmart,100000,0,1
+AA,7.95,Texas Instruments - Embedded Software,60000,0,1
+B1A4,7.95,Nielsen - DD Continuing,50000,1,1
+A7,7.95,"Flipkart (Software Development),Bengaluru",100000,1,0
+A7,7.95,"Arista Networks India Private Limited,Bengaluru",75000,,1
+AA,7.95,AMAZON SDE,143000,0,1
+A1,8.352,"Flipkart Internet Pvt Ltd - Business Analytics,Bengaluru",50000,1,0
+A7,7.94,Walmart,100000,,1
+B1A7,7.94,"UBER - Data Analytics,Hyderabad/Bengaluru",N/A,1,1
+B1A4,7.94,Telus International - Product Management for AI,70000,1,1
+A3,7.94,QUALCOMM,45000,0,1
+AA,7.94,"PSEMI Corporation, Chennai",45000,0,1
+B2A8,7.94,"MIPS Embedded Technologies Pvt. Ltd,Bengaluru",50000,1,1
+B3A4,7.94,"JPMC CIB Research & Analytics, Global Research",150000,1,1
+B4A7,7.94,"Flipkart (Software Development),Bengaluru",100000,1,1
+A7,7.94,"Dezerv Investments Pvt. Ltd , Bangalore",N/A,,1
+B1A7,7.94,AMAZON SDE,143000,,1
+A2,7.933,Viacom - D2C Subscriptions – ChatBots (WhatsApp and RCS),N/A,1,0
+B1A7,7.93,Walmart,100000,,1
+A4,7.93,"UBS- RAS (Finance), Pune",60000,0,1
+B5A3,7.93,Telus International - Solution Engineering,70000,0,1
+B1A7,7.93,Nielsen Global Media,50000,0,1
+AA,7.93,Google India Hardware Engineering,125000,0,1
+B3A7,7.93,Frontier Tower Associates Philippines Inc.,N/A,1,1
+B2A4,7.93,"Flipkart Internet Pvt Ltd - Business Development,Bengaluru",50000,1,1
+AA,7.92,ParaScalr Inc -Artificial Intelligence,N/A,0,1
+B2A3,7.92,NetApp India Pvt ltd,60000,1,1
+B4A8,7.92,Myntra Designs Pvt. Ltd,60000,1,1
+B1A8,7.92,"MIPS Embedded Technologies Pvt. Ltd,Bengaluru",50000,1,1
+B1A1,7.92,Bugbase Security Private Limited,N/A,1,1
+B3A7,7.92,"Apple-Software Development Engineering , IS&T",90000,,1
+AA,7.918,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A4,7.917,Nielsen - DD Continuing,50000,1,0
+AA,7.91,"Wayfair Global Technology Pvt. Ltd-Marketing, Data and ML platform Engineering team",100000,0,1
+A7,7.91,Walmart,100000,0,1
+A4,7.91,PRATT & WHITNEY,20000,0,1
+B5A8,7.91,Morgan Stanley - Firm Risk Management,100000,1,1
+N/A,7.69,"Ericsson Global India Pvt. Ltd.,Bengaluru",60000,0,1
+A7,7.91,Apple-Software development- BPR team-Business Process Re-engineering,90000,,1
+A4,7.903,"Siemens R&D, Bengaluru",40000,1,0
+B4A3,7.9,Nomura- Fintech,N/A,1,1
+B5A4,7.9,"Indus Insights and Analytical Services Pvt Ltd,Gurugram",N/A,1,1
+B4A7,7.9,Goldman Sachs - Bengaluru,191666,0,1
+A7,7.9,Eltropy ( Work on the U.S. time zone ),50000,,1
+B2A4,7.9,"BlokTrek,Bengaluru",N/A,0,1
+A1,9.23,"Flipkart Internet Pvt Ltd - Business Development,Bengaluru",50000,0,1
+A7,7.89,Zynga,100000,,1
+B1AA,7.89,Texas Instruments -- Digital,60000,1,1
+A8,7.89,"Guardian Life Insurance Company, Chennai",100000,0,1
+A3,7.89,"BlokTrek,Bengaluru",N/A,0,1
+AA,7.889,Texas Instruments - Embedded Software,60000,1,0
+B5A4,7.88,Zomato (Grofers),60000,0,1
+A3,7.88,"UBS - GOTO, Pune",60000,0,1
+B1A7,7.88,Sundial Systems Pvt. Ltd. - Data Science,N/A,1,1
+B3AA,7.88,Nomura- Risk Management - Risk Methodology Group,N/A,1,1
+AA,7.88,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+B2A7,7.88,"Flipkart (Software Development),Bengaluru",100000,1,1
+B3A7,7.88,"AMD,Hyderabad",35000,,1
+AA,7.876,GE Vernova Advanced (BANGALORE/NOIDA/HYDERABAD),N/A,1,0
+A3,7.875,Texas Instruments - Embedded Software,60000,1,0
+A3,7.87,"VINJEY Software Systems Pvt. Ltd., Bengaluru",N/A,0,1
+B1A7,7.87,NetApp India Pvt ltd,60000,1,1
+B4A3,7.87,"Intel,Bengaluru",40000,1,1
+AA,7.87,"Aptiv ,Bengaluru",50000,0,1
+A7,7.87,"Aptiv ,Bengaluru",50000,,1
+B1A7,7.87,Apple Software engineering-WTE team,90000,,1
+AA,7.869,Rusk Media Pvt. Ltd - Product Management,80000,1,0
+A4,7.868,"Flipkart Internet Pvt Ltd - Business Development,Bengaluru",50000,1,0
+B5AA,7.866,NetApp India Pvt ltd,60000,1,1
+B1A3,7.86,NetApp India Pvt ltd,60000,1,1
+B1A8,7.86,"Indus Insights and Analytical Services Pvt Ltd,Gurugram",N/A,1,1
+A4,7.852,"Time tooth Technologies Pvt Ltd, Noida/Bengaluru",N/A,1,0
+A7,7.85,Zynga,100000,,1
+N/A,7.897,"Flipkart Internet Pvt Ltd - Business Development,Bengaluru",50000,1,1
+B1A1,7.85,Morgan Stanley Advantage Services - FRM,125000,1,1
+B5A3,7.85,Google India Hardware Engineering,125000,1,1
+B5A7,7.85,"Flipkart (Software Development),Bengaluru",100000,1,1
+B2A4,7.85,"DBOI - Infra Finance,Pune",50000,1,1
+A7,7.85,"D. E. Shaw India Private Limited - Project 2,Hyderabad",250000,,1
+A1,7.843,"Flipkart Internet Pvt Ltd - Business Development,Bengaluru",50000,1,0
+B3A7,7.84,"UBS- QRM, Mumbai",60000,1,1
+B2AA,7.84,Myntra Designs Pvt. Ltd,60000,1,1
+A5,7.84,GTM Buddy Software private limited - Customer Success,N/A,1,0
+A3,7.84,"Dezerv Investments Pvt. Ltd , Bangalore",N/A,1,0
+A3,7.84,ARM Embedded Technologies Pvt Ltd,N/A,0,1
+AA,7.84,AMAZON SDE,143000,0,1
+A7,7.837,"Flipkart (Software Development),Bengaluru",100000,1,0
+A5,7.835,"Flipkart Internet Pvt Ltd - Business Development,Bengaluru",50000,1,0
+N/A,7.74,Eltropy ( Work on the U.S. time zone ),50000,0,1
+A8,7.83,Walmart,100000,0,1
+A3,7.83,Truva (Porch Technologies Private Limited) - IT,N/A,0,1
+A3,7.83,Morgan Stanley Advantage Services - FRM,125000,0,1
+B5A4,7.83,Morgan Stanley Advantage Services - FRM,125000,1,1
+B5A1,7.83,"Flipkart Internet Pvt Ltd - Business Development,Bengaluru",50000,1,1
+B5A7,7.83,"Flipkart (Software Development),Bengaluru",100000,1,1
+A4,7.824,Siemens - Simulation and Digital Twin,40000,1,0
+AA,7.822,"UBS- Product Control (Finance), Hyderabad",60000,1,0
+B2A7,7.82,Wayfair Global Technology Pvt. Ltd- GST,100000,,1
+A3,7.82,"UBS- Risk Data, Mumbai",60000,0,1
+A3,7.82,SIEMENS EDA India Private Limited,40000,0,1
+B3A7,7.82,PIEDS BITS Pilani,0,1,1
+B1A7,7.82,Goldman Sachs - Bengaluru,191666,0,1
+B2A7,7.82,"Flipkart (Software Development),Bengaluru",100000,1,1
+A5,7.811,"Flipkart Internet Pvt Ltd - Business Development,Bengaluru",50000,1,0
+B4A7,7.81,Wayfair Global Technology Pvt. Ltd- GST,100000,,1
+A8,7.81,Walmart,100000,0,1
+AA,7.81,Siemens EDA (Formerly Mentor Graphics) - Analog,40000,0,1
+A3,7.81,McCain Foods (India) Pvt. Ltd.,50000,0,1
+B5A7,7.81,"Flipkart (Software Development),Bengaluru",100000,1,1
+A3,7.807,Petasense Technologies Pvt. Ltd,N/A,1,0
+A4,7.804,"Flipkart Internet Pvt Ltd - Business Development,Bengaluru",50000,1,0
+A7,7.8,Walmart,100000,,1
+A7,7.8,"UBER - Software Engineer, Hyderabad/Bengaluru",177000,,1
+B2A7,7.8,"UBER - Software Engineer, Hyderabad/Bengaluru",177000,1,1
+B5A3,7.8,Texas Instruments -- Digital,60000,1,1
+B4A3,7.8,ProteanTecs - Electronic Design Automation,40000,1,1
+AA,7.8,"Netradyne,Bengaluru",35000,0,1
+B3A7,7.8,Meesho,35000,,1
+B5A1,7.8,"Indus Insights and Analytical Services Pvt Ltd,Gurugram",N/A,1,1
+A7,7.8,"Avaamo, Bengaluru",N/A,,1
+AA,7.8,ARM Embedded Technologies Pvt Ltd,N/A,0,1
+A4,7.793,JPMC CIB R&A – Banking,75000,1,0
+A1,7.781,"Flipkart Internet Pvt Ltd - Business Development,Bengaluru",50000,1,0
+A7,7.79,Texas Instruments - Embedded Software,60000,,1
+B1AA,7.79,Texas Instruments - Analog,60000,0,1
+B3AA,7.79,Stampmyvisa- NON IT,N/A,1,1
+B3A7,7.79,Procter & Gamble (P&G),170000,,1
+B4AA,7.79,Myntra Designs Pvt. Ltd,60000,1,1
+B3A3,7.79,JPMC - GR&C CCB Risk Strategic Analytics,75000,1,1
+A7,7.79,"Aptiv ,Bengaluru",50000,,1
+A7,7.79,AMAZON SDE,143000,,1
+A4,7.788,Viacom -Retention Marketing,N/A,1,0
+A7,7.785,"Flipkart (Software Development),Bengaluru",100000,1,0
+A8,7.784,"AMD,Bengaluru",35000,1,0
+A1,7.78,"Flipkart Internet Pvt Ltd - Business Development,Bengaluru",50000,0,1
+B1A7,7.78,Telus International - Solution Engineering,70000,1,1
+A3,7.78,Piramal Pharma Limited,75000,1,0
+B1A7,7.78,NetApp India Pvt ltd,60000,1,1
+B5A7,7.78,JPMC - GR&C WCR Counterparty Credit Risk,150000,1,1
+B4AA,7.78,"Intel,Bengaluru",40000,1,1
+A1,7.552,Portkey AI - Management,45000,1,0
+B5A7,7.78,AMAZON SDE,143000,,1
+A4,7.771,CSIR-NAL,N/A,1,0
+B3A7,7.77,"Flipkart (Software Development),Bengaluru",100000,1,1
+B4A2,7.77,"Bread Financial , Bengaluru",N/A,1,1
+A7,7.77,"Avaamo, Bengaluru",N/A,,1
+A4,7.766,Siemens - Data Science,40000,1,0
+B1A1,7.76,"UBS - Reporting and Analytics, Pune",60000,1,1
+A7,7.76,Truva (Porch Technologies Private Limited) - IT,N/A,,1
+AA,7.76,"Jivox Corporation,Bengaluru",75000,0,1
+A3,7.76,Google India Hardware Engineering,125000,0,1
+B1AA,7.76,"Dezerv Investments Pvt. Ltd , Bangalore",N/A,1,1
+A7,7.75,Walmart,100000,,1
+B5A7,7.75,Walmart,100000,,1
+A3,7.75,Nurix Labs Private Limited - Tech,N/A,0,1
+B4A7,7.75,Nomura- Global Markets-Analyst role,N/A,1,1
+A7,7.75,McCain Foods (India) Pvt. Ltd.,50000,,1
+A3,7.75,"Flipkart Internet Pvt Ltd - Business Development,Bengaluru",50000,0,1
+A7,7.75,"Dezerv Investments Pvt. Ltd , Bangalore",N/A,,1
+B1A3,7.75,"Dezerv Investments Pvt. Ltd , Bangalore",N/A,1,1
+B4A7,7.75,"Arista Networks India Private Limited,Bengaluru",75000,,1
+A7,7.748,NetApp India Pvt. Ltd. - Cloud Volume Engineering,50000,1,0
+B1AA,7.74,Walmart,100000,1,1
+B3A7,7.74,"UBS- QRM, Mumbai",60000,1,1
+AA,7.74,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+A8,7.74,JPMC CIB R&A – Banking,75000,0,1
+A7,7.74,Goldman Sachs - Bengaluru,191666,,1
+N/A,7.49,Eltropy ( Work on the U.S. time zone ),50000,1,1
+B5A7,7.74,"Dezerv Investments Pvt. Ltd , Bangalore",N/A,1,1
+B4A8,7.74,Blackrock AFE,N/A,1,1
+AA,7.74,AMAZON SDE,143000,0,1
+A4,7.739,House of Vaaree Pvt Ltd - Non Tech,N/A,1,0
+A4,7.731,UBS - Investment Banking,60000,1,0
+A8,7.73,"UBS- Product Control (Finance), Hyderabad",60000,0,1
+B3A1,7.73,"UBS - Reporting and Analytics, Pune",60000,1,1
+B3AA,7.73,Nomura- Risk Management - Credit Risk Management,N/A,1,1
+B3A8,7.73,Nomura- Global Markets-Analyst role,N/A,1,1
+A4,7.73,JPMC CIB R&A – Banking,75000,0,1
+B1A4,7.73,"Indus Insights and Analytical Services Pvt Ltd,Gurugram",N/A,1,1
+B4A8,7.73,Blackrock AFE,N/A,1,1
+A4,7.729,Viacom -Retention Marketing,N/A,1,0
+B3,7.724,"UBS- Product Control (Finance), Hyderabad",60000,1,0
+A7,7.72,Walmart,100000,,1
+A7,7.72,Telus International - Solution Engineering,70000,,1
+A8,7.72,JPMC CIB R&A – Banking,75000,0,1
+A7,7.72,"Jivox Corporation,Bengaluru",75000,,1
+A4,7.718,"Pixis - Tech, Bengaluru",40000,1,0
+A8,7.711,"Dezerv Investments Pvt. Ltd,Mumbai",N/A,1,0
+B3A7,7.71,Zomato,0,,1
+A3,7.71,Wayfair Global Technology Pvt. Ltd- Search and Recommendations,100000,,1
+A7,7.71,Walmart,100000,,1
+B4A8,7.71,Telus International - Prompt Engineers - Logic and Reasoning,75000,1,1
+B2A3,7.71,SiFive India Pvt Ltd,N/A,1,1
+A3,7.71,Nykaa - Engineering,N/A,0,1
+A3,7.71,"NXP India Pvt Ltd, Noida",N/A,0,1
+A3,7.71,Myntra Designs Pvt. Ltd,60000,0,1
+B5A4,7.71,Meesho - APM,35000,0,1
+N/A,7.3,DBOI MVRM Ex Vals,50000,,1
+A8,7.709,NI (National Instruments),N/A,1,0
+A3,7.706,Happay - Python,75000,1,0
+A7,7.702,"Flipkart (Software Development),Bengaluru",100000,1,0
+B5A3,7.7,"UBS- QRM, Mumbai",60000,1,1
+A4,7.7,"UBS- Product Control (Finance), Hyderabad",60000,0,1
+B3A7,7.7,Nomura- IT Internship - GMIT - IWM,N/A,1,1
+B3A7,7.7,Myntra Designs Pvt. Ltd,60000,1,1
+A7,7.7,McCain Foods (India) Pvt. Ltd.,50000,,1
+B3A7,7.7,"JPMC CIB Research & Analytics, Global Research",150000,1,1
+B3A7,7.7,Goldman Sachs - Bengaluru,191666,,1
+B5A4,7.7,FlexiLoans Technologies Pvt Ltd,N/A,1,1
+AA,7.7,COMMVAULT,N/A,0,1
+A4,7.7,ARM Embedded Technologies Pvt Ltd,N/A,,1
+AA,7.7,ARM Embedded Technologies Pvt Ltd,N/A,0,1
+A1,6.833,"Porter - Product Management ,Bengaluru",40000,1,0
+A7,7.692,"Flipkart (Software Development),Bengaluru",100000,1,0
+B4A3,7.69,Walmart,100000,1,1
+B2A3,7.69,"UBS - Reporting and Analytics, Pune",60000,1,1
+B5A7,7.69,NetApp India Pvt ltd,60000,1,1
+A7,7.69,Myntra Designs Pvt. Ltd,60000,,1
+B3A8,7.69,"MSCI - Real Estate Index Management Research,Mumbai",60000,1,1
+B4A7,7.69,"Flipkart (Software Development),Bengaluru",100000,1,1
+N/A,7.16,Purplle,50000,1,1
+B5AA,7.69,Bisquare Systems Private Limited,N/A,1,1
+A8,7.688,JPMC CIB R&A – Banking,75000,1,0
+A7,7.684,"Flipkart (Software Development),Bengaluru",100000,1,0
+B3AA,7.68,JPMC GR&C Market Risk,150000,1,1
+A7,7.68,Goldman Sachs - Bengaluru,191666,,1
+A7,7.68,"Electronic Arts, India",49476,,1
+A7,7.68,Carrier Technologies India Limited,N/A,,1
+B3AA,7.68,"Blackrock QAE, Gurgaon",N/A,1,1
+A4,7.679,"Genpact - C&H SCM, Bengaluru",30000,1,0
+A1,7.018,"Ernst & Young L.L.P.,Bangalore",38000,1,0
+A3,7.673,"AMD,Bengaluru",35000,1,0
+A7,7.67,MSCI Services Pvt. Ltd. - NPD,60000,,1
+B2A4,7.67,Meesho - APM,35000,1,1
+B2A7,7.67,"JPMC CIB Research & Analytics, Markets - Trading and Structuring",175000,1,1
+B5A7,7.67,"Flipkart (Software Development),Bengaluru",100000,1,1
+A7,7.67,"Electronic Arts, India",49476,,1
+A4,7.67,Apple-Automation Engineering-MD team,90000,0,1
+A4,7.667,"Viacom - Performance Marketing,Mumbai",N/A,1,0
+B3A7,7.667,"Arista Networks India Private Limited,Bengaluru",75000,0,1
+AA,7.664,JPMC CIB R&A – Banking,75000,1,0
+A3,7.66,Wayfair Global Technology Pvt. Ltd-SCRT,100000,0,1
+A3,7.66,Walmart,100000,0,1
+A4,7.66,Udaan,N/A,1,0
+B4A7,7.66,"UBER - Software Engineer, Hyderabad/Bengaluru",177000,1,1
+A8,7.66,"AMD,Bengaluru",35000,1,0
+AA,7.655,JPMC CIB R&A – Banking,75000,1,0
+A8,7.653,Nielsen - DD Continuing,50000,1,
+B5A2,7.653,Nielsen - DD Continuing,50000,1,
+B3AA,7.65,"UBS- QRM, Mumbai",60000,1,1
+B2A8,7.65,"UBS- Liquidity and control (Finance), Pune",60000,1,1
+A3,7.65,MathWorks India Private Limited,55000,,1
+A4,7.65,Carbon Impact Capial Pvt Ltd,N/A,1,0
+B2A3,7.65,"Cadence Design Systems,Bengaluru",N/A,1,1
+A4,7.648,Viacom - Data Platform and Analytics,N/A,1,0
+B4A3,7.64,"UBS- QRM, Mumbai",60000,1,1
+B2A4,7.64,Telus International - Product Management for AI,70000,0,1
+B3A7,7.64,Nomura- IT Internship - GMIT,N/A,1,1
+A7,7.64,Nielsen Global Media,50000,,1
+AA,7.64,Myntra Designs Pvt. Ltd,60000,,1
+B4A3,7.64,Happay - Python,75000,1,1
+B3A8,7.64,"Carbon Reduction Capital, LLC , Mumbai",N/A,1,1
+A7,7.64,ARM Embedded Technologies Pvt Ltd,N/A,,1
+AB,7.639,Viacom -AdOps - Data Analysis,N/A,1,0
+A2,7.636,"Delightful Gourmet Private Limited, Licious",N/A,1,0
+A4,7.632,"DBOI - OPS, Bengaluru",50000,1,0
+A8,7.63,Wayfair Global Technology Pvt. Ltd-SCRT,100000,0,1
+A7,7.63,Walmart,100000,,1
+B3A7,7.63,"JPMC CIB Research & Analytics, Global Research",150000,1,1
+A8,7.63,Google India Hardware Engineering,125000,,1
+B3A7,7.63,"Electronic Arts, India",49476,,1
+A7,7.63,Capital One,100000,,1
+A7,7.63,AMAZON SDE,143000,,1
+AA,7.627,"Cadence Design Systems,Bengaluru",N/A,1,0
+B3A7,7.62,"UBS- QRM, Mumbai",60000,1,1
+A3,7.62,"Indus Insights and Analytical Services Pvt Ltd,Gurugram",N/A,0,1
+AA,7.62,Critical Path Technologies Private Limited (“SalarySe) - Tech,N/A,0,1
+B5AA,7.62,"AMD,Bengaluru",35000,1,1
+B4AA,7.62,"AMD,Bengaluru",35000,1,1
+AA,7.616,"AMD,Hyderabad",35000,1,0
+A7,7.615,"Flipkart (Software Development),Bengaluru",100000,1,0
+A3,7.613,Piramal Pharma Limited,75000,1,0
+B1A3,7.61,Zepto,60000,1,1
+AA,7.61,Walmart,100000,0,1
+A7,7.61,Rusk Media Pvt. Ltd - Fullstack Engineer,85000,,1
+B2A1,7.61,"Rusk Media Pvt. Ltd - Business Analyst, Mumbai",80000,0,1
+A7,7.61,PRATT & WHITNEY,20000,,1
+B1A1,7.61,Nielsen - DD Continuing,50000,1,1
+B5A3,7.61,Morgan Stanley Research Data Strats,120000,1,1
+B5AA,7.61,"JPMC CIB Research & Analytics, Global Research",150000,1,1
+B2A3,7.61,"Guardian Life Insurance Company, Chennai",100000,1,1
+B4A7,7.61,"Flipkart (Software Development),Bengaluru",100000,1,1
+A4,7.61,CSIR-NAL,N/A,1,0
+B4A3,7.61,AMAZON SDE - ES,143000,1,1
+A4,7.609,"Altair,Bengaluru",37500,1,0
+A4,7.608,"Mach33.aero,Bengaluru",N/A,1,0
+A3,7.604,Nielsen - DD Continuing,50000,1,0
+A7,7.602,"Siemens R&D, Bengaluru",40000,1,0
+B5A3,7.6,"Zeotap India Pvt. Ltd.,Bengaluru",65000,0,1
+AA,7.6,"PSEMI Corporation, Chennai",45000,,1
+B4A7,7.6,MSCI Services Pvt. Ltd. - NPD,60000,1,1
+B2AA,7.6,"Indus Insights and Analytical Services Pvt Ltd,Gurugram",N/A,1,1
+A4,7.595,"Delightful Gourmet Private Limited, Licious",N/A,1,0
+A8,7.592,"Piramal Group - BIU,Mumbai",75000,1,0
+A7,7.59,Telus International - Solution Engineering,70000,,1
+A7,7.59,QUALCOMM,45000,,1
+A7,7.59,Procter & Gamble (P&G),170000,,1
+A7,7.59,"Jivox Corporation,Bengaluru",75000,,1
+B2A8,7.59,"Intel,Bengaluru",40000,1,1
+A8,7.59,"Guardian Life Insurance Company, Chennai",100000,,1
+B5A7,7.59,"Flipkart (Software Development),Bengaluru",100000,1,1
+B1A1,7.59,CloudFiles Technologies Inc- IT,N/A,1,1
+A7,7.59,Capital One,100000,,1
+AA,7.585,Texas Instruments -- Software Development- SDE,60000,1,0
+B4A3,7.58,Texas Instruments - Embedded Software,60000,0,1
+A7,7.58,"Siemens Industry Software India Pvt. Ltd, Pune",40000,,1
+B3A8,7.58,ProteanTecs - Physical Design RTL2GDSII,40000,1,1
+A7,7.58,"Netradyne,Bengaluru",35000,,1
+B3A7,7.58,"Carbon Reduction Capital, LLC , Mumbai",N/A,1,1
+A3,7.575,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A4,7.575,"KPMG,Gurugram",30000,1,0
+A3,7.575,"DBOI - Business Finance,Mumbai",50000,1,0
+B3A4,7.57,"UBS- QRM, Mumbai",60000,1,1
+A8,7.57,"Piramal Group - BIU,Mumbai",75000,1,0
+B4A7,7.57,Nielsen Global Media,50000,1,1
+B3A7,7.57,NetApp India Pvt. Ltd. - Cloud Volume Engineering,50000,1,1
+A4,7.57,"DBOI - Business Finance,Mumbai",50000,0,1
+B4A4,7.57,"Altair,Bengaluru",37500,1,1
+A4,7.569,Viacom - Content Strategy & Analytics,N/A,1,0
+A8,7.569,JPMC CIB R&A – Banking,75000,1,0
+A7,7.56,Walmart,100000,,1
+AA,7.56,Nykaa - Engineering,N/A,0,1
+B4AA,7.56,Nomura- Fintech,N/A,1,1
+A7,7.56,JPMC CIB R&A – Banking,75000,,1
+B3A4,7.56,"Apple-OPM-Product Operations, team",90000,1,1
+A3,7.558,"AMD,Bengaluru",35000,1,0
+A4,7.556,JPMC CIB R&A – Banking,75000,1,0
+A8,7.553,Nielsen - DD Continuing,50000,1,0
+A1,5.814,"Ernst & Young L.L.P.,Bangalore",38000,1,
+B2A8,7.55,ValetEZ - Electronics,N/A,0,1
+A7,7.55,"UBS - GOTO, Pune",60000,,1
+B5AA,7.55,"Renesas, Hyderabad",45000,,1
+B5A3,7.55,Petasense Technologies Pvt. Ltd,N/A,1,1
+A7,7.55,Meesho,35000,,1
+A3,7.55,McCain Foods (India) Pvt. Ltd.,50000,0,1
+A4,7.55,INDUS INTERNATIONAL FZC,N/A,0,1
+AA,7.55,HSBC - Analyst,65000,,1
+A7,7.55,"Ericsson Global India Pvt. Ltd.,Bengaluru",60000,,1
+B1A3,7.55,Eltropy ( Work on the U.S. time zone ),50000,1,1
+A3,7.543,Texas Instruments - Analog,60000,1,0
+B2A4,7.54,"UBS- Liquidity and control (Finance), Pune",60000,0,1
+B3A3,7.54,ProteanTecs - Physical Design RTL2GDSII,40000,1,1
+B5A8,7.54,ProteanTecs - Physical Design RTL2GDSII,40000,1,1
+A4,7.539,"Mach33.aero,Bengaluru",N/A,1,0
+A3,7.538,"AMD,Bengaluru",35000,1,0
+A8,7.53,Zepto,60000,0,1
+A7,7.53,"Zeotap India Pvt. Ltd.,Bengaluru",65000,,1
+A8,7.53,"UBS- Risk Data, Pune",60000,0,1
+B5A4,7.53,Truva (Porch Technologies Private Limited) - NON IT,N/A,1,1
+A7,7.53,"Electronic Arts, India",49476,,1
+A8,7.53,"Aptiv ,Bengaluru",50000,0,1
+A1,7,Goodera - CSM,35000,1,0
+B1A3,7.52,"UBER - Data Analytics,Hyderabad/Bengaluru",N/A,1,1
+AA,7.52,Standard Chartered Global Business Services,N/A,0,1
+A4,7.52,Morgan Stanley Advantage Services - Legal and Compliance,125000,0,1
+B4A4,7.52,Morgan Stanley Advantage Services - Legal and Compliance,125000,,1
+B5A1,7.52,Meesho - APM,35000,0,1
+A8,7.52,HSBC - Analyst,65000,0,1
+B4AA,7.52,Google India Hardware Engineering,125000,1,1
+B3A7,7.52,"Blackrock QAE, Mumbai",N/A,0,1
+A3,7.52,"Aptiv ,Bengaluru",50000,0,1
+AA,7.52,AMAZON SDE - ES,143000,0,1
+A4,7.519,EkStep Foundation. Bengaluru,N/A,1,0
+AB,7.514,Melimu Edutech Pvt Ltd - Non Tech,N/A,1,0
+A1,6.74,Goodera - Product,35000,0,1
+A3,7.51,Silverleaf Capital Services Private Limited,N/A,0,1
+A7,7.51,SIEMENS EDA India Private Limited,40000,,1
+A7,7.51,"Micron Technology, Hyderabad/ Bangalore",50000,,1
+B2A3,7.51,Meesho - APM,35000,0,1
+AA,7.51,"DBOI - Business Finance,Mumbai",50000,,1
+A7,7.505,Nurix Labs Private Limited - Tech,N/A,1,0
+A2,7.505,JPMC CIB R&A – Banking,75000,1,0
+A1,8.282,"MBB Labs Private Limited (Maybank),Bengaluru",35000,1,0
+A3,7.505,"AMD,Bengaluru",35000,1,0
+B1A8,7.5,Zepto,60000,1,1
+A8,7.5,Zepto,60000,0,1
+B1A4,7.5,"UBS GCRG, Mumbai/Pune",60000,1,1
+N/A,6.67,Purplle,50000,1,1
+A4,7.5,Purplle,50000,0,1
+N/A,6.47,QCLAIRVOYANCE QUANTUM LABS PVT LTD,50000,0,1
+B5A7,7.5,"Blackrock QAE, Gurgaon",N/A,1,1
+A7,7.5,"Avalara Technologies,Pune",50000,,1
+A8,7.495,Texas Instruments - Analog,60000,1,0
+A3,7.495,"DBOI - Business Finance,Mumbai",50000,1,0
+A4,7.491,"UBS - Reporting and Analytics, Pune",60000,1,0
+B2A3,7.49,"Zeotap India Pvt. Ltd.,Bengaluru",65000,1,1
+AA,7.49,"Renesas, Bengaluru",45000,,1
+N/A,6.45,QCLAIRVOYANCE QUANTUM LABS PVT LTD,50000,1,1
+B2A2,7.49,DBOI MVRM Vals,50000,0,1
+A3,7.49,Bisquare Systems Private Limited,N/A,0,1
+A4,7.486,"DBOI - GCAF,Mumbai",50000,1,0
+A8,7.486,"DBOI - GCAF,Mumbai",50000,1,0
+B4A7,7.485,Dreamplug Technologies - DS,N/A,,1
+A2,7.481,CSIR - Central Road Research Institute (CRRI),N/A,1,0
+B4A4,7.48,"UBER - Data Analytics,Hyderabad/Bengaluru",N/A,1,1
+B5AA,7.48,SiFive India Pvt Ltd,N/A,1,1
+B4A7,6.283,"HERE Technologies India Pvt. Ltd,Mumbai",50000,1,0
+A7,7.48,"Netradyne,Bengaluru",35000,,1
+A3,7.48,Myntra Designs Pvt. Ltd,60000,0,1
+B1A8,7.48,"Intel,Bengaluru",40000,1,1
+B3A8,7.48,"Carbon Reduction Capital, LLC , Mumbai",N/A,1,1
+A7,7.48,"Avalara Technologies,Pune",50000,,1
+A4,7.477,"DBOI - MRAC,Mumbai",50000,1,0
+A4,7.476,JPMC CIB R&A – Banking,75000,1,0
+A4,7.476,"Delightful Gourmet Private Limited, Licious",N/A,1,0
+A1,6.917,"MBB Labs Private Limited (Maybank),Bengaluru",35000,1,0
+A8,7.47,Walmart,100000,0,1
+B4A8,7.47,"UBS- QRM, Mumbai",60000,1,1
+B1A8,7.47,SiFive India Pvt Ltd,N/A,1,1
+A3,7.47,Portkey AI - IT,45000,1,0
+B5A3,7.47,Myntra Designs Pvt. Ltd,60000,1,1
+A7,7.47,Cisco Systems India Pvt LTD,N/A,,1
+A3,7.468,"AMD,Bengaluru",35000,1,0
+AA,7.463,"Piramal Group - BIU,Mumbai",75000,1,
+B4AA,7.46,"UBER - Software Engineer, Hyderabad/Bengaluru",177000,1,1
+B2A4,7.46,"Time tooth Technologies Pvt Ltd, Noida/Bengaluru",N/A,1,1
+AA,7.46,"PSEMI Corporation, Chennai",45000,,1
+B3A8,7.46,Nurix Labs Private Limited - Tech,N/A,1,1
+B1A8,7.46,"Intel,Bengaluru",40000,1,1
+B2A1,7.46,"DBOI- Global Reporting, Pune",50000,0,1
+A8,7.46,DBOI MVRM Ex Vals,50000,0,1
+AA,7.46,"Avalara Technologies,Pune",50000,0,1
+B5AA,7.46,"Argenbright Innovation Lab,Bengaluru",N/A,1,1
+A3,7.457,Unique Solutions,N/A,1,0
+B3,7.457,UBS - Investment Banking,60000,1,0
+A8,7.456,"Piramal Group - BIU,Mumbai",75000,1,0
+A3,7.453,"AMD,Bengaluru",35000,1,0
+A3,7.45,"UBS- RAS (Finance), Pune",60000,0,1
+B3A3,7.45,"UBS- QRM, Mumbai",60000,1,1
+A7,7.45,Nurix Labs Private Limited - Tech,N/A,,1
+B4A3,7.45,"Bread Financial , Bengaluru",N/A,1,1
+AA,7.449,"MBB Labs Private Limited (Maybank),Bengaluru",35000,1,0
+A7,7.446,"Disney+ Hotstar,Mumbai, Bengaluru / Gurgaon/ Online",N/A,1,0
+A1,6.92,Honeywell,30000,0,1
+A2,7.442,JPMC CIB R&A – Banking,75000,1,0
+A7,7.44,"RIGI - IT,Bengaluru",51000,,1
+B3A7,7.44,Postman,60000,1,1
+B4A8,7.44,Myntra Designs Pvt. Ltd,60000,1,1
+AA,7.44,MSCI Services Pvt. Ltd. - NPD,60000,1,1
+B2A4,7.44,"Flipkart Internet Pvt Ltd - Business Development,Bengaluru",50000,1,1
+AA,7.44,"Ericsson Global India Pvt. Ltd.,Bengaluru",60000,0,1
+B2A8,7.44,"AMD,Hyderabad",35000,1,1
+A2,7.439,JPMC CIB R&A – Banking,75000,1,0
+A7,7.436,JPMC CIB R&A- Banking&Fintech,75000,1,0
+AA,7.431,"UBER - Data Analytics,Hyderabad/Bengaluru",N/A,1,0
+B4AA,7.43,Walmart,100000,0,1
+A8,7.43,ProteanTecs - BI Automation,40000,1,0
+A4,7.43,PRATT & WHITNEY,20000,0,1
+B4A8,7.43,Myntra Designs Pvt. Ltd,60000,1,1
+A8,7.43,LifeGuru (Breeo Solutions Pvt Limited) Delhi/Bengaluru,30000,1,0
+B1A3,7.43,AMAZON SDE,143000,0,1
+B2A3,7.429,Siemens EDA (Formerly Mentor Graphics) - Analog,40000,,1
+AA,7.426,"AMD,Hyderabad",35000,1,0
+A7,7.423,Volt Money - Software Development,N/A,1,0
+B3A3,7.42,"UBS- QRM, Mumbai",60000,1,1
+B5A7,7.42,Petasense Technologies Pvt. Ltd,N/A,,1
+B3A7,7.42,Myntra Designs Pvt. Ltd,60000,1,1
+B3AA,7.42,"JPMC CIB Research & Analytics, Global Research",150000,1,1
+A7,7.42,JPMC CIB R&A – Banking,75000,,1
+B3A7,7.42,Earnin,N/A,1,1
+B4A3,7.42,Critical Path Technologies Private Limited (“SalarySe) - Tech,N/A,1,1
+B3A7,7.42,"Cobalt (Breakout Platforms, Inc)",N/A,,1
+B2A8,7.41,State Street Global Advisors,N/A,1,1
+A7,7.41,"Netradyne,Bengaluru",35000,,1
+B2A4,7.41,JPMC - GR&C CCB Risk Strategic Analytics,75000,1,1
+A7,7.406,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A5,7.406,"KPMG,Gurugram",30000,1,0
+N/A,6.77,"Pixis - Tech, Bengaluru",40000,1,1
+A3,7.4,"Piramal Group - Tech,Mumbai",75000,1,0
+B3AA,7.4,Petasense Technologies Pvt. Ltd,N/A,1,1
+B3A4,7.4,HSBC - Analyst,65000,1,1
+A4,7.398,Nielsen - DD Continuing,50000,1,0
+A3,7.39,"VINJEY Software Systems Pvt. Ltd., Bengaluru",N/A,0,1
+A8,7.39,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+A7,7.39,HSBC - Analyst,65000,,1
+B4A7,7.39,HSBC - Analyst,65000,1,1
+AA,7.39,DBOI OPS Bengaluru/Jaipur/Mumbai,50000,,1
+B4A3,7.39,"Bread Financial , Bengaluru",N/A,1,1
+A7,7.39,"Altair,Bengaluru",37500,,1
+A7,7.386,Happay - Golang,75000,1,0
+AA,7.382,"JPMC CIB Research & Analytics, Markets - Trading and Structuring",175000,1,0
+B2A8,7.38,"Zeotap India Pvt. Ltd.,Bengaluru",65000,1,1
+A3,7.38,Walmart,100000,0,1
+AA,7.38,Walmart,100000,,1
+A7,7.38,"QualityKiosk Technologies India Pvt Ltd , Navi mumbai",70000,,1
+B2A8,7.38,"Intel,Bengaluru",40000,1,1
+B4A7,7.38,Harness.io,80000,1,1
+B2A4,7.38,"DBOI - GCAF,Mumbai",50000,1,1
+B5A8,7.38,BigBasket,50000,0,1
+A3,7.377,"AMD,Bengaluru",35000,1,0
+A4,7.374,CloudFiles Technologies Inc- NON IT,N/A,1,0
+A4,7.371,Viacom -Interactivity,N/A,1,0
+A1,6.85,"ITC Limited, PSPD - Financial Data Analysis, Hyderabad",30000,0,1
+A7,7.37,Tectonic Technologies Inc - Software Engineering,60000,,1
+B3A7,7.37,Nielsen Global Media,50000,1,1
+B5A7,7.37,Myntra Designs Pvt. Ltd,60000,,1
+B4A4,7.37,Eureka Forbes Ltd - Bengaluru,40000,1,1
+B2A3,7.37,"Delightful Gourmet Private Limited, Licious",N/A,1,1
+B3A7,7.37,AMAZON SDE,143000,1,1
+A5,7.367,"DBOI - GCAF,Mumbai",50000,1,0
+AA,7.364,DBOI MVRM Vals,50000,1,0
+B3A8,7.36,"Intel,Bengaluru",40000,1,1
+B5A8,7.36,Dell Technologies,N/A,1,1
+A1,6.75,"ITC Limited, PSPD - Financial Data Analysis, Hyderabad",30000,0,1
+A5,7.358,House of Vaaree Pvt Ltd - Non Tech,N/A,1,0
+B4AA,7.35,Zomato,0,0,1
+B5A8,7.35,DBOI OPS Bengaluru/Jaipur/Mumbai,50000,1,1
+B1A4,7.35,"DBOI - GCAF,Mumbai",50000,1,1
+B4AA,7.348,"DBOI - MRAC,Mumbai",50000,1,0
+AA,7.347,"AMD,Bengaluru",35000,1,0
+A7,7.34,Walmart,100000,,1
+AA,7.34,Walmart,100000,,1
+B3AA,7.34,"UBS- QRM, Mumbai",60000,1,1
+B4A4,7.34,"UBER - Data Analytics,Hyderabad/Bengaluru",N/A,1,1
+AB,7.34,Truva (Porch Technologies Private Limited) - NON IT,N/A,0,1
+A7,7.34,SIEMENS EDA India Private Limited,40000,,1
+A8,7.34,Piramal Pharma Limited - BIU,75000,1,0
+B5A7,7.34,Nykaa - Engineering,N/A,1,1
+B3AA,7.34,JPMC - GR&C Wholesale Credit Risk - Product Owner Team,150000,1,1
+A7,7.34,Goldman Sachs - Bengaluru,191666,,1
+B2A1,7.34,DBOI OPS Bengaluru/Jaipur/Mumbai,50000,1,1
+A7,7.34,"Apple-Software Development Engineering , IS&T",90000,,1
+AA,7.34,AMAZON SDE,143000,0,1
+A4,7.337,"MBB Labs Private Limited (Maybank),Bengaluru",35000,1,0
+A4,7.333,"Zetwerk Manufacturing Businesses, Bengaluru",N/A,1,0
+A1,6.3,"ITC Limited, PSPD - Tribeni (Kolkata)",30000,0,1
+A8,7.33,Wayfair Global Technology Pvt. Ltd-SCRT,100000,0,1
+B5A1,7.33,"Shell India Markets Pvt. Ltd.,Bengaluru",N/A,0,1
+A3,7.33,"Rusk Media Pvt. Ltd - Business Analyst, Mumbai",80000,1,0
+B3A3,7.33,PIEDS BITS Pilani,0,1,1
+B2AA,7.33,Nykaa - Product,N/A,0,1
+B5A7,7.33,Nurix Labs Private Limited - Tech,N/A,1,1
+A8,7.33,Myntra Designs Pvt. Ltd,60000,0,1
+AA,7.33,Myntra Designs Pvt. Ltd,60000,,1
+B5A7,7.33,"Intel,Bengaluru",40000,1,1
+B4A3,7.33,"Intel,Bengaluru",40000,1,1
+A3,7.33,Bajaj Electricals,N/A,0,1
+AA,7.327,Siemens EDA (Formerly Mentor Graphics) - Webdeveloper,40000,1,0
+A3,7.327,"Piramal Group - Tech,Mumbai",75000,1,0
+AA,7.32,Zepto,60000,0,1
+B4A4,7.32,"UBS- QRM, Mumbai",60000,1,1
+B4A7,7.32,Procter & Gamble (P&G),170000,1,1
+A7,7.32,McCain Foods (India) Pvt. Ltd.,50000,,1
+A4,7.32,HSBC - Analyst,65000,0,1
+B3A7,7.32,"Flipkart (Software Development),Bengaluru",100000,1,1
+A8,7.32,"Enkrypt AI, Bengaluru",N/A,0,1
+B4A7,7.32,"Electronic Arts, India",49476,,1
+A4,7.32,DBOI OPS Bengaluru/Jaipur/Mumbai,50000,0,1
+B4A7,7.32,DBOI OPS Bengaluru/Jaipur/Mumbai,50000,,1
+B1A4,7.32,Bugbase Security Private Limited,N/A,1,1
+A8,7.311,"UBS- Product Control (Finance), Hyderabad",60000,1,0
+A2,7.311,"ERP BITS, Hyderabad",N/A,1,0
+AA,7.31,Wissen Infotech,30000,0,1
+A7,7.31,Walmart,100000,,1
+B1A4,7.31,Nielsen - DD Continuing,50000,1,1
+A8,7.31,"Ericsson Global India Pvt. Ltd.,Bengaluru",60000,0,1
+AA,7.308,Texas Instruments -- Product Marketing,60000,1,0
+A3,7.307,"AMD,Hyderabad",35000,1,0
+A4,7.303,"Mercedes Benz,Bengaluru",N/A,1,0
+AA,7.3,Walmart,100000,,1
+A7,7.3,Tectonic Technologies Inc - Software Engineering,60000,1,0
+B4A3,7.3,PwC US Advisory,80000,1,1
+B5A3,7.3,Myntra Designs Pvt. Ltd,60000,1,1
+B3A7,7.3,MSCI Services Pvt. Ltd. - NPD,60000,1,1
+N/A,6.47,ASBL,40000,1,1
+A2,7.297,AECOM - Gurugram,N/A,1,0
+AA,7.296,"Ericsson Global India Pvt. Ltd.,Bengaluru",60000,1,0
+A3,7.294,JPMC - GR&C Wholesale Credit Risk - Product Owner Team,150000,1,0
+A3,7.292,PayU Payments,N/A,1,0
+A4,7.291,"SG Analytics, Bengaluru",N/A,1,0
+A7,7.29,Myntra Designs Pvt. Ltd,60000,,1
+A3,7.29,Myntra Designs Pvt. Ltd,60000,0,1
+B3A7,7.29,iCIMS,100000,,1
+A8,7.281,"OfBusiness,Gurugram",N/A,1,0
+AA,7.28,"Vegapay Technology Private Limited - Tech, Gurgaon",40000,0,1
+B2AA,7.28,SiFive India Pvt Ltd,N/A,1,1
+B2A3,7.28,"Piramal Group - Tech,Mumbai",75000,1,1
+A7,7.28,Nykaa - Engineering,N/A,,1
+A8,7.28,Nykaa - Analytics,N/A,0,1
+B3AA,7.28,MSCI Services Pvt. Ltd. - Index Management Research,60000,1,1
+A7,7.28,McCain Foods (India) Pvt. Ltd.,50000,,1
+B4A4,7.28,"JPMC CIB Research & Analytics, Global Research",150000,1,1
+B5AA,7.28,Eltropy ( Work on the U.S. time zone ),50000,1,1
+A1,6.783,"ITC Limited, PSPD (Paperboards and Specialty Papers Division), Bhadrachalam",30000,1,0
+A3,7.279,Critical Path Technologies Private Limited (“SalarySe) - Tech,N/A,1,0
+A8,7.278,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A8,7.277,SiFive India Pvt Ltd,N/A,1,0
+A7,7.277,RIGI - Software Development,N/A,1,0
+AA,7.275,Texas Instruments - Analog,60000,1,0
+A3,7.27,SILICON LABS,N/A,0,1
+B4A7,7.27,Siemens EDA (Formerly Mentor Graphics) - Analog,40000,1,1
+B3A7,7.27,Postman,60000,1,1
+AA,7.27,McCain Foods (India) Pvt. Ltd.,50000,,1
+B2A7,7.27,JPMC - GR&C WCR Counterparty Credit Risk,150000,1,1
+A7,7.269,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A7,7.262,"Adecco India,Bengaluru",N/A,1,0
+AA,7.26,Walmart,100000,,1
+B3A1,7.26,"UBS- QRM, Mumbai",60000,0,1
+B3A8,7.26,"UBS- QRM, Mumbai",60000,1,1
+A3,7.26,Texas Instruments - Embedded Software,60000,0,1
+A3,7.26,Carrier Technologies India Limited,N/A,0,1
+A7,7.26,Apple-MDS-MD team,90000,,1
+A3,7.255,"Ericsson Global India Pvt. Ltd.,Bengaluru",60000,1,0
+A4,7.255,CSIR-NAL,N/A,1,0
+A1,7.23,KPMG- GBS,30000,0,1
+A4,7.255,Carbon Impact Capial Pvt Ltd,N/A,1,0
+B1A4,7.25,"UBS - Reporting and Analytics, Pune",60000,1,1
+A7,7.25,JPMC CIB R&A – Banking,75000,,1
+A7,7.25,"Adecco India,Bengaluru",N/A,1,0
+A1,7.673,"KPMG,Chennai",30000,1,0
+A7,7.248,"Ericsson Global India Pvt. Ltd.,Bengaluru",60000,1,0
+A7,7.245,"Vegapay Technology Private Limited - Tech, Gurgaon",40000,1,0
+A7,7.245,"Porter - Tech,Bengaluru",80000,1,0
+A7,7.243,Scapia Technology Private Limited - Business Analyst,100000,1,0
+A3,7.243,House of Vaaree Pvt Ltd - Non Tech,N/A,1,0
+B3,7.242,"Delightful Gourmet Private Limited, Licious",N/A,1,0
+A1,7.444,"KPMG,Chennai",30000,1,0
+A7,7.24,Nurix Labs Private Limited - Tech,N/A,,1
+B3A7,7.24,MSCI Services Pvt. Ltd. - NPD,60000,1,1
+B1A4,7.24,"JPMC CIB Research & Analytics, Global Research",150000,1,1
+A1,6.676,Mitigata: Smart Cyber Insurance,25000,1,0
+B1A4,7.24,CloudFiles Technologies Inc- NON IT,N/A,1,1
+B3AA,7.24,AMAZON SDE,143000,1,1
+AA,7.231,"VINJEY Software Systems Pvt. Ltd., Bengaluru",N/A,1,0
+A4,7.231,Bajaj Electricals,N/A,1,0
+B5A3,7.23,Texas Instruments - Analog,60000,0,1
+B2A7,7.23,Nykaa - Engineering,N/A,1,1
+A1,8.11,"Indian Institute of Petroleum ( IIP ),Dehradun",20000,,1
+B5A7,7.23,JPMC Market Risk Product Analytics,150000,1,1
+A8,7.23,JPMC CIB R&A- Banking&Fintech,75000,0,1
+A7,7.23,JPMC CIB R&A – Banking,75000,,1
+A3,7.23,Infineon - Electronics,N/A,0,1
+A7,7.23,"Ericsson Global India Pvt. Ltd.,Bengaluru",60000,,1
+B3A3,7.23,AMAZON SDE,143000,1,1
+AA,7.228,"Ericsson Global India Pvt. Ltd.,Bengaluru",60000,1,0
+A5,7.224,"LifeGuru (Breeo Solutions Pvt Limited) - Non Tech, Bengaluru",30000,1,0
+A8,7.221,"Ericsson Global India Pvt. Ltd.,Bengaluru",60000,1,0
+A3,7.22,"OfBusiness,Gurugram",N/A,1,0
+A8,7.22,"OfBusiness,Gurugram",N/A,1,0
+B3A8,7.22,"OfBusiness,Gurugram",N/A,1,1
+A8,7.22,Goodera - Product,35000,0,1
+AA,7.22,"ClearTax,Bengaluru",N/A,,1
+A7,7.22,"Avalara Technologies,Pune",50000,,1
+B3A7,7.22,AMAZON SDE,143000,1,1
+A4,7.219,Bajaj Electricals,N/A,1,0
+A7,7.218,Tectonic Technologies Inc - Software Engineering,60000,1,0
+A7,7.218,"Ministry of Tribal Affairs,New Delhi",N/A,1,0
+A2,7.218,House of Vaaree Pvt Ltd - Non Tech,N/A,1,0
+B2A7,7.21,"Synchrony, Hyderabad",45000,1,1
+A7,7.21,SEDEMAC Mechatronics Limited,30000,,1
+B2A3,7.21,"OfBusiness,Gurugram",N/A,1,1
+B2A8,7.21,HSBC - Analyst,65000,0,1
+B3A7,7.21,"Flipkart (Software Development),Bengaluru",100000,1,1
+A7,7.21,AMAZON SDE,143000,,1
+A4,7.207,"DBOI - MRAC,Mumbai",50000,1,0
+A2,7.206,RIGI - Strategy,37000,1,0
+A4,7.206,Feedback Business Insights Pvt. Ltd,N/A,1,0
+A3,7.204,"Mercedes Benz,Bengaluru",N/A,1,0
+A3,7.2,"Vegapay Technology Private Limited - Tech, Gurgaon",40000,0,1
+B2A7,7.2,Vegapay Technology Private Limited - Tech,40000,1,1
+A7,7.2,"QualityKiosk Technologies India Pvt Ltd , Navi mumbai",70000,,1
+B4A7,7.2,"Porter - Tech,Bengaluru",80000,1,1
+A4,7.2,"KFin Technologies Private Limited,Hyderabad",N/A,1,0
+A7,7.2,IBM,30000,,1
+A7,7.2,IBM,30000,,1
+B2A4,7.2,Goodera - Engineering,35000,1,1
+B4AA,7.2,"DBOI - GCAF,Mumbai",50000,1,1
+B4A7,7.2,Bitespeed - Web Development,N/A,1,1
+A7,7.196,RIGI - Software Development,N/A,1,0
+A7,7.19,"Vegapay Technology Private Limited - Tech, Gurgaon",40000,,1
+B5A2,7.19,KPMG- GBS,30000,1,1
+B1A1,7.19,Goodera - Product,35000,0,1
+A8,7.186,"Ministry of Tribal Affairs,New Delhi",N/A,1,0
+A3,7.185,"DBOI - GCAF,Mumbai",50000,1,0
+A7,7.183,Viacom - Android and Android TV Development,N/A,1,0
+AA,7.182,"DBOI- Global Reporting, Pune",50000,1,0
+A8,7.182,"AMD,Hyderabad",35000,1,0
+AA,7.18,Unique Solutions,N/A,0,1
+B2A1,7.18,Udaan,N/A,0,1
+B5A4,7.18,Qure.ai - Product Management,40000,1,1
+A8,7.18,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+B3A7,7.18,Harness.io,80000,1,1
+B3A3,7.18,DBOI MVRM Ex Vals,50000,0,1
+AA,7.18,Clientell Technologies Pvt. Ltd,N/A,0,1
+B3,7.179,"UBS- Product Control (Finance), Hyderabad",60000,1,0
+AA,7.174,"Ola Electric,Bengaluru",N/A,1,0
+B3AA,7.17,"UBS- QRM, Mumbai",60000,1,1
+B3A3,7.17,"UBS- QRM, Mumbai",60000,1,1
+B2A4,7.17,"Siemens Energy, Vadodara",40000,1,1
+B4A7,7.17,Porter - Business Internship.,40000,1,1
+AA,7.17,DBOI OPS Bengaluru/Jaipur/Mumbai,50000,0,1
+AA,7.17,"Avalara Technologies,Pune",50000,0,1
+A3,7.167,Immensitas Pvt. Ltd. (Lemnisk),50000,1,0
+A4,7.167,"DBOI - IB CFO,Mumbai",50000,1,0
+A4,7.164,Viacom - D2C Subscriptions – ChatBots (WhatsApp and RCS),N/A,1,0
+B5AA,7.16,Siemens EDA (Formerly Mentor Graphics) - Analog,40000,,1
+N/A,5.56,"MBB Labs Private Limited (Maybank),Bengaluru",35000,,1
+B3A7,7.16,Piramal Pharma Limited - BIU,75000,1,1
+B5AB,7.16,PIEDS BITS Pilani,0,0,1
+B3A3,7.16,"JPMC CIB Research & Analytics, Global Research",150000,1,1
+A7,7.16,"HERE Technologies India Pvt. Ltd,Mumbai",50000,,1
+B3A7,7.16,Happay - Golang,75000,1,1
+A7,7.16,Earnin,N/A,,1
+B2A2,7.16,"DBOI - GCAF,Mumbai",50000,0,1
+B1A7,7.16,Bitespeed - Founder's Office,N/A,1,1
+A3,7.16,"Aptiv ,Bengaluru",50000,0,1
+AA,7.16,"AMD,Hyderabad",35000,1,0
+B1AA,7.16,"AMD,Hyderabad",35000,1,1
+A2,7.155,CSIR - Central Road Research Institute (CRRI),N/A,1,0
+AA,7.154,Eltropy ( Work on the U.S. time zone ),50000,1,0
+AA,7.15,"UBS - GOTO, Pune",60000,0,1
+B1A2,7.15,"KFin Technologies Private Limited,Hyderabad",N/A,1,1
+A3,7.15,JPMC CIB R&A – Banking,75000,0,1
+A3,7.149,Siemens EDA (Formerly Mentor Graphics) - Analog,40000,1,0
+A3,7.148,RIGI Digital Marketing,26000,1,0
+A7,7.144,House of Vaaree Pvt Ltd - Tech,N/A,1,0
+A4,7.142,Mercedes Benz - Data Analysis,N/A,1,0
+A1,7.24,"Indian Institute of Petroleum ( IIP ),Dehradun",20000,0,1
+B1A3,7.14,Texas Instruments - Analog,60000,1,1
+B2A7,7.14,Nielsen Global Media,50000,,1
+AB,7.05,KPMG- GBS,30000,0,1
+AA,7.14,JPMC CIB R&A – Banking,75000,,1
+A3,7.14,DBOI MVRM Ex Vals,50000,0,1
+B5A8,7.14,Clientell Technologies Pvt. Ltd,N/A,,1
+A7,7.14,"Aptiv ,Bengaluru",50000,,1
+A8,7.136,ST Micro Hardware,N/A,1,0
+A8,7.132,"Genpact AIML Data Scientist - AI Practice, Bengaluru",30000,1,0
+A2,7.131,Goodera - CSM,35000,1,0
+A2,7.131,CSIR - Central Road Research Institute (CRRI),N/A,1,0
+A4,7.13,WCB Robotics India Pvt Ltd - Mechanical,32500,0,1
+A3,7.13,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+A4,7.13,INDUS INTERNATIONAL FZC,N/A,0,1
+B5AA,7.13,DBOI OPS Bengaluru/Jaipur/Mumbai,50000,1,1
+A4,7.124,"MBB Labs Private Limited (Maybank),Bengaluru",35000,1,0
+A8,7.123,SiFive India Pvt Ltd,N/A,1,0
+B5AB,7.12,PIEDS BITS Pilani,0,0,1
+A7,7.12,Nykaa - Analytics,N/A,,1
+A8,7.12,JPMC CIB R&A – Banking,75000,0,1
+A7,7.12,"JPMC - G&C - CIO, Treasury & Corporate (CTC) Risk team – Innovation & Analytics",150000,,1
+A4,7.12,DBOI OPS Bengaluru/Jaipur/Mumbai,50000,0,1
+AA,7.12,"Cadence Design Systems,Bengaluru",N/A,,1
+A8,7.113,"Lenskart Solutions Private Limited, Bhiwandi, Gurugram",N/A,,
+AA,7.11,Standard Chartered Global Business Services,N/A,,1
+A3,7.11,"Siemens,Goa",40000,1,0
+B2A8,7.11,"OfBusiness,Gurugram",N/A,1,1
+A7,7.11,Nielsen Global Media,50000,,1
+A7,7.11,McCain Foods (India) Pvt. Ltd.,50000,,1
+B2A3,7.11,"ITC Limited, PSPD (Paperboards and Specialty Papers Division), Bhadrachalam",30000,1,1
+B5AA,7.11,"AMD,Bengaluru",35000,1,1
+A4,7.108,DBOI MVRM Vals,50000,1,0
+A3,7.104,"UBS- Risk Data, Mumbai",60000,1,0
+B3A4,7.1,"UBS- QRM, Mumbai",60000,1,1
+B1A8,7.1,Standard Chartered Global Business Services,N/A,0,1
+B1A7,7.1,"RIGI - IT,Bengaluru",51000,1,1
+B1A4,7.1,Meesho - APM,35000,1,1
+B3A3,7.1,Agnext Technologies,N/A,0,1
+A7,7.096,Vegapay Technology Private Limited - Tech,40000,1,0
+A8,7.094,"AMD,Bengaluru",35000,1,0
+A4,7.093,"DBOI - OPS, Bengaluru",50000,1,0
+A4,7.09,"Time tooth Technologies Pvt Ltd, Noida/Bengaluru",N/A,0,1
+B1A1,7.09,Meesho,35000,0,1
+B2A4,7.09,"KFin Technologies Private Limited,Hyderabad",N/A,1,1
+B3A4,7.09,"DBOI - Business Finance,Mumbai",50000,1,1
+B5A8,7.09,Clientell Technologies Pvt. Ltd,N/A,1,1
+A7,7.089,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A7,7.087,"Niveus Solutions Pvt. Ltd, Mangalore",N/A,1,0
+A8,7.082,Immensitas Pvt. Ltd. (Lemnisk),50000,1,0
+A7,7.08,Wissen Infotech,30000,0,1
+A3,7.08,TIF Labs Pvt. Ltd,N/A,0,1
+B4A7,7.08,JPMC - GR&C CCB Risk Strategic Analytics,75000,1,1
+A4,7.08,"International Aerospace Manufacturing Pvt. Ltd, Bengaluru",20000,0,1
+B2A4,7.08,BigBasket,50000,1,1
+A7,7.077,Viacom - Android and Android TV Development,N/A,1,0
+A7,7.077,Eltropy ( Work on the U.S. time zone ),50000,1,0
+AA,7.07,Telekonnectors Ltd,25000,0,1
+A7,7.07,Tectonic Technologies Inc - Software Engineering,60000,,1
+A1,6.76,"Indian Institute of Petroleum ( IIP ),Dehradun",20000,0,1
+A7,7.07,"Aptiv ,Bengaluru",50000,,1
+A8,7.069,"Pixis - Tech, Bengaluru",40000,1,0
+A7,7.067,"Synchrony, Hyderabad",45000,1,0
+A1,6.7,"Indian Institute of Petroleum ( IIP ),Dehradun",20000,0,1
+A8,7.064,JPMC CIB R&A – Banking,75000,1,0
+A4,7.063,"MBB Labs Private Limited (Maybank),Bengaluru",35000,1,0
+B3A7,7.06,LENS Corporation,75000,1,1
+AA,7.06,Concentric Software India Private Limited,N/A,0,1
+A8,7.059,Smart Joules Pvt Ltd.,N/A,1,0
+A4,7.057,Siemens - Simulation and Digital Twin,40000,1,0
+A3,7.055,Siemens EDA (Formerly Mentor Graphics) - Analog,40000,1,0
+B3A3,7.05,"UBS- QRM, Mumbai",60000,1,1
+B5A4,7.05,"Siemens Energy, Gurugram",40000,0,1
+B5AA,7.05,McCain Foods (India) Pvt. Ltd.,50000,1,1
+B1A4,7.05,Mahindra Accelo Ltd- Mumbai (Worli),25000,0,1
+N/A,6.06,"Zoplar - IT,Gurugram",30000,0,1
+A3,7.047,"DBOI - Business Finance,Mumbai",50000,1,0
+B3A7,7.04,"JPMC CIB Research & Analytics, Global Research",150000,1,1
+AB,7.039,MSCI Services Pvt. Ltd. - Index Management Research,60000,1,0
+A5,7.039,Incedo,N/A,1,0
+A7,7.037,JPMC CIB R&A- Banking&Fintech,75000,1,0
+A4,7.03,"Siemens Energy, Gurugram",40000,0,1
+B4A7,7.03,Nielsen Global Media,50000,1,1
+A3,7.03,JPMC CIB R&A – Banking,75000,,1
+B1A1,7.03,"DBOI - IB CFO,Mumbai",50000,0,1
+B1A4,7.03,Bugbase Security Private Limited,N/A,1,1
+A4,7.029,Tectonic Technologies Inc - Business Analytics,N/A,1,0
+A4,7.029,Mitigata: Smart Cyber Insurance,25000,1,0
+A4,7.028,Unity Growth Investments Pvt Ltd- Non Tech,N/A,1,0
+B1A4,7.02,"UBS- Finance Liquidity and Funding Modelling, Powai",60000,1,1
+B3A7,7.02,"RIGI - IT,Bengaluru",51000,1,1
+AA,7.02,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
+A1,6.371,"Indian Institute of Petroleum ( IIP ),Dehradun",20000,1,
+A8,7.019,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A1,5.636,"Indian Institute of Petroleum ( IIP ),Dehradun",20000,1,0
+B4A4,7.01,"MBB Labs Private Limited (Maybank),Bengaluru",35000,1,1
+B2AA,7.01,"MBB Labs Private Limited (Maybank),Bengaluru",35000,1,1
+A4,7.01,"Indian Institute of Petroleum ( IIP ),Dehradun",20000,1,
+AA,7.01,Carrier Technologies India Limited,N/A,0,1
+B4A8,7.01,"Bread Financial , Bengaluru",N/A,1,1
+A4,7.009,"Lenskart Solutions Private Limited, Bhiwandi, Gurugram",N/A,1,0
+A4,7.009,"DBOI-ERM,Mumbai.",50000,1,0
+A4,7,"Lenskart Solutions Private Limited, Bhiwandi, Gurugram",N/A,1,0
+A1,6.735,"Aditya Birla Science & Technology Company Ltd. (ABSTC) ,Mumbai",N/A,1,0
+A3,7,Goodera - Category,35000,1,0
+A3,7,"AMD,Hyderabad",35000,1,0
+AA,6.99,Zomato (Grofers),60000,,1
+A8,6.99,Texas Instruments -- Product Marketing,60000,0,1
+B4A8,6.99,Immensitas Pvt. Ltd. (Lemnisk),50000,1,1
+A4,6.99,Goodera - CSM,35000,1,0
+B2AA,6.99,Clientell Technologies Pvt. Ltd,N/A,,1
+AA,6.981,"Lenskart Solutions Private Limited, Bhiwandi, Gurugram",N/A,1,0
+A3,6.981,FanPlay IoT Technologies Pvt Ltd,N/A,1,0
+A7,6.98,"UBS- RAS (Finance), Pune",60000,,1
+B4A7,6.98,"UBER - Data Science, Hyderabad/Bengaluru",187000,0,1
+B3A7,6.98,PIEDS BITS Pilani,0,1,1
+B4A3,6.98,Eureka Forbes Ltd - Bengaluru,40000,0,1
+B2A8,6.98,"DBOI - MRAC,Mumbai",50000,1,1
+A8,6.98,Darwinbox Digital Solutions Pvt. Ltd.,N/A,0,1
+A3,6.972,MSCI Services Pvt. Ltd. - Index Management Research,60000,1,0
+A4,6.971,"MBB Labs Private Limited (Maybank),Bengaluru",35000,1,0
+A4,6.971,"keeplearningOS (kOS), Mumbai",N/A,1,0
+B1A3,6.97,Novus Hi-Tech Robotic Systemz Pvt. Ltd.,N/A,0,1
+AA,6.97,"Novartis- Data Science & Analytics Raidurg, Hyderabad",N/A,,1
+A3,6.97,Areete Business Solutions,N/A,0,1
+AA,6.964,Vehant Technologies Pvt. Ltd.,N/A,1,0
+A4,6.963,"KFin Technologies Private Limited,Hyderabad",N/A,1,0
+AA,6.962,Immensitas Pvt. Ltd. (Lemnisk),50000,1,0
+B5A4,6.96,UST- SI Digital Transform,N/A,1,1
+B5A4,6.96,"MBB Labs Private Limited (Maybank),Bengaluru",35000,1,1
+B2A3,6.96,"AMD,Hyderabad",35000,1,1
+AA,6.959,"MBB Labs Private Limited (Maybank),Bengaluru",35000,1,0
+AA,6.954,"Genpact AIML Data Scientist - AI Practice, Bengaluru",30000,1,0
+A4,6.95,"Siemens Energy, Vadodara",40000,0,1
+A8,6.945,"KFin Technologies Private Limited,Hyderabad",N/A,1,
+A3,6.945,Intellihealth Solutions Pvt. Ltd. - Truemeds,N/A,1,0
+A4,6.944,"DBOI - OPS, Bengaluru",50000,1,0
+A4,6.943,"Mosdorfer India Pvt. Ltd. ,Nashik",15000,1,0
+A4,6.941,"Mach33.aero,Bengaluru",N/A,1,0
+A7,6.94,"Porter - Product Management ,Bengaluru",40000,,1
+B4A1,6.94,MSD Pharmaceuticals India Private Limited,N/A,1,1
+B3A3,6.94,"Morningstar - New Product Development, Mumbai",50000,1,1
+B2A8,6.94,HSBC - Analyst,65000,0,1
+B4A7,6.94,Digicert Security India Pvt Ltd,N/A,1,1
+A4,6.937,"Ministry of Tribal Affairs,New Delhi",N/A,1,0
+AA,6.932,Digicert Security India Pvt Ltd,N/A,1,0
+A7,6.931,"Synchrony, Hyderabad",45000,1,0
+AB,6.925,Centre for Effective Governance of India States (CEGIS) - New Delhi,N/A,1,0
+AA,6.923,"Mercedes Benz,Bengaluru",N/A,1,0
+N/A,7.14,Mitra Robot India Pvt Ltd,25000,0,1
+A4,6.92,Purplle,50000,0,1
+B5AA,6.92,Meesho - APM,35000,1,1
+A1,6.657,"Aditya Birla Science & Technology Company Ltd. (ABSTC) ,Mumbai",N/A,1,0
+B5A7,6.92,Greenfinch Global Consulting-IT,N/A,1,1
+AA,6.92,"ClearTax,Bengaluru",N/A,,1
+A3,6.918,Standard Chartered Global Business Services,N/A,,1
+A1,5.537,Aerialborne,N/A,1,
+A5,6.917,DMI Finance Limited,N/A,1,0
+AA,6.913,Digicert Security India Pvt Ltd,N/A,1,0
+B3AA,6.91,"Morningstar - Index Management and Analytics,Mumbai",50000,1,1
+B4A3,6.91,KPMG- GBS,30000,1,1
+B4A4,6.91,Harman DTS,40000,1,1
+A4,6.909,"CASHe, Hyderabad",N/A,1,0
+AA,6.904,"IUDX Program Unit, Indian Institute of science - Data Kaveri,Bengaluru",30000,1,0
+A4,6.902,"Divgi TorqTransfer Systems Pvt. Ltd. Sirsi, Karnataka",N/A,1,0
+A7,6.9,"Synchrony, Hyderabad",45000,,1
+B4A8,6.9,"IUDX Program Unit, Indian Institute of science - Data Kaveri,Bengaluru",30000,1,1
+B4AA,6.9,Goodera - Product,35000,1,1
+B4AA,6.9,"Bread Financial , Bengaluru",N/A,1,1
+A8,6.898,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A7,6.894,"Mach33.aero,Bengaluru",N/A,1,0
+A4,6.894,"Genpact - H&M, One Data and AI, Bengaluru",30000,1,0
+A3,6.89,Genpact- Data Scientist - Gurugram,30000,1,0
+B3AA,6.89,"ClearTax,Bengaluru",N/A,1,1
+A3,6.889,"KFin Technologies Private Limited,Hyderabad",N/A,1,0
+A3,6.888,Genpact -Data Scientist - Hyderabad,30000,1,0
+A2,6.885,"KFin Technologies Private Limited,Hyderabad",N/A,1,0
+A8,6.881,Genpact- Data Scientist - Gurugram,30000,1,0
+B3A3,6.88,"UBS- QRM, Mumbai",60000,1,1
+B1A4,6.88,Harman DTS,40000,,1
+A8,6.88,"Exobot Dynamics Pvt Ltd,Sonepat",12000,0,1
+B2A4,6.88,ASBL,40000,1,1
+A3,6.874,"Mercedes Benz,Bengaluru",N/A,1,0
+B3AA,6.87,"UBS- QRM, Mumbai",60000,1,1
+B4A8,6.87,Standard Chartered Global Business Services,N/A,0,1
+A8,6.87,SkyServe- Hyspace Technologies Pvt Ltd,N/A,0,1
+B2A3,6.87,"Intel,Bengaluru",40000,1,1
+B4A4,6.87,Eureka Forbes Ltd - Bengaluru,40000,1,1
+B1A3,6.87,AMAZON SDE,143000,1,1
+A8,6.862,Genpact- Data Scientist - Gurugram,30000,1,0
+B2A7,6.86,"RIGI - IT,Bengaluru",51000,1,1
+B3A4,6.86,"DBOI - Business Finance,Mumbai",50000,1,1
+A4,6.856,Bread Financial,N/A,1,0
+A4,6.853,CSIR-NAL,N/A,1,0
+B1A7,6.85,"RIGI - IT,Bengaluru",51000,,1
+B1A4,6.85,"ITC Limited, PSPD (Paperboards and Specialty Papers Division), Bhadrachalam",30000,1,1
+A1,8.15,"AgroStar,Pune",N/A,0,1
+A1,7.95,"AgroStar,Pune",N/A,0,1
+A4,6.848,"L&T Precision Engineering & Systems IC, Pune",N/A,1,0
+A4,6.848,"DBOI - MRAC,Mumbai",50000,1,0
+AA,6.847,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A4,6.843,"Meraki Labs - Business Development and Account Management, Bengaluru",N/A,1,0
+A2,6.842,"AECOM, Kolkata",N/A,1,0
+B5AA,6.84,Digicert Security India Pvt Ltd,N/A,1,1
+A3,6.84,CloudFiles Technologies Inc- NON IT,N/A,,1
+A2,6.837,"KFin Technologies Private Limited,Hyderabad",N/A,1,0
+A4,6.833,"Zetwerk Manufacturing Businesses, Noida",N/A,1,0
+A1,5.813,Assiduus Global,N/A,1,0
+B5A4,6.83,Nurix Labs Private Limited - Non Tech,N/A,1,1
+B3A4,6.83,MSCI Services Pvt. Ltd. - NPD,60000,1,1
+B4A7,6.83,Align (Invisalign India LLP) - System Integration,N/A,1,1
+A5,6.827,"Porter - Product Management ,Bengaluru",40000,1,0
+A4,6.824,"Zetwerk Manufacturing Businesses, Noida",N/A,1,0
+A8,6.822,Genpact -Data Scientist - Hyderabad,30000,1,0
+A3,6.821,"IUDX Program Unit, Indian Institute of science - Data Kaveri,Bengaluru",30000,1,0
+A3,6.82,SEDEMAC Mechatronics Limited,30000,0,1
+B5A2,6.82,PIEDS BITS Pilani,0,0,1
+A7,6.82,Griddynamics- Data Science,N/A,,1
+AA,6.82,Darwinbox Digital Solutions Pvt. Ltd.,N/A,,1
+A8,6.817,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A2,6.812,Centre for Effective Governance of India States (CEGIS) -Bengaluru,N/A,1,0
+AA,6.812,Centre for Effective Governance of India States (CEGIS) - New Delhi,N/A,1,0
+A4,6.81,"Siemens Energy, Gurugram",40000,0,1
+A3,6.81,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+B4AA,6.81,MSD Pharmaceuticals India Private Limited,N/A,1,1
+A4,6.81,"CIRT- CENTRAL INSTITUTE OF ROAD TRANSPORT, PUNE",N/A,0,1
+B4A4,6.81,"CIRT- CENTRAL INSTITUTE OF ROAD TRANSPORT, PUNE",N/A,1,1
+A2,6.808,Synergiz Global - Civil,N/A,1,0
+A3,6.806,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A4,6.802,"KFin Technologies Private Limited,Hyderabad",N/A,1,0
+A3,6.802,Genpact- Data Scientist - Bengaluru,30000,1,0
+A4,6.8,"WILP - ADAS , Artificial & Computation, Hyderabad",25000,0,1
+B2AB,6.8,"Gameskraft, IT- Product Management",N/A,1,1
+B1A7,6.8,AMAZON APPLIED SCIENTIST,153000,1,1
+A2,6.794,"KFin Technologies Private Limited,Hyderabad",N/A,1,0
+A3,6.794,"Genpact AIML Data Scientist - AI Practice, Bengaluru",30000,1,0
+A3,6.794,Genpact -Data Scientist - Hyderabad,30000,1,0
+A4,6.79,"KFin Technologies Private Limited,Hyderabad",N/A,1,0
+B5AA,6.79,"Convrse Spaces- Tech, Gurugram",N/A,1,1
+B1AA,6.79,"CASHe, Hyderabad",N/A,1,1
+A3,6.789,"DBOI- Global Reporting,Mumbai/Pune",50000,1,0
+A8,6.784,Unique Solutions,N/A,1,0
+A4,6.783,SHVND Private Limited,N/A,1,0
+A1,7.792,Bharat Petroleum Corporation Limited,N/A,1,0
+B3A4,6.78,"Ernst & Young LLP, Gurugram",38000,1,1
+B3A1,6.78,DBOI MVRM Vals,50000,1,1
+AA,6.779,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A7,6.776,"HERE Technologies India Pvt. Ltd,Mumbai",50000,1,0
+A3,6.775,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A5,6.774,Centre for Effective Governance of India States (CEGIS) -Bengaluru,N/A,1,0
+A7,6.773,"Morningstar - New Product Development, Mumbai",50000,1,0
+B4A8,6.77,Udaan,N/A,1,1
+N/A,6.07,"WILP - IOT,Hyderabad",25000,0,1
+A4,6.765,"Hind High Vacuum (HHV), GOA",N/A,1,0
+A7,6.76,"Synchrony, Hyderabad",45000,1,0
+B5AA,6.76,Stampmyvisa- NON IT,N/A,1,1
+A7,6.76,"ServCrust Private Limited, Hyderabad",10000,1,0
+B1AA,6.76,PIEDS BITS Pilani,0,1,1
+A1,6.471,Bharat Petroleum Corporation Limited,N/A,1,0
+B4A4,6.76,"DBOI - GCAF,Mumbai",50000,1,1
+B4AA,6.76,"ClearTax,Bengaluru",N/A,0,1
+B3A3,6.76,AMAZON APPLIED SCIENTIST,153000,1,1
+A3,6.757,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A7,6.755,Secureworks India Private Limited (a Dell Technologies Company),N/A,1,0
+A8,6.755,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A4,6.752,"CricClubs India Private Limited, Hyderabad",N/A,1,0
+A7,6.75,Secureworks India Private Limited (a Dell Technologies Company),N/A,1,0
+A1,6.333,Bharat Petroleum Corporation Limited,N/A,1,0
+B2A3,6.75,Indus IntelliRisk & IntelliSense Services Pvt Ltd (IIRIS),N/A,1,1
+B5A4,6.75,Binocs - Founder's Office Intern,N/A,1,1
+N/A,6.04,"WILP - Control systems,IC Engines, RSM,Hyderabad",25000,1,1
+A3,6.743,"Samsung R & D Institute -,Bengaluru",N/A,1,0
+A4,6.74,Udaan,N/A,0,1
+A1,6.49,BIGTEC PRIVATE LIMITED,N/A,1,0
+N/A,6.02,"WILP - Control systems,IC Engines, RSM,Hyderabad",25000,1,1
+A2,6.738,"MyHQ - Non Tech, Gurugram",N/A,1,0
+A1,4.78,"Birla Cellulose, Kharach",N/A,0,1
+A7,6.731,"Synchrony, Hyderabad",45000,1,0
+A3,6.731,"Mercedes Benz,Bengaluru",N/A,1,0
+B2A3,6.73,UST- SI Digital Transform,N/A,1,1
+B1A4,6.73,"Siemens Energy, Vadodara",40000,0,1
+B2A4,6.73,"Remit2Any, Bengaluru",20000,1,1
+A5,6.73,Qure.ai - Product Management,40000,0,1
+B5A4,6.73,Purplle,50000,1,1
+B2A2,6.73,DBOI MVRM Vals,50000,1,1
+B2A2,6.728,"upGrad Education Pvt Ltd, Bengaluru",N/A,1,0
+AB,6.727,Siemens Technology Services Pvt Ltd,40000,1,0
+AA,6.72,Portkey AI - Management,45000,,1
+B3A7,6.72,"Morningstar - Index Management and Analytics,Mumbai",50000,1,1
+B4A8,6.72,Genpact- Data Scientist - Gurugram,30000,1,1
+A7,6.72,Carrier Technologies India Limited,N/A,,1
+B1A8,6.72,"Bhanix Finance and Investment Ltd.(CASHe -Tech),Hyderabad",N/A,1,1
+A4,6.712,Rivigo,N/A,1,
+A3,6.71,"Mercedes Benz,Bengaluru",N/A,1,0
+B3A7,6.71,Aditya Birla Digital Fashion Ventures – (TMRW House Of Brands) - Frontend,N/A,1,1
+B4A8,6.709,Mitigata: Smart Cyber Insurance,25000,1,1
+A4,6.708,eShipz.com (LogIQ Labs Pvt. Ltd),N/A,1,
+B4A7,6.703,CRRI-DATA ANALYTICS,N/A,1,0
+A2,6.701,"Complete lnstrumentation Solutions Pvt. Ltd.,Gurugram",N/A,1,0
+A1,5.49,"Birla Cellulose, Pulp & Fiber Business, Taloja",N/A,1,
+A8,6.7,Grogu Payments Software Private Limited,N/A,1,0
+B1A4,6.7,Forus Health,40000,1,1
+B4A8,6.7,"ClearTax,Bengaluru",N/A,1,1
+A3,6.69,HSBC - Analyst,65000,0,1
+B4,6.685,"MSCI - Real Estate Index Management Research,Mumbai",60000,1,0
+B5A8,6.68,"Pixis - Tech, Bengaluru",40000,1,1
+A5,6.68,"Nirmaan Organization - Non Tech,Hyderabad",N/A,1,0
+B3A7,6.68,MSCI Services Pvt. Ltd. - Index Management Research,60000,1,1
+B3A3,6.68,"Morningstar - New Product Development, Mumbai",50000,1,1
+B2A2,6.68,Champion InfoMetrics Pvt Ltd,N/A,1,1
+A1,5.733,"Bonanza Portfolio, Mumbai",N/A,1,
+A7,6.673,"Ernst & Young L.L.P.,Bangalore",38000,1,0
+B5A3,6.67,Unity Growth Investments Pvt Ltd- Tech,N/A,1,1
+A3,6.67,TIF Labs Pvt. Ltd,N/A,0,1
+A8,6.67,SS Clothing,N/A,1,0
+N/A,5.79,"WILP - AI for Education Innovation Lab, hyderabad. ( (Spanda.ai)",25000,0,1
+B3A4,6.667,"Altair,Bengaluru",37500,,1
+A2,6.667,AECOM - Gurugram,N/A,1,0
+A2,6.663,"AECOM,Mumbai",N/A,1,0
+A3,6.661,RIGI Digital Marketing,26000,1,0
+A5,6.661,Centre for Effective Governance of India States (CEGIS)- Tamil Nadu,N/A,1,0
+A8,6.66,Nurix Labs Private Limited - Non Tech,N/A,0,1
+B4A3,6.66,Agnext Technologies,N/A,1,1
+A4,6.657,AlmaConnect,N/A,1,0
+A1,5.873,BookMyXperience Pvt Ltd-Associate Consultant,N/A,1,
+A7,6.654,CRRI-DATA ANALYTICS,N/A,1,0
+B5A4,6.65,"Siemens Energy, Vadodara",40000,1,1
+A4,6.647,"WILP - ADAS , Artificial & Computation, Hyderabad",25000,1,
+B4,6.647,"DBOI - MRAC,Mumbai",50000,1,0
+A2,6.644,AECOM - Pune,N/A,1,0
+B4A4,6.64,UST- SI Digital Transform,N/A,1,1
+A7,6.64,"1Clicktech Global Services Pvt. Ltd.,Gurugram",N/A,,1
+A2,6.63,"UBS- RAS (Finance), Pune",60000,0,1
+A8,6.63,Novus Hi-Tech Robotic Systemz Pvt. Ltd.,N/A,0,1
+B3A1,6.63,KPMG- GBS,30000,1,1
+B3A3,6.63,DBOI MVRM Vals,50000,1,1
+A4,6.63,CRRI - FINANCE,N/A,1,
+AB,6.629,"Nirmaan Organization - Non Tech,Hyderabad",N/A,1,0
+A4,6.627,AlmaConnect,N/A,1,0
+AA,6.626,CSIR-NAL,N/A,1,0
+N/A,5.19,Mitigata (Alphawave Technologies Private limited),25000,,1
+A4,6.62,Alt Carbon,N/A,1,
+B3,6.619,"UBS- Product Control (Finance), Pune",60000,1,0
+A3,6.617,"Lenskart Solutions Private Limited - Analytics, Gurugram",N/A,1,0
+A1,4.717,CHT (INDIA) PVT.LTD,N/A,1,
+B4A4,6.613,"WILP - Control systems,IC Engines, RSM,Hyderabad",25000,1,
+A4,6.611,Rivigo,N/A,1,
+A7,6.611,"Pixis - Tech, Bengaluru",40000,1,0
+B4A2,6.61,"UBS- QRM, Mumbai",60000,1,1
+B4A1,6.61,Evolve,N/A,1,1
+A3,6.606,"WILP - AI for Education Innovation Lab,Hyderabad",25000,1,0
+A3,6.606,"WILP - AI for Education Innovation Lab,Hyderabad",25000,1,0
+A3,6.606,Genpact -Data Scientist - Hyderabad,30000,1,0
+A4,6.604,Centre for Effective Governance of India States (CEGIS)- Hyderabad,N/A,1,
+A8,6.602,"LTIMindtree- GTO-Tech Incubation-QC, PAN INDIA",25000,1,0
+A4,6.602,"Bharat Forge Ltd.,Pune",10000,1,0
+B4AA,6.6,"Porter - Product Management ,Bengaluru",40000,1,1
+A7,6.6,"Novartis- Data Science & Analytics Raidurg, Hyderabad",N/A,,1
+A3,6.6,"Indira Gandhi Centre for Atomic Research,Kalpakkam",N/A,1,0
+B1AA,6.6,Dreamplug Technologies - DS,N/A,,1
+B4A4,6.6,"Bread Financial , Bengaluru",N/A,1,1
+A7,6.598,"Pixis - Tech, Bengaluru",40000,1,0
+A4,6.596,"Indian Institute of Petroleum ( IIP ),Dehradun",20000,1,
+A4,6.592,CSIR-NAL,N/A,1,0
+A7,6.592,CSIR-NAL,N/A,1,0
+B4A4,6.59,Porter - Business Internship.,40000,1,1
+B4A3,6.59,"MBB Labs Private Limited (Maybank),Bengaluru",35000,1,1
+B4A4,6.59,Greenfinch Global Consulting-IT,N/A,1,1
+A5,6.59,AlmaConnect,N/A,0,1
+A1,7.371,CloudFiles Technologies Inc- NON IT,N/A,1,0
+A4,6.586,"Divgi TorqTransfer Systems Pvt. Ltd - Shivare,Pune",N/A,1,
+AA,6.584,Grogu Payments Software Private Limited,N/A,1,0
+A1,6.616,CRRI-DATA ANALYTICS,N/A,1,0
+B4AA,6.58,"MBB Labs Private Limited (Maybank),Bengaluru",35000,1,1
+AA,6.579,"Genpact AIML Data Scientist - AI Practice, Bengaluru",30000,1,0
+A1,6.019,CRRI-DATA ANALYTICS,N/A,1,0
+A3,6.575,Smart Joules Pvt Ltd.,N/A,1,0
+AB,6.573,The Future University - Community Manager,N/A,1,0
+A3,6.567,Unity Growth Investments Pvt Ltd- Non Tech,N/A,1,0
+A2,6.567,"KMV Projects Limited, Visakhapatnam, Andhra Pradesh",N/A,1,0
+A3,6.564,"Statcon Electronics India Limited, NOIDA",N/A,1,0
+A4,6.562,SmalBlu,N/A,1,
+A4,6.562,CSIR-NAL,N/A,1,
+AB,6.562,Ansys Software Pvt. Ltd,N/A,1,0
+A4,6.56,"UBS- RAS (Finance), Pune",60000,,1
+B4A7,6.56,"Synchrony, Hyderabad",45000,1,1
+A2,6.56,"MyHQ - Non Tech, Gurugram",N/A,1,0
+B2A1,6.559,BIGTEC PRIVATE LIMITED,N/A,1,0
+A7,6.551,"Ernst & Young LLP, Gurugram",38000,1,0
+B4A3,6.55,"Statcon Electronics India Limited, NOIDA",N/A,1,0
+A4,6.55,"Indian Institute of Petroleum ( IIP ),Dehradun",20000,0,1
+A7,6.55,Goodera - Founder's Office,35000,,1
+B5A8,6.55,Digicert Security India Pvt Ltd,N/A,1,1
+A3,6.546,Synergiz Global Services Pvt Ltd,N/A,1,0
+A7,6.545,"Genpact - H&M, One Data and AI, Bengaluru",30000,1,0
+A4,6.543,Pioneer Electrocables Pvt Ltd,10000,1,
+A7,6.541,"Genpact Data Scientist - H&M, Gurugram",30000,1,0
+B5A7,6.54,Unity Growth Investments Pvt Ltd- Tech,N/A,1,1
+AA,6.537,"CriticalRiver Technologies Pvt Ltd, IT",N/A,1,0
+B1A7,6.53,"Synchrony, Hyderabad",45000,1,1
+B1A7,6.53,Secureworks India Private Limited (a Dell Technologies Company),N/A,1,1
+A4,6.529,Rivigo,N/A,1,
+A7,6.524,The Future University - Community Manager,N/A,1,0
+A1,5.075,CRRI-DATA ANALYTICS,N/A,1,
+A3,6.523,Eureka Forbes Ltd - Bengaluru,40000,1,0
+AA,6.52,Mitigata (Alphawave Technologies Private limited),25000,,1
+B4A3,6.52,ASBL,40000,1,1
+A8,6.519,Piramal Pharma Limited - BIU,75000,1,0
+A8,6.519,"Indira Gandhi Centre for Atomic Research,Kalpakkam",N/A,1,0
+B3A7,6.51,Goldman Sachs - Bengaluru,191666,,1
+B1A7,6.51,Glance,45000,1,1
+A4,6.51,"ERP BITS, Hyderabad",N/A,1,
+AA,6.505,The Future University - Community Manager,N/A,1,0
+A1,7.255,CSIR-IICT Hyderabad,N/A,1,0
+B4A7,6.5,Stampmyvisa- IT,N/A,1,1
+A2,6.5,Pepper Content,N/A,1,0
+B4A4,6.5,"Ernst & Young L.L.P.,Bangalore",38000,1,1
+A2,6.5,CSIR - Central Road Research Institute (CRRI),N/A,1,0
+A7,6.495,Secureworks India Private Limited (a Dell Technologies Company),N/A,1,0
+A8,6.495,Novus Hi-Tech Robotic Systemz Pvt. Ltd.,N/A,1,0
+A4,6.495,"Divgi TorqTransfer Systems Pvt. Ltd - Shivare,Pune",N/A,1,
+A4,6.495,CSIR-NML,N/A,1,0
+A8,6.495,Colorjet India Limited,N/A,1,0
+B4A8,6.49,ZF India Technology Center - AI Developer,N/A,1,1
+B2A7,6.49,Tectonic Technologies Inc - Product Management,60000,1,1
+A1,5.93,CSIR-NAL,N/A,1,0
+A3,6.485,"Indira Gandhi Centre for Atomic Research,Kalpakkam",N/A,1,0
+A8,6.485,"Aarrrmor Digital Services Pvt. Ltd. (Non IT),Bengaluru",N/A,1,0
+B5A7,6.483,"YETHI CONSULTING, Bengaluru",N/A,1,0
+A8,6.481,"Statcon Electronics India Limited, NOIDA",N/A,1,0
+A4,6.481,Monocept Consulting Pvt Ltd.,N/A,1,
+AA,6.48,Champion InfoMetrics Pvt Ltd,N/A,,1
+B3A7,6.48,BureauID India Private Limited,N/A,1,1
+A7,6.477,"Ernst & Young LLP, Gurugram",38000,1,0
+A4,6.471,The Future University - Community Manager,N/A,1,
+A1,6.283,CSIR-NML,N/A,1,0
+N/A,6.39,"Quadrant Technologies, Hyderabad",15000,,1
+B4A4,6.47,Porter - Business Internship.,40000,1,1
+A3,6.47,"MyHQ - Non Tech, Gurugram",N/A,1,0
+N/A,5.58,MountTech India Ventures Pvt Ltd,15000,0,1
+B2A4,6.47,ASBL,40000,1,1
+A7,6.465,"Mercedes Benz,Bengaluru",N/A,1,0
+A4,6.462,The Future University - Community Manager,N/A,1,
+AA,6.462,"Indira Gandhi Centre for Atomic Research,Kalpakkam",N/A,1,0
+B4AA,6.46,Rahi Platform Technologies,50000,1,1
+A3,6.46,QUALCOMM,45000,,1
+A8,6.458,Monocept Consulting Pvt Ltd.,N/A,1,0
+A4,6.455,Centre for Effective Governance of India States (CEGIS)- Tamil Nadu,N/A,1,0
+A3,6.454,"Micron Technology, Hyderabad/ Bangalore",50000,1,0
+A4,6.452,CBAI TECHNOLOGIES PRIVATE LIMITED,N/A,1,0
+A1,6.171,CSIR-NML,N/A,1,0
+N/A,6.74,"Exobot Dynamics Pvt Ltd,Sonepat",12000,0,1
+B1AA,6.45,Carrier Technologies India Limited,N/A,1,1
+B3A3,6.45,Bolt.Earth,N/A,1,1
+A7,6.446,Immensitas Pvt. Ltd. (Lemnisk),50000,1,0
+A2,6.446,CSIR - Central Road Research Institute (CRRI),N/A,1,0
+A7,6.444,Immensitas Pvt. Ltd. (Lemnisk),50000,1,0
+A8,6.443,"Saras Analytics, Hyderabad",N/A,1,0
+A8,6.443,Novus Hi-Tech Robotic Systemz Pvt. Ltd.,N/A,1,0
+A7,6.442,Immensitas Pvt. Ltd. (Lemnisk),50000,1,0
+A8,6.44,"Zunpulse Pvt Ltd, Gurugram",N/A,1,0
+A4,6.44,"Time tooth Technologies Pvt Ltd, Noida/Bengaluru",N/A,0,1
+A5,6.44,PharmSight Research and Analytics Pvt. Ltd.,20000,1,0
+A7,6.439,"Nichesolv, Bengaluru",N/A,1,0
+A7,6.439,Immensitas Pvt. Ltd. (Lemnisk),50000,1,0
+A2,6.436,The Future University - Community Manager,N/A,1,0
+A3,6.432,RT Vision Technologies Pvt. Ltd,20000,1,0
+A3,6.43,Stelmec Ltd,N/A,1,0
+AA,6.43,PIEDS BITS Pilani,0,,1
+B3A4,6.43,Impactsure Technologies Private Limited - Finance,40000,1,1
+B5A3,6.43,Genpact- Data Scientist - Gurugram,30000,1,1
+A4,6.429,"KFin Technologies Private Limited,Hyderabad",N/A,1,
+B5A4,6.422,"Convrse Spaces- Non Tech, Gurugram",N/A,1,1
+B4A3,6.42,Rahi Platform Technologies,50000,1,1
+B3A4,6.42,QCLAIRVOYANCE QUANTUM LABS PVT LTD,50000,1,1
+B4A3,6.42,Genpact -Data Scientist - Hyderabad,30000,1,1
+B5A4,6.42,"DBOI - OPS, Bengaluru",50000,1,1
+B4A3,6.41,Porter - Business Internship.,40000,1,1
+AA,6.41,ASBL,40000,0,1
+A3,6.406,"Statcon Electronics India Limited, NOIDA",N/A,1,0
+AA,6.406,Drut Networks India LLP,N/A,1,0
+B1A7,6.4,PIEDS BITS Pilani,0,1,1
+A2,6.4,ASBL,40000,0,1
+A8,6.398,Pioneer Electrocables Pvt Ltd,10000,1,0
+A8,6.394,"WILP - IOT,Hyderabad",25000,1,0
+B1A3,6.39,Unity Growth Investments Pvt Ltd- Tech,N/A,1,1
+N/A,4.67,MELSS,10000,,1
+AA,6.39,Nurix Labs Private Limited - Non Tech,N/A,,1
+B1A7,6.39,"HERE Technologies India Pvt. Ltd,Mumbai",50000,1,1
+B1A4,6.388,"Statcon Electronics India Limited, NOIDA",N/A,1,0
+A3,6.387,CSIR-NAL,N/A,1,0
+A4,6.382,"Remit2Any, Bengaluru",20000,1,
+A3,6.381,"Mobius Networks India Pvt. Ltd, Hyderabad",N/A,1,0
+B2A1,6.38,Snitch Apparels Private Limited,N/A,1,1
+A3,6.373,Novus Hi-Tech Robotic Systemz Pvt. Ltd.,N/A,1,0
+A1,6.85,Darwinbox Digital Solutions Pvt. Ltd.,N/A,0,1
+AA,6.37,MountTech India Ventures Pvt Ltd,15000,0,1
+A3,6.37,Healthlane Technologies Pvt Ltd (Zelthy),35000,1,1
+A4,6.369,"WILP - ADAS , Artificial & Computation, Hyderabad",25000,1,
+A4,6.369,"Bharat Forge Ltd.,Pune",10000,1,0
+A7,6.364,Aditya Birla Digital Fashion Ventures – (TMRW House Of Brands) - Product Manager,N/A,1,0
+A8,6.36,WCB Robotics India Pvt. Ltd. - Electronics,0,0,1
+A4,6.36,INDUS INTERNATIONAL FZC,N/A,0,1
+B3A8,6.36,"DBOI - OPS, Bengaluru",50000,1,1
+A4,6.359,"Divgi TorqTransfer Systems Pvt. Ltd. Sirsi, Karnataka",N/A,1,
+A3,6.352,"WILP - Remote Lab, Hyderabad",25000,1,0
+A4,6.352,"Bharat Forge Ltd.,Pune",10000,1,
+A4,6.351,EkStep Foundation. Bengaluru,N/A,1,
+B4A1,6.35,Impactsure Technologies Private Limited - Finance,40000,1,1
+B2AB,6.348,Spyne - Non Tech,N/A,1,0
+A3,6.34,"upGrad Education Pvt Ltd, Bengaluru",N/A,1,0
+A4,6.34,"Siemens Energy, Gurugram",40000,0,1
+A3,6.34,MOHINI CREATIONS,N/A,1,0
+B3A1,6.34,"Jarvis Technology & Strategy Consulting, New Delhi",N/A,1,0
+A8,6.339,"WILP - IOT,Hyderabad",25000,1,0
+A4,6.333,"NBC Bearings,Jaipur",N/A,1,
+A1,7.523,"Delightful Gourmet Private Limited, Licious",N/A,1,0
+A1,7.476,"Delightful Gourmet Private Limited, Licious",N/A,1,0
+B4A4,6.33,Pioneer Electrocables Pvt Ltd,10000,1,1
+A4,6.33,"International Aerospace Manufacturing Pvt. Ltd, Bengaluru",20000,0,1
+A2,6.327,CSIR - Central Road Research Institute (CRRI),N/A,1,0
+A3,6.321,RT Vision Technologies Pvt. Ltd,20000,1,0
+B5A3,6.32,Healthlane Technologies Pvt Ltd (Zelthy),35000,1,1
+N/A,4.59,"ServCrust Private Limited, Hyderabad",10000,0,1
+B4,6.32,AlmaConnect,N/A,1,0
+A3,6.319,Goodera - GTM,35000,,1
+B1AB,6.31,"ITC Limited, PSPD (Paperboards and Specialty Papers Division), Bhadrachalam",30000,0,1
+A3,6.306,Mediwhale,N/A,1,0
+A4,6.306,"Divgi TorqTransfer Systems Pvt. Ltd. - Bhosari,Pune",N/A,1,
+A8,6.306,CLEAREYE.AI,N/A,1,0
+B2A1,6.3,UST- SI Digital Transform,N/A,1,1
+A8,6.3,"Mercedes Benz,Bengaluru",N/A,1,0
+A1,6.581,Equal Identity Pvt Ltd,N/A,1,0
+A4,6.296,"Indian Institute of Petroleum ( IIP ),Dehradun",20000,1,
+B2A4,6.29,"WILP - AI for Education Innovation Lab, hyderabad. ( (Spanda.ai)",25000,1,1
+A8,6.29,Carrier Technologies India Limited,N/A,0,1
+A3,6.289,CSIR- BISAG -Bhaskaracharya National Institute for Space Applications and Geo-informatics,N/A,1,0
+A8,6.286,"ABB Global Industries and Services Private Limited, AIC - INOPC",N/A,1,0
+A3,6.284,"Zomato-Sales, PAN INDIA",N/A,1,0
+A4,7.5,"IFB Industries,Goa",0,1,0
+A1,6.578,eShipz.com (LogIQ Labs Pvt. Ltd),N/A,1,0
+B4A4,6.28,CloudJune (OPC) PVT Ltd,N/A,1,1
+A8,6.28,"Argenbright Innovation Lab,Bengaluru",N/A,1,0
+AA,6.28,73 Strings Pvt. Ltd,N/A,,1
+A8,6.278,Opta Cloud PTE,N/A,1,0
+AA,6.269,RIGI Digital Marketing,26000,1,0
+A3,6.268,CSIR-NAL,N/A,1,0
+A3,6.268,Construct Pte Ltd,N/A,1,0
+A7,6.265,Immensitas Pvt. Ltd. (Lemnisk),50000,1,0
+AA,6.264,NewronData Global Services Private Limited,N/A,1,0
+A3,6.262,CSIR- BISAG -Bhaskaracharya National Institute for Space Applications and Geo-informatics,N/A,1,0
+B5A4,6.26,"ITC Limited, PSPD (Paperboards and Specialty Papers Division), Bhadrachalam",30000,0,1
+B3A7,6.26,"Ernst & Young L.L.P.,Bangalore",38000,1,1
+A8,6.26,"Argenbright Innovation Lab,Bengaluru",N/A,1,
+B5A3,6.26,"ABB Global Industries and Services Private Limited, AIC - INOPC",N/A,1,1
+A8,6.245,Portkey AI - Management,45000,1,
+B4A2,6.241,"Remit2Any, Bengaluru",20000,1,0
+A2,6.24,Myeasypharma,N/A,1,
+B4A8,6.24,Genpact- Data Scientist - Gurugram,30000,1,1
+A2,6.24,CSIR - Central Road Research Institute (CRRI),N/A,1,
+A4,6.24,BigBasket,50000,0,1
+A1,5.455,"Evmaaag Innovation Opc pvt ltd, Bengaluru",N/A,1,
+AB,6.238,"Cascadestar India Pvt. Ltd, Mumbai",N/A,1,0
+A2,6.236,CSIR - Central Road Research Institute (CRRI),N/A,1,
+A4,6.235,CSIR-NML,N/A,1,0
+A8,6.23,"Aarrrmor Digital Services Pvt. Ltd. (Non IT),Bengaluru",N/A,1,0
+A3,6.223,"Mobile Premier League,Bengaluru",N/A,1,0
+A3,6.22,Goodera - Product,35000,,1
+A5,6.214,PharmSight Research and Analytics Pvt. Ltd.,20000,1,
+A2,6.212,CSIR - Central Road Research Institute (CRRI),N/A,1,
+A8,6.21,Genpact -Data Scientist - Hyderabad,30000,,1
+B4A2,6.21,"Ernst & Young LLP, Gurugram",38000,1,1
+A4,6.21,CSIR-NML,N/A,1,
+A8,6.206,"Argenbright Innovation Lab,Bengaluru",N/A,1,0
+A3,6.204,CSIR-NAL,N/A,1,0
+A8,6.2,CSIR-NAL,N/A,1,0
+N/A,8.46,Nomura IT Internship - GMIT - Trade Processing,N/A,0,1
+A4,6.194,CSIR-NML,N/A,1,
+AA,8.19,"NXP India Pvt Ltd, Bengaluru",N/A,0,1
+A4,6.19,"Indira Gandhi Centre for Atomic Research,Kalpakkam",N/A,1,
+A4,6.19,CSIR-NAL,N/A,1,
+A2,6.178,CSIR - Central Road Research Institute (CRRI),N/A,1,
+A4,6.177,Sarda Metals &amp; Alloys Ltd,N/A,1,
+A4,6.176,Binocs - SDE & Machine Learning Intern,N/A,1,
+A1,6.01,Grasim Industries Ltd. (Chemical Division) CPW & SBP,N/A,,1
+B5A7,6.17,Porter - Business Internship.,40000,1,1
+B1A4,6.17,Goodera - GTM,35000,1,1
+A3,6.168,"Argenbright Innovation Lab,Bengaluru",N/A,1,0
+AB,6.167,"Grasim Industries,Nagda",N/A,1,0
+A7,6.163,Immensitas Pvt. Ltd. (Lemnisk),50000,1,0
+B1AA,6.162,"iRasus Technologies Pvt Ltd,Gurugram",N/A,0,1
+B2,6.159,"J29 F&B Consultancy LLP, ( Food Pe ) Gurugram",N/A,1,0
+A3,6.158,V. MILAK ENTERPRISES,N/A,1,0
+A1,6.105,"Grasim Industries,Nagda",N/A,1,
+AA,6.155,"Statcon Electronics India Limited, NOIDA",N/A,1,0
+A4,6.154,Colorjet India Limited,N/A,1,
+AA,6.15,UST- SI Digital Transform,N/A,0,1
+B4A4,6.15,RIGI - NON TECH,30000,1,1
+A4,6.148,"Grasim Industries,Nagda",N/A,1,0
+A5,6.142,Binocs - SDE & Machine Learning Intern,N/A,1,
+AA,6.14,OKAYA EV PRIVATE LIMITED NEW DELHI,N/A,1,0
+A4,6.14,MSA Global Technology and Engineering P Ltd.,25000,0,1
+B4A1,6.14,Eminar Commerce Solutions Pvt. Ltd.,N/A,1,1
+A3,6.136,"Remit2Any, Bengaluru",20000,1,0
+AA,6.133,"HEX Advisory Group, Gurgaon",N/A,1,0
+A4,6.13,Impactsure Technologies Private Limited - Data Science,40000,0,1
+A4,6.13,"Grasim Industries,Nagda",N/A,1,0
+A7,6.126,Unity Growth Investments Pvt Ltd- Tech,N/A,1,0
+A8,6.11,"Hind High Vacuum (HHV), GOA",N/A,1,0
+AA,6.109,Fix Health (previously YourPhysio),N/A,1,0
+AA,6.109,"DBOI - OPS, Bengaluru",50000,1,0
+A3,6.107,"Tata CLiQ, Mumbai",N/A,1,0
+A1,6.095,"Grasim Industries,Nagda",N/A,1,
+A4,6.104,"Blow Trumpet Solutions, New Delhi",N/A,1,
+B2AA,6.101,WCB Robotics India Pvt. Ltd. - Electronics,0,1,1
+A4,6.1,"WILP - ADAS , Artificial & Computation, Hyderabad",25000,0,1
+A5,6.1,Mitigata (Alphawave Technologies Private limited),25000,0,1
+B3A3,6.1,"Ernst & Young LLP, Gurugram",38000,1,1
+A1,5.608,Indexel Engineering Pvt. Ltd,N/A,1,
+AA,6.093,CSIR-NAL,N/A,1,0
+A8,6.091,"WILP - AI for Education Innovation Lab, hyderabad. ( (Spanda.ai)",25000,,1
+B3,6.09,Unity Growth Investments Pvt Ltd- Non Tech,N/A,0,1
+B4A4,6.09,AlmaConnect,N/A,1,1
+A2,6.089,POOZLE INNOVATIONS PRIVATE LIMITED,N/A,1,
+A4,6.087,Sarda Metals &amp; Alloys Ltd,N/A,1,
+A2,6.087,PIEDS BITS Pilani,0,1,
+A3,6.087,"Kofuku Idea Labs Private Limited, Hyderabad",N/A,1,
+N/A,8.01,"Gameskraft, IT- Product Management",N/A,1,1
+N/A,7.91,Critical Path Technologies Private Limited (“SalarySe) - Non Tech,N/A,1,1
+A3,6.082,"Hind High Vacuum (HHV), GOA",N/A,1,0
+A7,6.08,"Zluri,Bengaluru",N/A,1,0
+B5A3,6.08,Lokal App,35000,1,1
+AA,6.074,CSIR- BISAG -Bhaskaracharya National Institute for Space Applications and Geo-informatics,N/A,1,0
+A1,7.333,"Lenskart Solutions Private Limited, Bhiwandi, Gurugram",N/A,1,0
+N/A,7.71,Champion InfoMetrics Pvt Ltd,N/A,,1
+B1A4,6.07,"ITC Limited, PSPD (Paperboards and Specialty Papers Division), Bhadrachalam",30000,1,1
+AA,6.067,CSIR - Central Road Research Institute (CRRI),N/A,1,0
+N/A,7.5,Truva (Porch Technologies Private Limited) - NON IT,N/A,1,1
+A8,6.06,Easitex Private Limtied,N/A,1,0
+N/A,7.4,Udaan,N/A,1,1
+A7,6.058,CSIR - Central Road Research Institute (CRRI),N/A,1,0
+A3,6.057,"BookMyXperience - Non Tech, New Delhi",N/A,1,0
+A7,6.05,Colorjet India Limited,N/A,1,0
+A7,6.05,"Argenbright Innovation Lab,Bengaluru",N/A,1,0
+B3A1,6.05,AlmaConnect,12000,1,1
+A4,6.049,Happay - Python,75000,1,
+B5A8,6.92,ZF India Technology Center - Use Cases - SDLC,N/A,1,1
+B3A4,6.04,MountTech India Ventures Pvt Ltd,15000,1,1
+A2,6.04,"Aarrrmor Digital Services Pvt. Ltd. (Non IT),Bengaluru",N/A,1,
+A4,6.038,Mettler Toledo India Pvt. Ltd.,N/A,1,
+AA,6.036,CRRI - FINANCE,N/A,1,0
+A4,6.022,Brakes India Private Limited,N/A,1,0
+A4,6.02,"WILP - IOT,Hyderabad",25000,0,1
+N/A,6.75,AlmaConnect,N/A,1,1
+AA,6.02,Mitigata (Alphawave Technologies Private limited),25000,,1
+N/A,6.62,"Bread Financial , Bengaluru",N/A,1,1
+B3A8,6.02,"Ernst & Young LLP, Gurugram",38000,1,1
+B3,6.02,Centre for Effective Governance of India States (CEGIS) - New Delhi,N/A,,1
+B3,6.02,Bread Financial,N/A,1,0
+A1,6.505,"NCL, Pune",N/A,1,0
+A1,6.071,"NCL, Pune",N/A,1,
+B4A4,6.01,MSA Global Technology and Engineering P Ltd.,25000,1,1
+A1,6.01,"NCL, Pune",N/A,1,
+A4,6.01,73 Strings Pvt. Ltd,N/A,0,1
+A2,6,SP Institute of Workforce Development Pvt Ltd ( Pareekshn),N/A,1,
+A5,6,PharmSight Research and Analytics Pvt. Ltd.,20000,1,
+AB,6,"Grasim Industries,Nagda",N/A,1,0
+A8,5.991,SS Clothing,N/A,1,
+B2A8,5.99,"WILP - IOT,Hyderabad",25000,1,1
+A4,5.99,UST- SI Digital Transform,N/A,0,1
+A1,5.99,"NCL, Pune",N/A,1,
+A1,6.524,Pepper Content,N/A,1,0
+B4A4,5.98,"Satyam Venture Engineering Services Pvt Ltd, Hyderabad",10000,1,1
+B2A8,5.98,"Birla Polyfibers,Harihar",N/A,1,1
+A2,5.972,"Industry Cover, Bengaluru",N/A,1,
+A4,5.971,Aditya Birla Chemicals,N/A,1,0
+A3,5.97,WILP-Center for Immersive Learning,25000,,1
+A4,5.96,"Siemens Energy, Vadodara",40000,0,1
+A8,5.96,CSIR-NAL,N/A,1,0
+B2A4,5.96,Altruist Technologies Private Limited,30000,1,1
+A4,5.953,Colorjet India Limited,N/A,1,
+A3,5.95,"Convrse Spaces- Non Tech, Gurugram",N/A,,1
+A3,5.948,"BookMyXperience-Business Development, New Delhi",N/A,1,0
+A7,5.947,CSIR- BISAG -Bhaskaracharya National Institute for Space Applications and Geo-informatics,N/A,1,0
+A4,5.942,"Divgi TorqTransfer Systems Pvt. Ltd. - Bhosari,Pune",N/A,1,
+A8,5.941,"I-stron Corporation Pvt. Ltd, Mumbai",N/A,1,0
+A5,5.94,"Supra Sciences Private Llmited, Hyderabad",N/A,1,
+A4,5.931,Assiduus Global,N/A,1,0
+B1A3,5.93,Portkey AI - Management,45000,1,1
+A4,5.93,Mitra Robot India Pvt Ltd,25000,0,1
+A7,5.93,"Integrated Active Monitoring Pvt. Ltd.,Pune",N/A,1,0
+A1,7.248,"Philip Capital,Mumbai.",N/A,1,0
+A3,5.925,Synergy systems and solutions,N/A,1,0
+B2AA,5.92,Safalsoftcom,20000,1,1
+N/A,6.32,CloudJune (OPC) PVT Ltd,N/A,1,1
+A1,7.067,"Philip Capital,Mumbai.",N/A,1,0
+A8,5.913,MELSS,10000,1,0
+AA,5.909,Varaha ClimateAg Private Limited,N/A,1,0
+A4,5.909,"Divgi Torq Transfer Systems Ltd. Shirwal,Pune",N/A,1,
+B1A4,5.9,Pepper Content,N/A,1,1
+N/A,6.2,Champion InfoMetrics Pvt Ltd,N/A,1,1
+A4,5.895,SS Clothing,N/A,1,
+A3,5.89,WILP-Center for Immersive Learning,25000,,1
+A4,5.888,Colorjet India Limited,N/A,1,
+A8,5.881,Timble Technologies,N/A,1,
+A8,5.879,PIEDS BITS Pilani,0,1,0
+A1,8.706,"Shell India Markets Pvt. Ltd.,Bengaluru",N/A,1,0
+A3,5.861,CSIR- BISAG -Bhaskaracharya National Institute for Space Applications and Geo-informatics,N/A,1,0
+A4,5.861,CRRI - FINANCE,N/A,1,
+B5A4,5.86,PIEDS BITS Pilani,0,1,1
+A8,5.85,"WILP - Communication Lab, Hyderabad",25000,0,1
+A7,5.85,"UST HR and technology, Thiruvananthapuram",N/A,,1
+B4A4,5.85,Lokal App,35000,1,1
+A2,5.842,Vedant Infra Solution,N/A,1,
+B5AA,5.84,"Weekday (Dayworks pvt ltd), Bengaluru",20000,1,1
+A8,5.84,BigBasket,50000,0,1
+A1,5.914,SS Clothing,N/A,1,
+A4,5.838,"KFin Technologies Private Limited,Hyderabad",N/A,1,
+B5A2,5.836,Indniveza Distributors Private Limited,N/A,1,0
+A4,5.833,"Phodu Club Private Limited, Goa",N/A,1,
+A3,5.83,CRRI - FINANCE,N/A,1,0
+B2A1,5.82,Snitch Apparels Private Limited,N/A,1,1
+A7,5.817,"HERE Technologies India Pvt. Ltd,Mumbai",50000,1,0
+A1,7.51,Stemz Healthcare,N/A,0,1
+B4,5.813,PIEDS BITS Pilani,0,1,0
+A1,6.586,Swift,N/A,1,0
+B2A4,5.81,"CIRT- CENTRAL INSTITUTE OF ROAD TRANSPORT, PUNE",N/A,1,1
+A2,5.809,Assiduus Global,N/A,1,
+A3,5.804,"Prashanu Hospital, Palghar, Maharashtra",N/A,1,0
+N/A,6.19,Nurix Labs Private Limited - Non Tech,N/A,1,1
+A2,5.782,AECOM - Gurugram,N/A,1,
+A8,5.778,"Wald.ai, Silicon Valley, USA",N/A,1,
+A3,5.77,Mitigata (Alphawave Technologies Private limited),25000,,1
+N/A,6.085,"1Clicktech Global Services Pvt. Ltd.,Gurugram",N/A,0,1
+A4,5.768,"Zomato-Sales, PAN INDIA",N/A,1,0
+A2,5.768,The Akshaya Patra Foundation,N/A,1,
+N/A,6.084,Champion InfoMetrics Pvt Ltd,N/A,1,1
+A4,5.743,"TATA MOTORS, , Pimpri Pune",N/A,1,
+A7,5.733,"Hyphen SCS Pvt. Ltd., Noida",N/A,1,0
+A1,5.981,Swift,N/A,1,
+A8,5.72,Vittiki Tech LLP - FINZIE,N/A,1,0
+B2A8,5.72,"Signode India Limited,Hyderabad",N/A,,1
+A7,5.713,Inwise,N/A,1,0
+A3,5.698,Kuhoo Technology Services Pvt Ltd.,N/A,1,
+A3,5.698,"Intellohire, Gurugram",N/A,1,0
+A4,5.694,"Zomato-Sales, PAN INDIA",N/A,1,
+B3A4,5.69,Snitch Apparels Private Limited,N/A,1,1
+A7,5.682,Inwise,N/A,1,0
+B4A3,5.67,"Distinkt.tech, Barcelona, Spain",N/A,1,1
+A2,5.664,"Intellohire, Gurugram",N/A,1,
+AA,5.663,"WILP - IOT,Hyderabad",25000,1,0
+B4A1,5.66,"WILP - AI for Education Innovation Lab, hyderabad. ( (Spanda.ai)",25000,1,1
+A8,5.66,"Craft My Plate(Caterlyse Technologies Pvt Ltd), Hyderabad",N/A,1,
+A8,5.657,"WILP - ACS & Cyber Security and Pentration Testing , Hyderabad",25000,1,0
+B2A2,5.656,"ERP BITS, Hyderabad",N/A,1,0
+B1AB,5.65,Delphi TVS Technologies Ltd.,N/A,1,1
+A3,5.649,"Industry Cover, Bengaluru",N/A,1,0
+A2,5.644,Nangia Andersen LLP,N/A,1,
+A4,5.638,"Indian Institute of Petroleum ( IIP ),Dehradun",20000,1,
+A1,5.838,Tempsens Instruments India Private Limited,N/A,1,
+A7,5.624,NewronData Global Services Private Limited,N/A,1,0
+A7,5.62,"UST HR and technology, Thiruvananthapuram",N/A,,1
+B1A8,5.62,MELSS,10000,1,1
+A3,5.62,INTELLIGENT SYSTEMS,N/A,1,
+A1,8.82,Titan Company Limited,N/A,0,1
+A8,5.6,SkyServe- Hyspace Technologies Pvt Ltd,N/A,0,1
+A4,5.6,"Jaydu India Private Limited, Hyderabad",N/A,1,
+B5,5.592,CRRI-DATA ANALYTICS,N/A,1,0
+A3,5.588,"WILP - ACS & Cyber Security and Pentration Testing , Hyderabad",25000,1,
+A3,5.586,CSIR-NAL,N/A,1,0
+B3,5.585,Bread Financial,N/A,1,0
+B5A8,5.58,"Prashanu Hospital, Palghar, Maharashtra",N/A,1,1
+N/A,6.06,Centre for Effective Governance of India States (CEGIS)- Hyderabad,N/A,1,1
+A8,5.567,"HEX Advisory Group, Gurgaon",N/A,1,0
+N/A,6.02,Indus IntelliRisk & IntelliSense Services Pvt Ltd (IIRIS),N/A,,1
+B3A1,5.55,Goldman Sachs - Bengaluru,191666,0,1
+AA,5.545,"Kofuku Idea Labs Private Limited, Hyderabad",N/A,1,0
+B1AB,5.54,Mitigata (Alphawave Technologies Private limited),25000,0,1
+A1,7.694,Udaan,N/A,1,0
+AA,5.534,SmalBlu,N/A,1,0
+A2,5.523,(Zomentum) Pactora India Private limited,N/A,1,
+A3,5.52,CSIR- BISAG -Bhaskaracharya National Institute for Space Applications and Geo-informatics,N/A,1,0
+A4,5.515,CRRI-DATA ANALYTICS,N/A,1,
+N/A,5.92,"Birla Polyfibers,Harihar",N/A,0,1
+A7,5.505,NewronData Global Services Private Limited,N/A,1,0
+A4,5.505,"Infinity Learn, Bengaluru",N/A,1,
+B5,5.495,"DBOI- CRDU, Pune",50000,1,0
+A2,5.495,CSIR - Central Road Research Institute (CRRI),N/A,1,
+A4,5.49,Mitigata (Alphawave Technologies Private limited),25000,,1
+A8,5.49,"iRasus Technologies Pvt Ltd,Gurugram",N/A,0,1
+A1,7.279,Viacom - Creators Business,N/A,1,0
+B2A2,5.487,Growhut Technologies PVT. LTD.,N/A,1,
+D2,5.484,"WILP - Research, Hyderabad",25000,1,0
+A1,6.451,Vittiki Tech LLP - FINZIE,N/A,1,0
+AA,5.476,Plume Design India Private Limited,N/A,1,0
+AB,5.475,"Turnover Global Pvt Ltd,Sunnyvale, California",N/A,1,
+A4,5.457,"KMV Projects Limited, Chandrapur, Maharashtra - Mechanical",N/A,1,
+A1,6.238,WYLD,N/A,1,0
+A2,5.452,AU Small Finance Bank Ltd,N/A,1,
+B3A3,5.45,"Grasim Industries Ltd - Pulp & Fibre Business - Advanced Analytics, Harihar",N/A,1,1
+A8,5.443,"Zomato-Sales, PAN INDIA",N/A,1,0
+A2,5.433,Assiduus Global,N/A,1,
+B4AA,5.43,"Weekday (Dayworks pvt ltd), Bengaluru",20000,1,1
+A4,5.43,"CIRT- CENTRAL INSTITUTE OF ROAD TRANSPORT, PUNE",N/A,0,1
+B1AB,5.426,"Quickcom solutions private limited, Delhi",N/A,1,
+A5,5.423,"Supra Sciences Private Llmited, Hyderabad",N/A,1,
+A4,5.422,"WILP - Additive manufacturing,Hyderabad",25000,1,
+A3,5.412,CRRI-DATA ANALYTICS,N/A,1,0
+AA,5.41,Snitch Apparels Private Limited,N/A,,1
+B2AB,5.41,CSIR-National Metallurgical Laboratory (NML) Madras Centre,N/A,1,1
+A7,5.408,Inwise,N/A,1,0
+B5A2,5.391,"KMV Projects Limited, Belagavi, Karnataka",N/A,1,0
+A2,5.388,"Zomato-Sales, PAN INDIA",N/A,1,
+N/A,5.9,"CIRT- CENTRAL INSTITUTE OF ROAD TRANSPORT, PUNE",N/A,1,1
+A2,5.365,"Zomato-Sales, PAN INDIA",N/A,1,
+AA,5.357,"Intellihealth Solutions Private Limited, Mumbai",N/A,1,0
+D2,5.343,"FarmersMandi, Bengaluru",N/A,1,0
+B4A2,5.333,"Zomato-Sales, PAN INDIA",N/A,1,
+B4,5.321,"WILP - Communication Lab, Hyderabad",25000,1,0
+A7,5.317,Leadership For Skilled Education Foundation,N/A,1,0
+B5A4,5.31,"WILP - AI for Education Innovation Lab, hyderabad. ( (Spanda.ai)",25000,1,1
+A3,5.297,"WILP - Communication Lab, Hyderabad",25000,1,
+B4A4,5.29,"Digiwokmedia, Visakhapatnam",N/A,1,1
+A4,5.288,"TATA MOTORS, , Pimpri Pune",N/A,1,
+B4A2,5.28,"Signode India Limited,Hyderabad",N/A,0,1
+AB,5.275,"Zomato-Sales, PAN INDIA",N/A,1,
+A4,5.27,"International Aerospace Manufacturing Pvt. Ltd, Bengaluru",20000,0,1
+A2,5.262,CSIR - Central Road Research Institute (CRRI),N/A,1,
+A8,5.25,"Hind High Vacuum (HHV), Hyderabad",N/A,1,
+A7,5.234,Leadership For Skilled Education Foundation,N/A,1,0
+A8,5.23,"Signode India Limited,Hyderabad",N/A,0,1
+B4,5.206,SmalBlu,N/A,1,
+N/A,5.77,"Grasim Industries Ltd - Pulp & Fibre Business - Advanced Analytics, Baroda/Vilayat",N/A,,1
+A4,5.157,"Zomato-Sales, PAN INDIA",N/A,1,
+A3TS,5.149,Mitigata (Alphawave Technologies Private limited),25000,0,1
+AA,5.134,"Zomato-Sales, PAN INDIA",N/A,1,0
+A4,5.121,"Startup TN Innovation Mission, Chennai",N/A,1,
+AA,5.119,Colorjet India Limited,N/A,1,
+A5,5.104,"Supra Sciences Private Llmited, Hyderabad",N/A,1,
+D2,5.1,"Signode India Limited,Hyderabad",N/A,,1
+A1,6.33,Zolve Innovations Pvt. Ltd.,N/A,1,0
+A4,5.065,"Zomato-Sales, PAN INDIA",N/A,1,
+B5A2,5.06,"WILP - Communication Lab, Hyderabad",25000,0,1
+A3,5.04,UnifyApp,N/A,1,
+A8,5.04,"Grasim Industries Ltd - Pulp & Fibre Business - Smart Asset Maintenance , Harihar",N/A,,1
+AA,5.038,"Quadrant Technologies, Hyderabad",15000,1,0
+B2A1,5.01,Pioneer Electrocables Pvt Ltd,10000,1,1
+N/A,5.75,Grasim Industries Ltd. (Chemical Division) Mechanical,N/A,0,1
+B1,5,"WILP- Intelligent systems / AI/ML / Cyber Intelligence, Hyderabad",25000,1,0
+N/A,5.51,"CIRT- CENTRAL INSTITUTE OF ROAD TRANSPORT, PUNE",N/A,,1
+AA,4.96,Snitch Apparels Private Limited,N/A,0,1
+B3A3,4.95,"ServCrust Private Limited, Hyderabad",10000,0,1
+A7,4.944,"ERP BITS, Hyderabad",N/A,1,0
+B3,4.931,PIEDS BITS Pilani,0,1,0
+N/A,5.37,"Signode India Limited,Hyderabad",N/A,0,1
+A2,4.908,CSIR- BISAG -Bhaskaracharya National Institute for Space Applications and Geo-informatics,N/A,1,
+A8,4.897,"WILP - IOT,Hyderabad",25000,1,
+A2,4.875,"Zomato-Sales, PAN INDIA",N/A,1,
+B2,4.82,The Affordable Organic Store,N/A,0,1
+A8,4.81,"ENEA, Hyderabad",N/A,,1
+N/A,5.01,CSIR-National Metallurgical Laboratory (NML) Madras Centre,N/A,0,1
+B5,4.8,Lokal App,35000,,1
+A2,4.79,Snitch Apparels Private Limited,N/A,0,1
+AA,4.79,"Prashanu Hospital, Palghar, Maharashtra",N/A,,1
+A3,4.79,Grasim Industries Ltd. (Chemical Division) Electrical,N/A,,1
+A1,6.157,"Zomato-Sales, PAN INDIA",N/A,1,0
+A4,4.74,"Zomato-Sales, PAN INDIA",N/A,1,
+A2,4.73,Sri Venkatachalapathy Constructions Private Limited,N/A,0,1
+N/A,4.91,The Affordable Organic Store,N/A,0,1
+A2,4.71,Sri Venkatachalapathy Constructions Private Limited,N/A,0,1
+N/A,4.8,The Affordable Organic Store,N/A,0,1
+A8,4.649,"WILP - ACS & Cyber Security and Pentration Testing , Hyderabad",25000,1,
+A3,4.636,SmalBlu,N/A,1,
+B4A4,4.63,Pioneer Electrocables Pvt Ltd,10000,1,1
+D2,4.6,"West Palm Consultants Pvt. Ltd, Jaipur",N/A,1,
+A1,5.48,"Zomato-Sales, PAN INDIA",N/A,1,
+B1,4.41,Suprasciences Pvt Ltd,N/A,,1
+D2,4.406,"WILP - Research, Hyderabad",25000,1,
+A8,4.369,"Cosmofeed, Gurugram,",N/A,1,
+B2,4.33,BigBasket,50000,0,1
+A2,4.306,"Zomato-Sales, PAN INDIA",N/A,1,
+A7,4.26,"SG Analytics, Pune",N/A,0,1
+A4,4.228,"Trulogik, Inc.",N/A,1,0
+A4,4.212,Hari Construction and Associates Pvt Ltd,N/A,1,
+N/A,4.17,"1Clicktech Global Services Pvt. Ltd.,Gurugram",N/A,,1
+B2A1,3.9,"Birla Cellulose, Kharach",N/A,1,1
+B1,3.747,"iBRIC-inStem, Bangalore",N/A,1,0
