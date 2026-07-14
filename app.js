@@ -17,7 +17,6 @@ const STATE = {
 };
 
 // Elements
-const elLoader = document.getElementById('loader');
 const elContent = document.getElementById('content-area');
 const elTitle = document.getElementById('page-title');
 const elSubtitle = document.getElementById('page-subtitle');
@@ -49,7 +48,16 @@ async function init() {
                 populateFilters();
                 applyFilters(); // This will also trigger rendering
                 
-                elLoader.classList.add('hidden');
+                // Fade out splash screen
+                const splash = document.getElementById('splash-screen');
+                if (splash) {
+                    setTimeout(() => {
+                        splash.classList.add('fade-out');
+                        // Optional: remove from DOM completely after transition
+                        setTimeout(() => splash.remove(), 600);
+                    }, 600);
+                }
+                
                 elContent.classList.remove('hidden');
                 
                 setupEventListeners();
