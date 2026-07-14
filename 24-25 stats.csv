@@ -53,7 +53,7 @@ A3,9.36,"Renesas, Hyderabad",45000,0,1
 A7,9.35,"Singlestore India Pvt Ltd,Hyderabad",150000,0,1
 B4A7,9.35,"Singlestore India Pvt Ltd,Hyderabad",150000,1,1
 A7,9.4,IMC India Securities Private Limited,550000,0,1
-A7B3,9.33,JPMC GF&BM FESA Data Science,175000,0,1
+B3A7,9.33,JPMC GF&BM FESA Data Science,175000,0,1
 AA,9.33,"Flipkart (Software Development),Bengaluru",100000,0,1
 A7,9.33,"Cohesity Storage Solutions India Pvt. Ltd., Bengaluru/Pune",120000,0,1
 AA,9.324,JPMC GR&C AWM Risk Analytics – Quantitative Research,175000,1,0
@@ -624,7 +624,7 @@ AA,8.1,"Micron Technology, Hyderabad/ Bangalore",50000,0,1
 A7,8.1,JPMC CIB R&A – Banking,75000,0,1
 A8,8.092,Telus International - Software Engineering,102000,1,0
 B2A8,8.09,"UBS- QRM, Mumbai",60000,1,1
-A8B5,8.09,Telus International - Software Engineering,102000,1,1
+B5A8,8.09,Telus International - Software Engineering,102000,1,1
 B3A7,8.09,Nomura- Global Markets-Analyst role,N/A,1,1
 B4A1,8.09,Nomura IT Internship - GMIT - Trade Processing,N/A,1,1
 B3A7,8.09,"Flipkart (Software Development),Bengaluru",100000,1,1
